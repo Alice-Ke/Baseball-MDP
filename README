@@ -1,0 +1,61 @@
+This is the code & data folder for ELEN 6001 advanced project.
+
+* Project: Explore Batting Strategies using Markov Decision Process
+* Author: Pu Ke
+* Columbia Unit: pk2532
+
+===================================================================
+
+The folders & files in this folder can be categorized into 4 types:
+
+1. Data folders:
+	all the folders named with year+eve
+	(the play-by-play baseball data from 1991 - 2017 is download from 
+	http://www.retrosheet.org)
+
+2. Log files:
+	diff27pitcher.txt: policies produced for each year & each pitcher
+	diff27evaluation.txt: evaluation produced for each train/test pair
+	reverseRL.txt: reward function tuning process
+
+3. Code: ( ordered from the low to high )
+	 process.py: data cleaning and preprocessing
+	 bellman.py: value-iteration and policy-evaluation algorithm 
+	 	implementations 
+	 stats.py: the basic mathematical and statistical functions used 
+	 	in the main file calc.py
+	 calc.py: top-level file
+	 ( Running it may take some time, since it's iterating the 
+	 parameters for reward functions, and also calculating probability 
+	 matrix, value-iteration, policy-evaluation for all the data points ) 
+
+	 type "python3 calc.py" to run the top-level file, while there is
+	 also some testing code writen in each module.
+
+4. Pickle files:
+	generalProb.p: store the general transition probabilities for each year
+	pitcherProb.p: store the pitcher-specific transition probabilites
+		for each pitcher in each year
+
+	The pickle files are just used to save time when calculating the 
+	probabilites. If you want to see the actual calculation process 
+	from the begining, you can comment the lines:
+
+		pitcherProb = pickle.load( open( "pitcherProb.p", "rb" ) )
+		generalProb = pickle.load( open( "generalProb.p", "rb" ) )
+
+	and uncomment the lines:
+
+		for year in totalYears:
+	    	prooduceGeneralStats(year)
+
+	inside the calc.py
+
+===================================================================
+
+If any problem occurs when running the code, please contact me at 
+347-843-9151 or pk2532@columbia.edu. Thanks!
+
+
+
+

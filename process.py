@@ -1,3 +1,5 @@
+# author: Pu Ke, 
+# uni: pk2532
 import re
 import numpy as np
 
@@ -60,15 +62,12 @@ class Process():
 		info = arr[5]
 		
 		res = arr[6]
-		# print(info, res,"	", line)
 		# ball, strike
 		start = (0,0)
 		prev = (0,0)
-		# action = 0
 		# print( info, res )
 		for i in range( len( info ) ):
 			cur_info = info[i]
-			# print(info, line )
 			# ball or pitch out
 			if( cur_info in [ 'B', 'P', 'I' ] ):
 				dateDict["Pitches"] = dateDict["Pitches"] + 1
@@ -140,12 +139,9 @@ class Process():
 				# print(line, cur_info)
 				continue
 			# add trans to matrix
-			# print("the pitch", info[i])
-			# print( dateDict["Pitches"] )
 			self.p[action, states[prev], states[cur]] = self.p[action, states[prev], states[cur]] + 1
 			prev = cur
-		 # print( line, cur_info, cur )
-		 # print( p )
+
 
 	def output_home( self, lines, name, matchCount, teamsDict ):
 		i = 0
@@ -156,7 +152,6 @@ class Process():
 				while j >= 0:
 					if re.match(r'info,date,.*', lines[j] ):
 						date = lines[j][10: ]
-
 						matchCount[0] = matchCount[0] + 1
 						team = lines[j-3][13: ]
 						if team not in teamsDict:
@@ -177,10 +172,6 @@ class Process():
 							postPlayer = lines[i+1].split(',')[3]
 							flag = player != postPlayer
 						if flag:
-							
-								# print(lines[i])
-								# print(date)
-								# print(teamsDict[team][date])
 							self.countstate( lines[i], teamsDict[team][date] )
 					i = i + 1
 			elif ( "sub," + name ) in lines[i]:
@@ -188,9 +179,6 @@ class Process():
 				while j >= 0:
 					if re.match(r'info,date,.*', lines[j] ):
 						date = lines[j][10: ]
-
-						# print(date)
-
 						matchCount[0] = matchCount[0] + 1
 						team = lines[j-3][13: ]
 						if team not in teamsDict:
@@ -216,12 +204,8 @@ class Process():
 							self.countstate( lines[i], teamsDict[team][date] )
 					i = i + 1           
 			i = i + 1
-		# print(count)
-		# print(team)
 
 	def output_visit( self, lines, name, matchCount, teamsDict ):
-		# lines = f.readlines()
-		# print(lines)
 		i = 0
 		while i < len( lines ):
 			if ( "start," + name ) in lines[i]:
@@ -230,9 +214,6 @@ class Process():
 				while j >= 0:
 					if re.match(r'info,date,.*', lines[j] ):
 						date = lines[j][10: ]
-
-						# print(date)
-
 						matchCount[0] = matchCount[0] + 1
 						team = lines[j-2][14: ]
 						if team not in teamsDict:
@@ -262,9 +243,6 @@ class Process():
 				while j >= 0:
 					if re.match(r'info,date,.*', lines[j] ):
 						date = lines[j][10: ]
-
-						# print(date)
-
 						matchCount[0] = matchCount[0] + 1
 						team = lines[j-3][13: ]
 						if team not in teamsDict:
@@ -285,8 +263,6 @@ class Process():
 							postPlayer = lines[i+1].split(',')[3]
 							flag = player != postPlayer
 						if flag:
-							# print(lines[i])
-							# print( "compare", player, postPlayer)
 							self.countstate( lines[i], teamsDict[team][date] )
 					i = i + 1           
 			i = i + 1

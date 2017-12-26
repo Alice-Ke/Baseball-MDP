@@ -1,3 +1,6 @@
+# author: Pu Ke, 
+# uni: pk2532
+
 import os
 import process
 import stats
@@ -8,14 +11,13 @@ import collections
 import csv
 import pickle
 
-# input: year, name
-# return: sump, P, statsdict
 
-pitcherProb = {}
-generalProb = {}
+
+# pitcherProb = {}
+# generalProb = {}
 # =====================================================================
-# pitcherProb = pickle.load( open( "pitcherProb.p", "rb" ) )
-# generalProb = pickle.load( open( "generalProb.p", "rb" ) )
+pitcherProb = pickle.load( open( "pitcherProb.p", "rb" ) )
+generalProb = pickle.load( open( "generalProb.p", "rb" ) )
 # =====================================================================
 pitcherPolicy = {}
 generalPolicy = {}
@@ -25,7 +27,10 @@ generalV = {}
 
 intuitivePolicy = [ 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0 ]
 
-years = ["2008", "2009", "2010", "2011", "2012", "2013"]
+totalYears = []
+for i in range( 1991, 2018 ):
+	totalYears.append( str(i) )
+
 trainlabels = ["g", "p", "i"]
 
 def produceStats( year, name, playerteam, playerid ):
@@ -34,6 +39,8 @@ def produceStats( year, name, playerteam, playerid ):
 
 # return big p sum, dict: name - P, statsDict
 def prooduceGeneralStats( year ):
+	print(" ")
+	print( "iterate through players in year: ", year, ", to gather the probability" )
 	directory = os.fsencode(year + "eve")
 
 		# park - team - date - stats
@@ -65,10 +72,10 @@ def prooduceGeneralStats( year ):
 			continue
 		sump, P, statsDict = produceStats( year, e, playerteam, playerid  )
 		pitcherProb[year+e] = P
-		# bigpsum = np.add(bigpsum, np.divide( sump[:, 0:12, :], 25 ) )
-		bigpsum = np.add( bigpsum, sump[:, 0:12, :])
+		bigpsum = np.add(bigpsum, np.divide( sump[:, 0:12, :], 50 ) )
+		# bigpsum = np.add( bigpsum, sump[:, 0:12, :])
 		# stats.prettyPrint(statsDict)
-		print(np.sum( np.sum( sump ) ) )
+		print("total pitch counts: ", np.sum( np.sum( sump ) ) )
 	
 	sumP = np.sum( bigpsum, axis=2 ).reshape(2, 12, 1)
 	sumP[sumP==0] = 1
@@ -108,23 +115,13 @@ def evaluate( R, pitcher, trainLabel, trainYear, testYear ):
 		V = mdp.policy_evaluation(prob, R, policy, 1, 2.22 * 10 ** (-16), 100, 12, 2)
 		return V
 
-# print( J2010 )
-
-# writer.writerow(["name", "Train2008_Test2009_g", "Train2008_Test2009_p","Train2008_Test2009_i", "Train2008_Test2010_g","Train2008_Test2010_p", "Train2008_Test2010_i", 
-# 						"Train2009_Test2008_g","Train2009_Test2008_p", "Train2009_Test2008_i", "Train2009_Test2010_g", "Train2009_Test2010_p", "Train2009_Test2010_i", 
-# 						"Train2010_Test2008_g", "Train2010_Test2008_p","Train2010_Test2008_i", "Train2010_Test2009_g", "Train2010_Test2009_p", "Train2010_Test2009_i" ])
- 
-
-
-# compareDict = {
-# 	"20082009": 0,
-# 	"20082010": 0,
-# 	"20092008": 0,
-# 	"20092010": 0,
-# 	"20102008": 0,
-# 	"20102009": 0
-# }
 def calculateDiffPlayers( S, D, T, HR, W ):
+	# =====================================================================
+	# for year in totalYears:
+	# 	prooduceGeneralStats(year)
+	# pickle.dump(generalProb , open( "generalProb.p", "wb" ) )
+	# pickle.dump(pitcherProb, open( "pitcherProb.p", "wb" ) )
+	# =====================================================================
 	R = np.zeros((2, 12, 18))
 	for i in range(12):
 		R[1, i, 13] = S
@@ -136,25 +133,10 @@ def calculateDiffPlayers( S, D, T, HR, W ):
 	for key in generalProb:
 		vi = mdp.value_iteration(generalProb[key], R, 1, 2.22 * 10 ** (-16), 100, 12, 2)
 		generalPolicy[key] = vi[0]
-		# print( key )
-		# print( vi[0] )
 
 	for key in pitcherProb:
 		vi = mdp.value_iteration(pitcherProb[key], R, 1, 2.22 * 10 ** (-16), 100, 12, 2)
 		pitcherPolicy[key] = vi[0]
-		# print( key )
-		# print( vi[0] )
-# csv part
-	# outcsv=open('./result.csv','w')
-	# writer = csv.writer(outcsv)
-	# headerrow = ["name"]
-	# for trainYear in years:
-	# 	for testYear in years:
-	# 		if trainYear != testYear:
-	# 			for trainlabel in trainlabels:
-	# 				header = trainYear + testYear + trainlabel
-	# 				headerrow.append( header )
-	# writer.writerow(headerrow)
 
 	resultDict = {}
 	totalCountElites = 0
@@ -170,26 +152,21 @@ def calculateDiffPlayers( S, D, T, HR, W ):
 	resultCountNonElites = 0
 	
 	for i in range( len( stats.players ) ):
-		csvrow = []
 		name = stats.players[i]
-		csvrow.append( name )
-		for trainYear in years:
-			for testYear in years:
+		for trainYear in totalYears:
+			for testYear in totalYears:
 				if trainYear != testYear:
 					keyprefix = name + trainYear + testYear
 					for trainlabel in trainlabels:
 						evaluateResult = evaluate( R, name, trainlabel, trainYear, testYear )[0]
-						csvrow.append( evaluateResult )
 						resultDict[keyprefix + trainlabel] = evaluateResult
-					# if( resultDict[keyprefix + 'p'] > resultDict[keyprefix + 'g'] ):
-					# 	compareDict[trainYear+testYear] = compareDict[trainYear+testYear] + 1
 					if( resultDict[keyprefix + 'i'] == None or resultDict[keyprefix + 'g'] == None or resultDict[keyprefix + 'p'] == None ):
 						continue
 					if i <= 24:
 						totalCountElites = totalCountElites + 1
 					else:
 						totalCountNonElites = totalCountNonElites + 1
-# csv part
+
 					# if( resultDict[keyprefix + 'i'] > resultDict[keyprefix + 'g'] and resultDict[keyprefix + 'i'] > resultDict[keyprefix + 'p'] ):
 					# 	if i <= 24:
 					# 		intuitiveCountElites = intuitiveCountElites + 1
@@ -211,37 +188,33 @@ def calculateDiffPlayers( S, D, T, HR, W ):
 							resultCountElites = resultCountElites + 1
 						else:
 							resultCountNonElites = resultCountNonElites + 1
-	return ( resultCountElites/totalCountElites, resultCountNonElites/totalCountNonElites )
 
-# csv part
-		# writer.writerow( csvrow )
+	# print( intuitiveCountElites,pitcherCountElites,generalCountElites )
+	# print(" ")
+	# print( intuitiveCountNonElites,pitcherCountNonElites,generalCountNonElites)
+	# print( resultDict )
 
-		# compare elites and nonelites general stats
-	# print(" Elites ")
-	# print( intuitiveCountElites / totalCountElites )
-	# print( pitcherCountElites / totalCountElites )
-	# print( generalCountElites / totalCountElites )
+	for key in resultDict:
+		if resultDict[key] != None:
+			print( "the evaluation result for ‘name-trainYear-testYear-label ", key, ", is: ", resultDict[key] )
+	return ( resultCountElites/totalCountElites, resultCountNonElites/totalCountNonElites, (resultCountElites+resultCountNonElites)/(totalCountElites+totalCountNonElites) )
 
-	# print(" NonElites ")
-	# print( intuitiveCountNonElites / totalCountNonElites )
-	# print( pitcherCountNonElites / totalCountNonElites )
-	# print( generalCountNonElites / totalCountNonElites )
-
-if __name__ == '__main__':
-
+def reverseRL():
 	# =====================================================================
-	for year in years:
-		prooduceGeneralStats(year)
-	pickle.dump(generalProb , open( "generalProb.p", "wb" ) )
-	pickle.dump(pitcherProb, open( "pitcherProb.p", "wb" ) )
+	# for year in totalYears:
+	# 	prooduceGeneralStats(year)
+	# pickle.dump(generalProb , open( "generalProb.p", "wb" ) )
+	# pickle.dump(pitcherProb, open( "pitcherProb.p", "wb" ) )
 	# =====================================================================
-
+	print("reverse reinforcement learning to calculate best rewards for S, D, T, HR, W" )
 	W = 1
 	S = 1
 	maxElite = 0
 	maxNonElite = 0
+	maxTotal = 0
 	maxElitePara = (0,0,0,0,0)
 	maxNonElitePara = (0,0,0,0,0)
+	maxTotalPara = (0,0,0,0,0)
 	step = 0.5
 	while S < 3:
 		S = S + step
@@ -255,46 +228,64 @@ if __name__ == '__main__':
 				while HR < 7.5:
 					HR = HR + step
 					print(" ")
-					print( S, D, T, HR, W )
-					resElite, resNonElite = calculateDiffPlayers(S, D, T, HR, W) 
+					print("S, D, T, HR, W: ", S, D, T, HR, W )
+					resElite, resNonElite, resTotal = calculateDiffPlayers(S, D, T, HR, W) 
 					if resElite >= maxElite:
 						maxElite = resElite
 						maxElitePara = ( S, D, T, HR, W )
 					if resNonElite >= maxNonElite:
 						maxNonElite = resNonElite
 						maxNonElitePara = ( S, D, T, HR, W )
+					if resTotal >= maxTotal:
+						maxTotal = resTotal
+						maxTotalPara = ( S, D, T, HR, W )
 
-					print( calculateDiffPlayers(S, D, T, HR, W) )
+					print("policy evaluation for elites, non-elites and totoal: ", calculateDiffPlayers(S, D, T, HR, W) )
 	print( maxElite, maxElitePara )
 	print( maxNonElite, maxNonElitePara )
+	print( maxTotal, maxTotalPara )
+
+def getDiffYearPolicy():
+	# =====================================================================
+	# for year in totalYears:
+	# 	prooduceGeneralStats(year)
+	# pickle.dump(generalProb , open( "generalProb.p", "wb" ) )
+	# pickle.dump(pitcherProb, open( "pitcherProb.p", "wb" ) )
+	# =====================================================================
+	R = np.zeros((2, 12, 18))
+	for i in range(12):
+		R[1, i, 13] = 2 #1.5 
+		R[1, i, 14] = 3 #2.0 
+		R[1, i, 15] = 4 #2.5 
+		R[1, i, 16] = 5 #3.0 
+		R[0, i, 17] = 1.0
+
+	for key in generalProb:
+		vi = mdp.value_iteration(generalProb[key], R, 1, 2.22 * 10 ** (-16), 100, 12, 2)
+		generalPolicy[key] = vi[0]
+
+
+	for key in pitcherProb:
+		vi = mdp.value_iteration(pitcherProb[key], R, 1, 2.22 * 10 ** (-16), 100, 12, 2)
+		pitcherPolicy[key] = vi[0]
+
+		
+	for key in sorted(generalPolicy):
+		print( "calculate genral policy for year: ", key, ", the policy is: ", generalPolicy[key] )
+
+	for key in sorted(pitcherPolicy):
+		print( "calculate pitcher-specific policy for year+pitcher: ", key, ", the policy is: ", pitcherPolicy[key] )
+
+		
+
+if __name__ == '__main__':
+
+	# get the general policies for 27 years:
+	getDiffYearPolicy()
+
+	# get the evaluation results for each train/test pair: 
+	# calculateDiffPlayers( 2, 3, 4, 5, 1 )
+
+	# reward function tuning part:
+	# reverseRL()
 	
-   
-# print(" ")
-# stat1 = stats.Stat()
-# e, P2009Hallady, statsDict2009Hallady = stat1.outputP("2009", "Halladay,Roy" ) 
-# stats.prettyPrint( statsDict2009Hallady )
-# # print(P2009Hallady)
-
-# print(" ")
-# stat2 = stats.Stat()
-# e, P2010Hallady, statsDict2010Hallady = stat2.outputP("2010", "Halladay,Roy" ) 
-# stats.prettyPrint( statsDict2010Hallady )
-# print(P2010Hallady)
-
-# # ---------------------------------------------
-# print(" ")
-# vi = mdp.value_iteration(P2009Hallady, stats.R, 1, 2.22 * 10 ** (-16), 100, 12, 2)
-# policy_V2009Hallady = vi[0]
-# print(policy_V2009Hallady)
-
-# J2010 = mdp.policy_evaluation(P2010Hallady, stats.R, policy_V2009Hallady, 1, 2.22 * 10 ** (-16), 100, 12, 2)
-# print( J2010 )
-# vi = mdp.value_iteration(P2010Hallady, stats.R, 1, 2.22 * 10 ** (-16), 100, 12, 2)
-# policy_V2010Hallady = vi[0]
-# print(policy_V2010Hallady)
-
-# J2008 = mdp.policy_evaluation(P2008Hallady, stats.R, policy_V2009Hallady, 1, 2.22 * 10 ** (-16), 100, 12, 2)
-# print( J2008 )
-# vi = mdp.value_iteration(P2008Hallady, stats.R, 1, 2.22 * 10 ** (-16), 100, 12, 2)
-# policy_V2008Hallady = vi[0]
-# print(policy_V2008Hallady)

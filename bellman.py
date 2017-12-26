@@ -8,13 +8,8 @@ def getSpan( array ):
 
 def _bellmanOperator(P, R, discount, V, s, a):
 		Q = np.empty((a, s))
-		# V = np.concatenate(( V, np.zeros((6)) ), axis = 0 )
 		for aa in range(a):
-			# print( np.multiply( P[aa], R[aa] ).shape )
 			Q[aa] = np.sum( np.multiply( P[aa], R[aa] ) , 1 ) + discount * np.dot( ( P[aa][ :, 0:12 ] ), V )
-		# Get the policy and value, for now it is being returned but...
-		# Which way is better?
-		# 1. Return, (policy, value)
 		return (Q.argmax(axis=0), Q.max(axis=0))
 
 
@@ -27,7 +22,6 @@ def value_iteration( P, R, discount, thresh, max_iter, s, a ):
 		# Bellman Operator: compute policy and value functions
 		policy, V = _bellmanOperator(P, R, discount, Vprev, s, a)
 		variation = getSpan(V - Vprev)
-		# print(variation)
 
 		if thresh is not None and variation < thresh:
 			# print("min thresh")

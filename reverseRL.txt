@@ -1,0 +1,8389 @@
+ 
+iterate through players in year:  1991 , to gather the probability
+ 
+1991 Halladay,Roy
+None
+ 
+1991 Lee,Cliff
+None
+ 
+1991 Hamels,Cole
+None
+ 
+1991 Lester,Jon
+None
+ 
+1991 Greinke,Zack
+None
+ 
+1991 Lincecum,Tim
+None
+ 
+1991 Sabathia,CC
+None
+ 
+1991 Santana,Johan
+None
+ 
+1991 Hernandez,Felix
+None
+ 
+1991 Billingsley,Chad
+None
+ 
+1991 Weaver,Jered
+None
+ 
+1991 Kershaw,Clayton
+None
+ 
+1991 Carpenter,Chris
+None
+ 
+1991 Garza,Matt
+None
+ 
+1991 Wainwright,Adam
+None
+ 
+1991 Jimenez,Ubaldo
+None
+ 
+1991 Cain,Matt
+None
+ 
+1991 Sanchez,Jonathan
+None
+ 
+1991 Oswalt,Roy
+None
+ 
+1991 Verlander,Justin
+None
+ 
+1991 Johnson,Josh
+None
+ 
+1991 Danks,John
+None
+ 
+1991 Jackson,Edwin
+None
+ 
+1991 Scherzer,Max
+None
+ 
+1991 Lilly,Ted
+None
+ 
+1991 Lowe,Derek
+None
+ 
+1991 Penny,Brad
+None
+ 
+1991 Hammel,Jason
+None
+ 
+1991 Masterson,Justin
+None
+ 
+1991 Porcello,Rick
+None
+ 
+1991 Saunders,Joe
+None
+ 
+1991 Hamels,Cole
+None
+ 
+1991 Hernandez,Livan
+None
+ 
+1991 Jackson,Edwin
+None
+ 
+1991 Pelfrey,Mike
+None
+ 
+1991 Blanton,Joe
+None
+ 
+1991 Millwood,Kevin
+None
+ 
+1991 Guthrie,Jeremy
+None
+ 
+1991 Cahill,Trevor
+None
+ 
+1991 Cueto,Johnny
+None
+ 
+1991 Francis,Jeff
+None
+ 
+1991 Baker,Scott
+None
+ 
+1991 Volstad,Chris
+None
+ 
+1991 Kendrick,Kyle
+None
+ 
+1991 Maholm,Paul
+None
+ 
+1991 Myers,Brett
+None
+ 
+1991 Morton,Charlie
+None
+ 
+1991 Weaver,Jered
+None
+ 
+1991 Duke,Zach
+None
+ 
+1991 Bannister,BrianMartinez,Pedro
+None
+ 
+1991 Brown,Kevin
+total pitch counts:  3366.0
+ 
+1991 Johnson,Randy
+total pitch counts:  3703.0
+ 
+1991 Maddux,Greg
+total pitch counts:  3687.0
+ 
+1991 Hampton,Mike
+None
+ 
+1991 Schilling,Curt
+total pitch counts:  1169.0
+ 
+1991 Burkett,John
+total pitch counts:  3079.0
+ 
+1991 Garcia,Freddy
+None
+ 
+1991 Mays,Joe
+None
+ 
+1991 Buehrle,Mark
+None
+ 
+1991 Zito,Barry
+None
+ 
+1991 Hudson,Tim
+None
+ 
+1991 Oswalt,Roy
+None
+ 
+1991 Wolf,Randy
+None
+ 
+1991 Nomo,Hideo
+None
+ 
+1991 Stottlemyre,Todd
+total pitch counts:  3340.0
+ 
+1991 Leiter,Ai
+None
+ 
+1991 Tapani,Kevin
+total pitch counts:  3382.0
+ 
+1991 Rogers,Kenny
+total pitch counts:  1787.0
+ 
+1991 Guzman,Juan
+total pitch counts:  2314.0
+ 
+1991 Fernandez,Alex
+total pitch counts:  3171.0
+ 
+1991 Hentgen,Pat
+total pitch counts:  113.0
+ 
+1991 Benes,Andy
+total pitch counts:  3466.0
+ 
+1991 Erickson,Scott
+total pitch counts:  2969.0
+ 
+1991 Nagy,Charles
+total pitch counts:  3291.0
+ 
+1991 Martinez,Dennis
+total pitch counts:  3363.0
+ 
+1991 Martinez,Ramon
+total pitch counts:  3520.0
+ 
+1991 Pettitte,Andy
+None
+ 
+1991 Wells,David
+total pitch counts:  2823.0
+ 
+1991 Mcdowell,Jack
+None
+ 
+1991 Rijo,Jose
+total pitch counts:  3022.0
+ 
+1991 Finley,Chuck
+total pitch counts:  3807.0
+ 
+1991 Appier,Kevin
+total pitch counts:  3389.0
+ 
+1991 Smoltz,John
+total pitch counts:  3450.0
+ 
+1991 Cone,David
+total pitch counts:  3750.0
+ 
+1991 Mussina,Mike
+total pitch counts:  1310.0
+ 
+1991 Glavine,Tom
+total pitch counts:  3620.0
+ 
+iterate through players in year:  1992 , to gather the probability
+ 
+1992 Halladay,Roy
+None
+ 
+1992 Lee,Cliff
+None
+ 
+1992 Hamels,Cole
+None
+ 
+1992 Lester,Jon
+None
+ 
+1992 Greinke,Zack
+None
+ 
+1992 Lincecum,Tim
+None
+ 
+1992 Sabathia,CC
+None
+ 
+1992 Santana,Johan
+None
+ 
+1992 Hernandez,Felix
+None
+ 
+1992 Billingsley,Chad
+None
+ 
+1992 Weaver,Jered
+None
+ 
+1992 Kershaw,Clayton
+None
+ 
+1992 Carpenter,Chris
+None
+ 
+1992 Garza,Matt
+None
+ 
+1992 Wainwright,Adam
+None
+ 
+1992 Jimenez,Ubaldo
+None
+ 
+1992 Cain,Matt
+None
+ 
+1992 Sanchez,Jonathan
+None
+ 
+1992 Oswalt,Roy
+None
+ 
+1992 Verlander,Justin
+None
+ 
+1992 Johnson,Josh
+None
+ 
+1992 Danks,John
+None
+ 
+1992 Jackson,Edwin
+None
+ 
+1992 Scherzer,Max
+None
+ 
+1992 Lilly,Ted
+None
+ 
+1992 Lowe,Derek
+None
+ 
+1992 Penny,Brad
+None
+ 
+1992 Hammel,Jason
+None
+ 
+1992 Masterson,Justin
+None
+ 
+1992 Porcello,Rick
+None
+ 
+1992 Saunders,Joe
+None
+ 
+1992 Hamels,Cole
+None
+ 
+1992 Hernandez,Livan
+None
+ 
+1992 Jackson,Edwin
+None
+ 
+1992 Pelfrey,Mike
+None
+ 
+1992 Blanton,Joe
+None
+ 
+1992 Millwood,Kevin
+None
+ 
+1992 Guthrie,Jeremy
+None
+ 
+1992 Cahill,Trevor
+None
+ 
+1992 Cueto,Johnny
+None
+ 
+1992 Francis,Jeff
+None
+ 
+1992 Baker,Scott
+None
+ 
+1992 Volstad,Chris
+None
+ 
+1992 Kendrick,Kyle
+None
+ 
+1992 Maholm,Paul
+None
+ 
+1992 Myers,Brett
+None
+ 
+1992 Morton,Charlie
+None
+ 
+1992 Weaver,Jered
+None
+ 
+1992 Duke,Zach
+None
+ 
+1992 Bannister,BrianMartinez,Pedro
+None
+ 
+1992 Brown,Kevin
+total pitch counts:  3774.0
+ 
+1992 Johnson,Randy
+total pitch counts:  3772.0
+ 
+1992 Maddux,Greg
+total pitch counts:  3743.0
+ 
+1992 Hampton,Mike
+None
+ 
+1992 Schilling,Curt
+total pitch counts:  3260.0
+ 
+1992 Burkett,John
+total pitch counts:  2780.0
+ 
+1992 Garcia,Freddy
+None
+ 
+1992 Mays,Joe
+None
+ 
+1992 Buehrle,Mark
+None
+ 
+1992 Zito,Barry
+None
+ 
+1992 Hudson,Tim
+None
+ 
+1992 Oswalt,Roy
+None
+ 
+1992 Wolf,Randy
+None
+ 
+1992 Nomo,Hideo
+None
+ 
+1992 Stottlemyre,Todd
+total pitch counts:  2737.0
+ 
+1992 Leiter,Ai
+None
+ 
+1992 Tapani,Kevin
+total pitch counts:  3374.0
+ 
+1992 Rogers,Kenny
+total pitch counts:  1190.0
+ 
+1992 Guzman,Juan
+total pitch counts:  2988.0
+ 
+1992 Fernandez,Alex
+total pitch counts:  2961.0
+ 
+1992 Hentgen,Pat
+total pitch counts:  935.0
+ 
+1992 Benes,Andy
+total pitch counts:  3488.0
+ 
+1992 Erickson,Scott
+total pitch counts:  3111.0
+ 
+1992 Nagy,Charles
+total pitch counts:  3602.0
+ 
+1992 Martinez,Dennis
+total pitch counts:  3294.0
+ 
+1992 Martinez,Ramon
+total pitch counts:  2518.0
+ 
+1992 Pettitte,Andy
+None
+ 
+1992 Wells,David
+total pitch counts:  1884.0
+ 
+1992 Mcdowell,Jack
+None
+ 
+1992 Rijo,Jose
+total pitch counts:  3111.0
+ 
+1992 Finley,Chuck
+total pitch counts:  3366.0
+ 
+1992 Appier,Kevin
+total pitch counts:  3201.0
+ 
+1992 Smoltz,John
+total pitch counts:  3788.0
+ 
+1992 Cone,David
+total pitch counts:  4113.0
+ 
+1992 Mussina,Mike
+total pitch counts:  3421.0
+ 
+1992 Glavine,Tom
+total pitch counts:  3320.0
+ 
+iterate through players in year:  1993 , to gather the probability
+ 
+1993 Halladay,Roy
+None
+ 
+1993 Lee,Cliff
+None
+ 
+1993 Hamels,Cole
+None
+ 
+1993 Lester,Jon
+None
+ 
+1993 Greinke,Zack
+None
+ 
+1993 Lincecum,Tim
+None
+ 
+1993 Sabathia,CC
+None
+ 
+1993 Santana,Johan
+None
+ 
+1993 Hernandez,Felix
+None
+ 
+1993 Billingsley,Chad
+None
+ 
+1993 Weaver,Jered
+None
+ 
+1993 Kershaw,Clayton
+None
+ 
+1993 Carpenter,Chris
+None
+ 
+1993 Garza,Matt
+None
+ 
+1993 Wainwright,Adam
+None
+ 
+1993 Jimenez,Ubaldo
+None
+ 
+1993 Cain,Matt
+None
+ 
+1993 Sanchez,Jonathan
+None
+ 
+1993 Oswalt,Roy
+None
+ 
+1993 Verlander,Justin
+None
+ 
+1993 Johnson,Josh
+None
+ 
+1993 Danks,John
+None
+ 
+1993 Jackson,Edwin
+None
+ 
+1993 Scherzer,Max
+None
+ 
+1993 Lilly,Ted
+None
+ 
+1993 Lowe,Derek
+None
+ 
+1993 Penny,Brad
+None
+ 
+1993 Hammel,Jason
+None
+ 
+1993 Masterson,Justin
+None
+ 
+1993 Porcello,Rick
+None
+ 
+1993 Saunders,Joe
+None
+ 
+1993 Hamels,Cole
+None
+ 
+1993 Hernandez,Livan
+None
+ 
+1993 Jackson,Edwin
+None
+ 
+1993 Pelfrey,Mike
+None
+ 
+1993 Blanton,Joe
+None
+ 
+1993 Millwood,Kevin
+None
+ 
+1993 Guthrie,Jeremy
+None
+ 
+1993 Cahill,Trevor
+None
+ 
+1993 Cueto,Johnny
+None
+ 
+1993 Francis,Jeff
+None
+ 
+1993 Baker,Scott
+None
+ 
+1993 Volstad,Chris
+None
+ 
+1993 Kendrick,Kyle
+None
+ 
+1993 Maholm,Paul
+None
+ 
+1993 Myers,Brett
+None
+ 
+1993 Morton,Charlie
+None
+ 
+1993 Weaver,Jered
+None
+ 
+1993 Duke,Zach
+None
+ 
+1993 Bannister,BrianMartinez,Pedro
+None
+ 
+1993 Brown,Kevin
+total pitch counts:  3498.0
+ 
+1993 Johnson,Randy
+total pitch counts:  4199.0
+ 
+1993 Maddux,Greg
+total pitch counts:  3470.0
+ 
+1993 Hampton,Mike
+total pitch counts:  349.0
+ 
+1993 Schilling,Curt
+total pitch counts:  3622.0
+ 
+1993 Burkett,John
+total pitch counts:  3207.0
+ 
+1993 Garcia,Freddy
+None
+ 
+1993 Mays,Joe
+None
+ 
+1993 Buehrle,Mark
+None
+ 
+1993 Zito,Barry
+None
+ 
+1993 Hudson,Tim
+None
+ 
+1993 Oswalt,Roy
+None
+ 
+1993 Wolf,Randy
+None
+ 
+1993 Nomo,Hideo
+None
+ 
+1993 Stottlemyre,Todd
+total pitch counts:  2621.0
+ 
+1993 Leiter,Ai
+None
+ 
+1993 Tapani,Kevin
+total pitch counts:  3452.0
+ 
+1993 Rogers,Kenny
+total pitch counts:  3071.0
+ 
+1993 Guzman,Juan
+total pitch counts:  3702.0
+ 
+1993 Fernandez,Alex
+total pitch counts:  3752.0
+ 
+1993 Hentgen,Pat
+total pitch counts:  3441.0
+ 
+1993 Benes,Andy
+total pitch counts:  3618.0
+ 
+1993 Erickson,Scott
+total pitch counts:  3369.0
+ 
+1993 Nagy,Charles
+total pitch counts:  812.0
+ 
+1993 Martinez,Dennis
+total pitch counts:  3347.0
+ 
+1993 Martinez,Ramon
+total pitch counts:  3478.0
+ 
+1993 Pettitte,Andy
+None
+ 
+1993 Wells,David
+total pitch counts:  2960.0
+ 
+1993 Mcdowell,Jack
+None
+ 
+1993 Rijo,Jose
+total pitch counts:  4030.0
+ 
+1993 Finley,Chuck
+total pitch counts:  3872.0
+ 
+1993 Appier,Kevin
+total pitch counts:  3730.0
+ 
+1993 Smoltz,John
+total pitch counts:  3751.0
+ 
+1993 Cone,David
+total pitch counts:  4020.0
+ 
+1993 Mussina,Mike
+total pitch counts:  2586.0
+ 
+1993 Glavine,Tom
+total pitch counts:  3321.0
+ 
+iterate through players in year:  1994 , to gather the probability
+ 
+1994 Halladay,Roy
+None
+ 
+1994 Lee,Cliff
+None
+ 
+1994 Hamels,Cole
+None
+ 
+1994 Lester,Jon
+None
+ 
+1994 Greinke,Zack
+None
+ 
+1994 Lincecum,Tim
+None
+ 
+1994 Sabathia,CC
+None
+ 
+1994 Santana,Johan
+None
+ 
+1994 Hernandez,Felix
+None
+ 
+1994 Billingsley,Chad
+None
+ 
+1994 Weaver,Jered
+None
+ 
+1994 Kershaw,Clayton
+None
+ 
+1994 Carpenter,Chris
+None
+ 
+1994 Garza,Matt
+None
+ 
+1994 Wainwright,Adam
+None
+ 
+1994 Jimenez,Ubaldo
+None
+ 
+1994 Cain,Matt
+None
+ 
+1994 Sanchez,Jonathan
+None
+ 
+1994 Oswalt,Roy
+None
+ 
+1994 Verlander,Justin
+None
+ 
+1994 Johnson,Josh
+None
+ 
+1994 Danks,John
+None
+ 
+1994 Jackson,Edwin
+None
+ 
+1994 Scherzer,Max
+None
+ 
+1994 Lilly,Ted
+None
+ 
+1994 Lowe,Derek
+None
+ 
+1994 Penny,Brad
+None
+ 
+1994 Hammel,Jason
+None
+ 
+1994 Masterson,Justin
+None
+ 
+1994 Porcello,Rick
+None
+ 
+1994 Saunders,Joe
+None
+ 
+1994 Hamels,Cole
+None
+ 
+1994 Hernandez,Livan
+None
+ 
+1994 Jackson,Edwin
+None
+ 
+1994 Pelfrey,Mike
+None
+ 
+1994 Blanton,Joe
+None
+ 
+1994 Millwood,Kevin
+None
+ 
+1994 Guthrie,Jeremy
+None
+ 
+1994 Cahill,Trevor
+None
+ 
+1994 Cueto,Johnny
+None
+ 
+1994 Francis,Jeff
+None
+ 
+1994 Baker,Scott
+None
+ 
+1994 Volstad,Chris
+None
+ 
+1994 Kendrick,Kyle
+None
+ 
+1994 Maholm,Paul
+None
+ 
+1994 Myers,Brett
+None
+ 
+1994 Morton,Charlie
+None
+ 
+1994 Weaver,Jered
+None
+ 
+1994 Duke,Zach
+None
+ 
+1994 Bannister,BrianMartinez,Pedro
+None
+ 
+1994 Brown,Kevin
+total pitch counts:  2790.0
+ 
+1994 Johnson,Randy
+total pitch counts:  2881.0
+ 
+1994 Maddux,Greg
+total pitch counts:  2626.0
+ 
+1994 Hampton,Mike
+total pitch counts:  529.0
+ 
+1994 Schilling,Curt
+total pitch counts:  1329.0
+ 
+1994 Burkett,John
+total pitch counts:  2259.0
+ 
+1994 Garcia,Freddy
+None
+ 
+1994 Mays,Joe
+None
+ 
+1994 Buehrle,Mark
+None
+ 
+1994 Zito,Barry
+None
+ 
+1994 Hudson,Tim
+None
+ 
+1994 Oswalt,Roy
+None
+ 
+1994 Wolf,Randy
+None
+ 
+1994 Nomo,Hideo
+None
+ 
+1994 Stottlemyre,Todd
+total pitch counts:  2185.0
+ 
+1994 Leiter,Ai
+None
+ 
+1994 Tapani,Kevin
+total pitch counts:  2257.0
+ 
+1994 Rogers,Kenny
+total pitch counts:  2570.0
+ 
+1994 Guzman,Juan
+total pitch counts:  2379.0
+ 
+1994 Fernandez,Alex
+total pitch counts:  2556.0
+ 
+1994 Hentgen,Pat
+total pitch counts:  2699.0
+ 
+1994 Benes,Andy
+total pitch counts:  2727.0
+ 
+1994 Erickson,Scott
+total pitch counts:  2285.0
+ 
+1994 Nagy,Charles
+total pitch counts:  2469.0
+ 
+1994 Martinez,Dennis
+total pitch counts:  2403.0
+ 
+1994 Martinez,Ramon
+total pitch counts:  2335.0
+ 
+1994 Pettitte,Andy
+None
+ 
+1994 Wells,David
+total pitch counts:  1734.0
+ 
+1994 Mcdowell,Jack
+None
+ 
+1994 Rijo,Jose
+total pitch counts:  2747.0
+ 
+1994 Finley,Chuck
+total pitch counts:  2868.0
+ 
+1994 Appier,Kevin
+total pitch counts:  2511.0
+ 
+1994 Smoltz,John
+total pitch counts:  2038.0
+ 
+1994 Cone,David
+total pitch counts:  2548.0
+ 
+1994 Mussina,Mike
+total pitch counts:  2561.0
+ 
+1994 Glavine,Tom
+total pitch counts:  2588.0
+ 
+iterate through players in year:  1995 , to gather the probability
+ 
+1995 Halladay,Roy
+None
+ 
+1995 Lee,Cliff
+None
+ 
+1995 Hamels,Cole
+None
+ 
+1995 Lester,Jon
+None
+ 
+1995 Greinke,Zack
+None
+ 
+1995 Lincecum,Tim
+None
+ 
+1995 Sabathia,CC
+None
+ 
+1995 Santana,Johan
+None
+ 
+1995 Hernandez,Felix
+None
+ 
+1995 Billingsley,Chad
+None
+ 
+1995 Weaver,Jered
+None
+ 
+1995 Kershaw,Clayton
+None
+ 
+1995 Carpenter,Chris
+None
+ 
+1995 Garza,Matt
+None
+ 
+1995 Wainwright,Adam
+None
+ 
+1995 Jimenez,Ubaldo
+None
+ 
+1995 Cain,Matt
+None
+ 
+1995 Sanchez,Jonathan
+None
+ 
+1995 Oswalt,Roy
+None
+ 
+1995 Verlander,Justin
+None
+ 
+1995 Johnson,Josh
+None
+ 
+1995 Danks,John
+None
+ 
+1995 Jackson,Edwin
+None
+ 
+1995 Scherzer,Max
+None
+ 
+1995 Lilly,Ted
+None
+ 
+1995 Lowe,Derek
+None
+ 
+1995 Penny,Brad
+None
+ 
+1995 Hammel,Jason
+None
+ 
+1995 Masterson,Justin
+None
+ 
+1995 Porcello,Rick
+None
+ 
+1995 Saunders,Joe
+None
+ 
+1995 Hamels,Cole
+None
+ 
+1995 Hernandez,Livan
+None
+ 
+1995 Jackson,Edwin
+None
+ 
+1995 Pelfrey,Mike
+None
+ 
+1995 Blanton,Joe
+None
+ 
+1995 Millwood,Kevin
+None
+ 
+1995 Guthrie,Jeremy
+None
+ 
+1995 Cahill,Trevor
+None
+ 
+1995 Cueto,Johnny
+None
+ 
+1995 Francis,Jeff
+None
+ 
+1995 Baker,Scott
+total pitch counts:  87.0
+ 
+1995 Volstad,Chris
+None
+ 
+1995 Kendrick,Kyle
+None
+ 
+1995 Maholm,Paul
+None
+ 
+1995 Myers,Brett
+None
+ 
+1995 Morton,Charlie
+None
+ 
+1995 Weaver,Jered
+None
+ 
+1995 Duke,Zach
+None
+ 
+1995 Bannister,BrianMartinez,Pedro
+None
+ 
+1995 Brown,Kevin
+total pitch counts:  2380.0
+ 
+1995 Johnson,Randy
+total pitch counts:  3593.0
+ 
+1995 Maddux,Greg
+total pitch counts:  2487.0
+ 
+1995 Hampton,Mike
+total pitch counts:  1963.0
+ 
+1995 Schilling,Curt
+total pitch counts:  1715.0
+ 
+1995 Burkett,John
+total pitch counts:  2669.0
+ 
+1995 Garcia,Freddy
+total pitch counts:  1137.0
+ 
+1995 Mays,Joe
+None
+ 
+1995 Buehrle,Mark
+None
+ 
+1995 Zito,Barry
+None
+ 
+1995 Hudson,Tim
+None
+ 
+1995 Oswalt,Roy
+None
+ 
+1995 Wolf,Randy
+None
+ 
+1995 Nomo,Hideo
+total pitch counts:  2636.0
+ 
+1995 Stottlemyre,Todd
+total pitch counts:  2853.0
+ 
+1995 Leiter,Ai
+None
+ 
+1995 Tapani,Kevin
+total pitch counts:  2895.0
+ 
+1995 Rogers,Kenny
+total pitch counts:  2752.0
+ 
+1995 Guzman,Juan
+total pitch counts:  2333.0
+ 
+1995 Fernandez,Alex
+total pitch counts:  3140.0
+ 
+1995 Hentgen,Pat
+total pitch counts:  2767.0
+ 
+1995 Benes,Andy
+total pitch counts:  2979.0
+ 
+1995 Erickson,Scott
+total pitch counts:  2545.0
+ 
+1995 Nagy,Charles
+total pitch counts:  2629.0
+ 
+1995 Martinez,Dennis
+total pitch counts:  2789.0
+ 
+1995 Martinez,Ramon
+total pitch counts:  2778.0
+ 
+1995 Pettitte,Andy
+total pitch counts:  2850.0
+ 
+1995 Wells,David
+total pitch counts:  2949.0
+ 
+1995 Mcdowell,Jack
+None
+ 
+1995 Rijo,Jose
+total pitch counts:  965.0
+ 
+1995 Finley,Chuck
+total pitch counts:  3433.0
+ 
+1995 Appier,Kevin
+total pitch counts:  2988.0
+ 
+1995 Smoltz,John
+total pitch counts:  2956.0
+ 
+1995 Cone,David
+total pitch counts:  3452.0
+ 
+1995 Mussina,Mike
+total pitch counts:  3226.0
+ 
+1995 Glavine,Tom
+total pitch counts:  2877.0
+ 
+iterate through players in year:  1996 , to gather the probability
+ 
+1996 Halladay,Roy
+None
+ 
+1996 Lee,Cliff
+None
+ 
+1996 Hamels,Cole
+None
+ 
+1996 Lester,Jon
+None
+ 
+1996 Greinke,Zack
+None
+ 
+1996 Lincecum,Tim
+None
+ 
+1996 Sabathia,CC
+None
+ 
+1996 Santana,Johan
+None
+ 
+1996 Hernandez,Felix
+None
+ 
+1996 Billingsley,Chad
+None
+ 
+1996 Weaver,Jered
+None
+ 
+1996 Kershaw,Clayton
+None
+ 
+1996 Carpenter,Chris
+None
+ 
+1996 Garza,Matt
+None
+ 
+1996 Wainwright,Adam
+None
+ 
+1996 Jimenez,Ubaldo
+None
+ 
+1996 Cain,Matt
+None
+ 
+1996 Sanchez,Jonathan
+None
+ 
+1996 Oswalt,Roy
+None
+ 
+1996 Verlander,Justin
+None
+ 
+1996 Johnson,Josh
+None
+ 
+1996 Danks,John
+None
+ 
+1996 Jackson,Edwin
+None
+ 
+1996 Scherzer,Max
+None
+ 
+1996 Lilly,Ted
+None
+ 
+1996 Lowe,Derek
+None
+ 
+1996 Penny,Brad
+None
+ 
+1996 Hammel,Jason
+None
+ 
+1996 Masterson,Justin
+None
+ 
+1996 Porcello,Rick
+None
+ 
+1996 Saunders,Joe
+None
+ 
+1996 Hamels,Cole
+None
+ 
+1996 Hernandez,Livan
+total pitch counts:  50.0
+ 
+1996 Jackson,Edwin
+None
+ 
+1996 Pelfrey,Mike
+None
+ 
+1996 Blanton,Joe
+None
+ 
+1996 Millwood,Kevin
+None
+ 
+1996 Guthrie,Jeremy
+None
+ 
+1996 Cahill,Trevor
+None
+ 
+1996 Cueto,Johnny
+None
+ 
+1996 Francis,Jeff
+None
+ 
+1996 Baker,Scott
+None
+ 
+1996 Volstad,Chris
+None
+ 
+1996 Kendrick,Kyle
+None
+ 
+1996 Maholm,Paul
+None
+ 
+1996 Myers,Brett
+None
+ 
+1996 Morton,Charlie
+None
+ 
+1996 Weaver,Jered
+None
+ 
+1996 Duke,Zach
+None
+ 
+1996 Bannister,BrianMartinez,Pedro
+None
+ 
+1996 Brown,Kevin
+total pitch counts:  95.0
+ 
+1996 Johnson,Randy
+total pitch counts:  1072.0
+ 
+1996 Maddux,Greg
+total pitch counts:  2783.0
+ 
+1996 Hampton,Mike
+total pitch counts:  1783.0
+ 
+1996 Schilling,Curt
+total pitch counts:  2050.0
+ 
+1996 Burkett,John
+total pitch counts:  3411.0
+ 
+1996 Garcia,Freddy
+None
+ 
+1996 Mays,Joe
+None
+ 
+1996 Buehrle,Mark
+None
+ 
+1996 Zito,Barry
+None
+ 
+1996 Hudson,Tim
+None
+ 
+1996 Oswalt,Roy
+None
+ 
+1996 Wolf,Randy
+None
+ 
+1996 Nomo,Hideo
+total pitch counts:  2849.0
+ 
+1996 Stottlemyre,Todd
+total pitch counts:  2918.0
+ 
+1996 Leiter,Ai
+None
+ 
+1996 Tapani,Kevin
+total pitch counts:  3377.0
+ 
+1996 Rogers,Kenny
+total pitch counts:  2405.0
+ 
+1996 Guzman,Juan
+total pitch counts:  2433.0
+ 
+1996 Fernandez,Alex
+total pitch counts:  3234.0
+ 
+1996 Hentgen,Pat
+total pitch counts:  3688.0
+ 
+1996 Benes,Andy
+total pitch counts:  3167.0
+ 
+1996 Erickson,Scott
+total pitch counts:  2864.0
+ 
+1996 Nagy,Charles
+total pitch counts:  3080.0
+ 
+1996 Martinez,Dennis
+total pitch counts:  1508.0
+ 
+1996 Martinez,Ramon
+total pitch counts:  2638.0
+ 
+1996 Pettitte,Andy
+total pitch counts:  2953.0
+ 
+1996 Wells,David
+total pitch counts:  2810.0
+ 
+1996 Mcdowell,Jack
+None
+ 
+1996 Rijo,Jose
+None
+ 
+1996 Finley,Chuck
+total pitch counts:  3221.0
+ 
+1996 Appier,Kevin
+total pitch counts:  3002.0
+ 
+1996 Smoltz,John
+total pitch counts:  3651.0
+ 
+1996 Cone,David
+total pitch counts:  965.0
+ 
+1996 Mussina,Mike
+total pitch counts:  3071.0
+ 
+1996 Glavine,Tom
+total pitch counts:  3136.0
+ 
+iterate through players in year:  1997 , to gather the probability
+ 
+1997 Halladay,Roy
+None
+ 
+1997 Lee,Cliff
+None
+ 
+1997 Hamels,Cole
+None
+ 
+1997 Lester,Jon
+None
+ 
+1997 Greinke,Zack
+None
+ 
+1997 Lincecum,Tim
+None
+ 
+1997 Sabathia,CC
+None
+ 
+1997 Santana,Johan
+None
+ 
+1997 Hernandez,Felix
+None
+ 
+1997 Billingsley,Chad
+None
+ 
+1997 Weaver,Jered
+None
+ 
+1997 Kershaw,Clayton
+None
+ 
+1997 Carpenter,Chris
+total pitch counts:  1372.0
+ 
+1997 Garza,Matt
+None
+ 
+1997 Wainwright,Adam
+None
+ 
+1997 Jimenez,Ubaldo
+None
+ 
+1997 Cain,Matt
+None
+ 
+1997 Sanchez,Jonathan
+None
+ 
+1997 Oswalt,Roy
+None
+ 
+1997 Verlander,Justin
+None
+ 
+1997 Johnson,Josh
+None
+ 
+1997 Danks,John
+None
+ 
+1997 Jackson,Edwin
+None
+ 
+1997 Scherzer,Max
+None
+ 
+1997 Lilly,Ted
+None
+ 
+1997 Lowe,Derek
+total pitch counts:  1027.0
+ 
+1997 Penny,Brad
+None
+ 
+1997 Hammel,Jason
+None
+ 
+1997 Masterson,Justin
+None
+ 
+1997 Porcello,Rick
+None
+ 
+1997 Saunders,Joe
+None
+ 
+1997 Hamels,Cole
+None
+ 
+1997 Hernandez,Livan
+total pitch counts:  1527.0
+ 
+1997 Jackson,Edwin
+None
+ 
+1997 Pelfrey,Mike
+None
+ 
+1997 Blanton,Joe
+None
+ 
+1997 Millwood,Kevin
+total pitch counts:  760.0
+ 
+1997 Guthrie,Jeremy
+None
+ 
+1997 Cahill,Trevor
+None
+ 
+1997 Cueto,Johnny
+None
+ 
+1997 Francis,Jeff
+None
+ 
+1997 Baker,Scott
+None
+ 
+1997 Volstad,Chris
+None
+ 
+1997 Kendrick,Kyle
+None
+ 
+1997 Maholm,Paul
+None
+ 
+1997 Myers,Brett
+None
+ 
+1997 Morton,Charlie
+None
+ 
+1997 Weaver,Jered
+None
+ 
+1997 Duke,Zach
+None
+ 
+1997 Bannister,BrianMartinez,Pedro
+None
+ 
+1997 Brown,Kevin
+total pitch counts:  117.0
+ 
+1997 Johnson,Randy
+total pitch counts:  3390.0
+ 
+1997 Maddux,Greg
+total pitch counts:  2635.0
+ 
+1997 Hampton,Mike
+total pitch counts:  3345.0
+ 
+1997 Schilling,Curt
+total pitch counts:  3472.0
+ 
+1997 Burkett,John
+total pitch counts:  3029.0
+ 
+1997 Garcia,Freddy
+total pitch counts:  636.0
+ 
+1997 Mays,Joe
+None
+ 
+1997 Buehrle,Mark
+None
+ 
+1997 Zito,Barry
+None
+ 
+1997 Hudson,Tim
+None
+ 
+1997 Oswalt,Roy
+None
+ 
+1997 Wolf,Randy
+None
+ 
+1997 Nomo,Hideo
+total pitch counts:  3077.0
+ 
+1997 Stottlemyre,Todd
+total pitch counts:  2855.0
+ 
+1997 Leiter,Ai
+None
+ 
+1997 Tapani,Kevin
+total pitch counts:  1131.0
+ 
+1997 Rogers,Kenny
+total pitch counts:  2462.0
+ 
+1997 Guzman,Juan
+total pitch counts:  900.0
+ 
+1997 Fernandez,Alex
+total pitch counts:  3103.0
+ 
+1997 Hentgen,Pat
+total pitch counts:  3547.0
+ 
+1997 Benes,Andy
+total pitch counts:  2892.0
+ 
+1997 Erickson,Scott
+total pitch counts:  2487.0
+ 
+1997 Nagy,Charles
+total pitch counts:  3275.0
+ 
+1997 Martinez,Dennis
+total pitch counts:  882.0
+ 
+1997 Martinez,Ramon
+total pitch counts:  2077.0
+ 
+1997 Pettitte,Andy
+total pitch counts:  3488.0
+ 
+1997 Wells,David
+total pitch counts:  3228.0
+ 
+1997 Mcdowell,Jack
+None
+ 
+1997 Rijo,Jose
+None
+ 
+1997 Finley,Chuck
+total pitch counts:  2161.0
+ 
+1997 Appier,Kevin
+total pitch counts:  3541.0
+ 
+1997 Smoltz,John
+total pitch counts:  3452.0
+ 
+1997 Cone,David
+total pitch counts:  3195.0
+ 
+1997 Mussina,Mike
+total pitch counts:  2697.0
+ 
+1997 Glavine,Tom
+total pitch counts:  3423.0
+ 
+iterate through players in year:  1998 , to gather the probability
+ 
+1998 Halladay,Roy
+total pitch counts:  187.0
+ 
+1998 Lee,Cliff
+None
+ 
+1998 Hamels,Cole
+None
+ 
+1998 Lester,Jon
+None
+ 
+1998 Greinke,Zack
+None
+ 
+1998 Lincecum,Tim
+None
+ 
+1998 Sabathia,CC
+None
+ 
+1998 Santana,Johan
+None
+ 
+1998 Hernandez,Felix
+None
+ 
+1998 Billingsley,Chad
+None
+ 
+1998 Weaver,Jered
+None
+ 
+1998 Kershaw,Clayton
+None
+ 
+1998 Carpenter,Chris
+total pitch counts:  2756.0
+ 
+1998 Garza,Matt
+None
+ 
+1998 Wainwright,Adam
+None
+ 
+1998 Jimenez,Ubaldo
+None
+ 
+1998 Cain,Matt
+None
+ 
+1998 Sanchez,Jonathan
+None
+ 
+1998 Oswalt,Roy
+None
+ 
+1998 Verlander,Justin
+None
+ 
+1998 Johnson,Josh
+None
+ 
+1998 Danks,John
+None
+ 
+1998 Jackson,Edwin
+None
+ 
+1998 Scherzer,Max
+None
+ 
+1998 Lilly,Ted
+None
+ 
+1998 Lowe,Derek
+total pitch counts:  1709.0
+ 
+1998 Penny,Brad
+None
+ 
+1998 Hammel,Jason
+None
+ 
+1998 Masterson,Justin
+None
+ 
+1998 Porcello,Rick
+None
+ 
+1998 Saunders,Joe
+None
+ 
+1998 Hamels,Cole
+None
+ 
+1998 Hernandez,Livan
+total pitch counts:  3822.0
+ 
+1998 Jackson,Edwin
+None
+ 
+1998 Pelfrey,Mike
+None
+ 
+1998 Blanton,Joe
+None
+ 
+1998 Millwood,Kevin
+total pitch counts:  2806.0
+ 
+1998 Guthrie,Jeremy
+None
+ 
+1998 Cahill,Trevor
+None
+ 
+1998 Cueto,Johnny
+None
+ 
+1998 Francis,Jeff
+None
+ 
+1998 Baker,Scott
+None
+ 
+1998 Volstad,Chris
+None
+ 
+1998 Kendrick,Kyle
+None
+ 
+1998 Maholm,Paul
+None
+ 
+1998 Myers,Brett
+None
+ 
+1998 Morton,Charlie
+None
+ 
+1998 Weaver,Jered
+None
+ 
+1998 Duke,Zach
+None
+ 
+1998 Bannister,BrianMartinez,Pedro
+None
+ 
+1998 Brown,Kevin
+total pitch counts:  3595.0
+ 
+1998 Johnson,Randy
+total pitch counts:  3416.0
+ 
+1998 Maddux,Greg
+total pitch counts:  3161.0
+ 
+1998 Hampton,Mike
+total pitch counts:  3109.0
+ 
+1998 Schilling,Curt
+total pitch counts:  4056.0
+ 
+1998 Burkett,John
+total pitch counts:  2711.0
+ 
+1998 Garcia,Freddy
+total pitch counts:  4123.0
+ 
+1998 Mays,Joe
+None
+ 
+1998 Buehrle,Mark
+None
+ 
+1998 Zito,Barry
+None
+ 
+1998 Hudson,Tim
+None
+ 
+1998 Oswalt,Roy
+None
+ 
+1998 Wolf,Randy
+None
+ 
+1998 Nomo,Hideo
+total pitch counts:  2603.0
+ 
+1998 Stottlemyre,Todd
+total pitch counts:  3493.0
+ 
+1998 Leiter,Ai
+None
+ 
+1998 Tapani,Kevin
+total pitch counts:  3222.0
+ 
+1998 Rogers,Kenny
+total pitch counts:  2884.0
+ 
+1998 Guzman,Juan
+total pitch counts:  3095.0
+ 
+1998 Fernandez,Alex
+None
+ 
+1998 Hentgen,Pat
+total pitch counts:  2714.0
+ 
+1998 Benes,Andy
+total pitch counts:  3564.0
+ 
+1998 Erickson,Scott
+total pitch counts:  3568.0
+ 
+1998 Nagy,Charles
+total pitch counts:  3098.0
+ 
+1998 Martinez,Dennis
+total pitch counts:  1314.0
+ 
+1998 Martinez,Ramon
+total pitch counts:  470.0
+ 
+1998 Pettitte,Andy
+total pitch counts:  3084.0
+ 
+1998 Wells,David
+total pitch counts:  2636.0
+ 
+1998 Mcdowell,Jack
+None
+ 
+1998 Rijo,Jose
+None
+ 
+1998 Finley,Chuck
+total pitch counts:  3650.0
+ 
+1998 Appier,Kevin
+total pitch counts:  272.0
+ 
+1998 Smoltz,John
+total pitch counts:  2412.0
+ 
+1998 Cone,David
+total pitch counts:  2986.0
+ 
+1998 Mussina,Mike
+total pitch counts:  2810.0
+ 
+1998 Glavine,Tom
+total pitch counts:  3488.0
+ 
+iterate through players in year:  1999 , to gather the probability
+ 
+1999 Halladay,Roy
+total pitch counts:  2480.0
+ 
+1999 Lee,Cliff
+None
+ 
+1999 Hamels,Cole
+None
+ 
+1999 Lester,Jon
+None
+ 
+1999 Greinke,Zack
+None
+ 
+1999 Lincecum,Tim
+None
+ 
+1999 Sabathia,CC
+None
+ 
+1999 Santana,Johan
+None
+ 
+1999 Hernandez,Felix
+None
+ 
+1999 Billingsley,Chad
+None
+ 
+1999 Weaver,Jered
+None
+ 
+1999 Kershaw,Clayton
+None
+ 
+1999 Carpenter,Chris
+total pitch counts:  2429.0
+ 
+1999 Garza,Matt
+None
+ 
+1999 Wainwright,Adam
+None
+ 
+1999 Jimenez,Ubaldo
+None
+ 
+1999 Cain,Matt
+None
+ 
+1999 Sanchez,Jonathan
+None
+ 
+1999 Oswalt,Roy
+None
+ 
+1999 Verlander,Justin
+None
+ 
+1999 Johnson,Josh
+None
+ 
+1999 Danks,John
+None
+ 
+1999 Jackson,Edwin
+None
+ 
+1999 Scherzer,Max
+None
+ 
+1999 Lilly,Ted
+total pitch counts:  449.0
+ 
+1999 Lowe,Derek
+total pitch counts:  1594.0
+ 
+1999 Penny,Brad
+None
+ 
+1999 Hammel,Jason
+None
+ 
+1999 Masterson,Justin
+None
+ 
+1999 Porcello,Rick
+None
+ 
+1999 Saunders,Joe
+None
+ 
+1999 Hamels,Cole
+None
+ 
+1999 Hernandez,Livan
+total pitch counts:  3347.0
+ 
+1999 Jackson,Edwin
+None
+ 
+1999 Pelfrey,Mike
+None
+ 
+1999 Blanton,Joe
+None
+ 
+1999 Millwood,Kevin
+total pitch counts:  3348.0
+ 
+1999 Guthrie,Jeremy
+None
+ 
+1999 Cahill,Trevor
+None
+ 
+1999 Cueto,Johnny
+None
+ 
+1999 Francis,Jeff
+None
+ 
+1999 Baker,Scott
+None
+ 
+1999 Volstad,Chris
+None
+ 
+1999 Kendrick,Kyle
+None
+ 
+1999 Maholm,Paul
+None
+ 
+1999 Myers,Brett
+None
+ 
+1999 Morton,Charlie
+None
+ 
+1999 Weaver,Jered
+None
+ 
+1999 Duke,Zach
+None
+ 
+1999 Bannister,BrianMartinez,Pedro
+None
+ 
+1999 Brown,Kevin
+total pitch counts:  211.0
+ 
+1999 Johnson,Randy
+total pitch counts:  4202.0
+ 
+1999 Maddux,Greg
+total pitch counts:  3038.0
+ 
+1999 Hampton,Mike
+total pitch counts:  3638.0
+ 
+1999 Schilling,Curt
+total pitch counts:  2651.0
+ 
+1999 Burkett,John
+total pitch counts:  2371.0
+ 
+1999 Garcia,Freddy
+total pitch counts:  3512.0
+ 
+1999 Mays,Joe
+total pitch counts:  2776.0
+ 
+1999 Buehrle,Mark
+None
+ 
+1999 Zito,Barry
+None
+ 
+1999 Hudson,Tim
+total pitch counts:  2183.0
+ 
+1999 Oswalt,Roy
+None
+ 
+1999 Wolf,Randy
+total pitch counts:  2258.0
+ 
+1999 Nomo,Hideo
+total pitch counts:  2901.0
+ 
+1999 Stottlemyre,Todd
+total pitch counts:  1698.0
+ 
+1999 Leiter,Ai
+None
+ 
+1999 Tapani,Kevin
+total pitch counts:  2124.0
+ 
+1999 Rogers,Kenny
+total pitch counts:  3046.0
+ 
+1999 Guzman,Juan
+total pitch counts:  3337.0
+ 
+1999 Fernandez,Alex
+total pitch counts:  2153.0
+ 
+1999 Hentgen,Pat
+total pitch counts:  3221.0
+ 
+1999 Benes,Andy
+total pitch counts:  3376.0
+ 
+1999 Erickson,Scott
+total pitch counts:  3715.0
+ 
+1999 Nagy,Charles
+total pitch counts:  3021.0
+ 
+1999 Martinez,Dennis
+None
+ 
+1999 Martinez,Ramon
+total pitch counts:  3362.0
+ 
+1999 Pettitte,Andy
+total pitch counts:  3209.0
+ 
+1999 Wells,David
+total pitch counts:  3494.0
+ 
+1999 Mcdowell,Jack
+None
+ 
+1999 Rijo,Jose
+None
+ 
+1999 Finley,Chuck
+total pitch counts:  3598.0
+ 
+1999 Appier,Kevin
+total pitch counts:  3368.0
+ 
+1999 Smoltz,John
+total pitch counts:  2692.0
+ 
+1999 Cone,David
+total pitch counts:  3228.0
+ 
+1999 Mussina,Mike
+total pitch counts:  3095.0
+ 
+1999 Glavine,Tom
+total pitch counts:  3787.0
+ 
+iterate through players in year:  2000 , to gather the probability
+ 
+2000 Halladay,Roy
+total pitch counts:  1353.0
+ 
+2000 Lee,Cliff
+None
+ 
+2000 Hamels,Cole
+None
+ 
+2000 Lester,Jon
+None
+ 
+2000 Greinke,Zack
+None
+ 
+2000 Lincecum,Tim
+None
+ 
+2000 Sabathia,CC
+None
+ 
+2000 Santana,Johan
+total pitch counts:  1528.0
+ 
+2000 Hernandez,Felix
+None
+ 
+2000 Billingsley,Chad
+None
+ 
+2000 Weaver,Jered
+None
+ 
+2000 Kershaw,Clayton
+None
+ 
+2000 Carpenter,Chris
+total pitch counts:  2876.0
+ 
+2000 Garza,Matt
+None
+ 
+2000 Wainwright,Adam
+None
+ 
+2000 Jimenez,Ubaldo
+None
+ 
+2000 Cain,Matt
+None
+ 
+2000 Sanchez,Jonathan
+None
+ 
+2000 Oswalt,Roy
+None
+ 
+2000 Verlander,Justin
+None
+ 
+2000 Johnson,Josh
+None
+ 
+2000 Danks,John
+None
+ 
+2000 Jackson,Edwin
+None
+ 
+2000 Scherzer,Max
+None
+ 
+2000 Lilly,Ted
+total pitch counts:  143.0
+ 
+2000 Lowe,Derek
+total pitch counts:  1219.0
+ 
+2000 Penny,Brad
+total pitch counts:  2099.0
+ 
+2000 Hammel,Jason
+None
+ 
+2000 Masterson,Justin
+None
+ 
+2000 Porcello,Rick
+None
+ 
+2000 Saunders,Joe
+None
+ 
+2000 Hamels,Cole
+None
+ 
+2000 Hernandez,Livan
+total pitch counts:  3827.0
+ 
+2000 Jackson,Edwin
+None
+ 
+2000 Pelfrey,Mike
+None
+ 
+2000 Blanton,Joe
+None
+ 
+2000 Millwood,Kevin
+total pitch counts:  3424.0
+ 
+2000 Guthrie,Jeremy
+None
+ 
+2000 Cahill,Trevor
+None
+ 
+2000 Cueto,Johnny
+None
+ 
+2000 Francis,Jeff
+None
+ 
+2000 Baker,Scott
+None
+ 
+2000 Volstad,Chris
+None
+ 
+2000 Kendrick,Kyle
+None
+ 
+2000 Maholm,Paul
+None
+ 
+2000 Myers,Brett
+None
+ 
+2000 Morton,Charlie
+None
+ 
+2000 Weaver,Jered
+None
+ 
+2000 Duke,Zach
+None
+ 
+2000 Bannister,BrianMartinez,Pedro
+None
+ 
+2000 Brown,Kevin
+total pitch counts:  495.0
+ 
+2000 Johnson,Randy
+total pitch counts:  4019.0
+ 
+2000 Maddux,Greg
+total pitch counts:  3243.0
+ 
+2000 Hampton,Mike
+total pitch counts:  3427.0
+ 
+2000 Schilling,Curt
+total pitch counts:  3072.0
+ 
+2000 Burkett,John
+total pitch counts:  2235.0
+ 
+2000 Garcia,Freddy
+total pitch counts:  2029.0
+ 
+2000 Mays,Joe
+total pitch counts:  2660.0
+ 
+2000 Buehrle,Mark
+total pitch counts:  880.0
+ 
+2000 Zito,Barry
+total pitch counts:  1455.0
+ 
+2000 Hudson,Tim
+total pitch counts:  3235.0
+ 
+2000 Oswalt,Roy
+None
+ 
+2000 Wolf,Randy
+total pitch counts:  3528.0
+ 
+2000 Nomo,Hideo
+total pitch counts:  3109.0
+ 
+2000 Stottlemyre,Todd
+total pitch counts:  1497.0
+ 
+2000 Leiter,Ai
+None
+ 
+2000 Tapani,Kevin
+total pitch counts:  3148.0
+ 
+2000 Rogers,Kenny
+total pitch counts:  3595.0
+ 
+2000 Guzman,Juan
+total pitch counts:  55.0
+ 
+2000 Fernandez,Alex
+total pitch counts:  808.0
+ 
+2000 Hentgen,Pat
+total pitch counts:  3251.0
+ 
+2000 Benes,Andy
+total pitch counts:  2828.0
+ 
+2000 Erickson,Scott
+total pitch counts:  1562.0
+ 
+2000 Nagy,Charles
+total pitch counts:  1002.0
+ 
+2000 Martinez,Dennis
+None
+ 
+2000 Martinez,Ramon
+total pitch counts:  4361.0
+ 
+2000 Pettitte,Andy
+total pitch counts:  3447.0
+ 
+2000 Wells,David
+total pitch counts:  3268.0
+ 
+2000 Mcdowell,Jack
+None
+ 
+2000 Rijo,Jose
+None
+ 
+2000 Finley,Chuck
+total pitch counts:  3657.0
+ 
+2000 Appier,Kevin
+total pitch counts:  3339.0
+ 
+2000 Smoltz,John
+None
+ 
+2000 Cone,David
+total pitch counts:  2837.0
+ 
+2000 Mussina,Mike
+total pitch counts:  3647.0
+ 
+2000 Glavine,Tom
+total pitch counts:  3722.0
+ 
+iterate through players in year:  2001 , to gather the probability
+ 
+2001 Halladay,Roy
+total pitch counts:  1552.0
+ 
+2001 Lee,Cliff
+None
+ 
+2001 Hamels,Cole
+None
+ 
+2001 Lester,Jon
+None
+ 
+2001 Greinke,Zack
+None
+ 
+2001 Lincecum,Tim
+None
+ 
+2001 Sabathia,CC
+total pitch counts:  3147.0
+ 
+2001 Santana,Johan
+total pitch counts:  709.0
+ 
+2001 Hernandez,Felix
+None
+ 
+2001 Billingsley,Chad
+None
+ 
+2001 Weaver,Jered
+None
+ 
+2001 Kershaw,Clayton
+None
+ 
+2001 Carpenter,Chris
+total pitch counts:  3297.0
+ 
+2001 Garza,Matt
+None
+ 
+2001 Wainwright,Adam
+None
+ 
+2001 Jimenez,Ubaldo
+None
+ 
+2001 Cain,Matt
+None
+ 
+2001 Sanchez,Jonathan
+None
+ 
+2001 Oswalt,Roy
+total pitch counts:  2034.0
+ 
+2001 Verlander,Justin
+None
+ 
+2001 Johnson,Josh
+None
+ 
+2001 Danks,John
+None
+ 
+2001 Jackson,Edwin
+None
+ 
+2001 Scherzer,Max
+None
+ 
+2001 Lilly,Ted
+total pitch counts:  2131.0
+ 
+2001 Lowe,Derek
+total pitch counts:  1263.0
+ 
+2001 Penny,Brad
+total pitch counts:  2915.0
+ 
+2001 Hammel,Jason
+None
+ 
+2001 Masterson,Justin
+None
+ 
+2001 Porcello,Rick
+None
+ 
+2001 Saunders,Joe
+None
+ 
+2001 Hamels,Cole
+None
+ 
+2001 Hernandez,Livan
+total pitch counts:  3692.0
+ 
+2001 Jackson,Edwin
+None
+ 
+2001 Pelfrey,Mike
+None
+ 
+2001 Blanton,Joe
+None
+ 
+2001 Millwood,Kevin
+total pitch counts:  1849.0
+ 
+2001 Guthrie,Jeremy
+None
+ 
+2001 Cahill,Trevor
+None
+ 
+2001 Cueto,Johnny
+None
+ 
+2001 Francis,Jeff
+None
+ 
+2001 Baker,Scott
+None
+ 
+2001 Volstad,Chris
+None
+ 
+2001 Kendrick,Kyle
+None
+ 
+2001 Maholm,Paul
+None
+ 
+2001 Myers,Brett
+None
+ 
+2001 Morton,Charlie
+None
+ 
+2001 Weaver,Jered
+None
+ 
+2001 Duke,Zach
+None
+ 
+2001 Bannister,BrianMartinez,Pedro
+None
+ 
+2001 Brown,Kevin
+total pitch counts:  887.0
+ 
+2001 Johnson,Randy
+total pitch counts:  4076.0
+ 
+2001 Maddux,Greg
+total pitch counts:  2981.0
+ 
+2001 Hampton,Mike
+total pitch counts:  3338.0
+ 
+2001 Schilling,Curt
+total pitch counts:  3695.0
+ 
+2001 Burkett,John
+total pitch counts:  3294.0
+ 
+2001 Garcia,Freddy
+total pitch counts:  3531.0
+ 
+2001 Mays,Joe
+total pitch counts:  3409.0
+ 
+2001 Buehrle,Mark
+total pitch counts:  3313.0
+ 
+2001 Zito,Barry
+total pitch counts:  3539.0
+ 
+2001 Hudson,Tim
+total pitch counts:  3597.0
+ 
+2001 Oswalt,Roy
+total pitch counts:  2034.0
+ 
+2001 Wolf,Randy
+total pitch counts:  2595.0
+ 
+2001 Nomo,Hideo
+total pitch counts:  3231.0
+ 
+2001 Stottlemyre,Todd
+None
+ 
+2001 Leiter,Ai
+None
+ 
+2001 Tapani,Kevin
+total pitch counts:  2695.0
+ 
+2001 Rogers,Kenny
+total pitch counts:  1967.0
+ 
+2001 Guzman,Juan
+None
+ 
+2001 Fernandez,Alex
+None
+ 
+2001 Hentgen,Pat
+total pitch counts:  953.0
+ 
+2001 Benes,Andy
+total pitch counts:  1986.0
+ 
+2001 Erickson,Scott
+None
+ 
+2001 Nagy,Charles
+total pitch counts:  1115.0
+ 
+2001 Martinez,Dennis
+None
+ 
+2001 Martinez,Ramon
+total pitch counts:  10598.0
+ 
+2001 Pettitte,Andy
+total pitch counts:  3126.0
+ 
+2001 Wells,David
+total pitch counts:  1435.0
+ 
+2001 Mcdowell,Jack
+None
+ 
+2001 Rijo,Jose
+total pitch counts:  303.0
+ 
+2001 Finley,Chuck
+total pitch counts:  1829.0
+ 
+2001 Appier,Kevin
+total pitch counts:  3301.0
+ 
+2001 Smoltz,John
+total pitch counts:  867.0
+ 
+2001 Cone,David
+total pitch counts:  2323.0
+ 
+2001 Mussina,Mike
+total pitch counts:  3473.0
+ 
+2001 Glavine,Tom
+total pitch counts:  3426.0
+ 
+iterate through players in year:  2002 , to gather the probability
+ 
+2002 Halladay,Roy
+total pitch counts:  3511.0
+ 
+2002 Lee,Cliff
+total pitch counts:  161.0
+ 
+2002 Hamels,Cole
+None
+ 
+2002 Lester,Jon
+None
+ 
+2002 Greinke,Zack
+None
+ 
+2002 Lincecum,Tim
+None
+ 
+2002 Sabathia,CC
+total pitch counts:  3383.0
+ 
+2002 Santana,Johan
+total pitch counts:  1823.0
+ 
+2002 Hernandez,Felix
+None
+ 
+2002 Billingsley,Chad
+None
+ 
+2002 Weaver,Jered
+None
+ 
+2002 Kershaw,Clayton
+None
+ 
+2002 Carpenter,Chris
+total pitch counts:  1170.0
+ 
+2002 Garza,Matt
+None
+ 
+2002 Wainwright,Adam
+None
+ 
+2002 Jimenez,Ubaldo
+None
+ 
+2002 Cain,Matt
+None
+ 
+2002 Sanchez,Jonathan
+None
+ 
+2002 Oswalt,Roy
+total pitch counts:  3421.0
+ 
+2002 Verlander,Justin
+None
+ 
+2002 Johnson,Josh
+None
+ 
+2002 Danks,John
+None
+ 
+2002 Jackson,Edwin
+None
+ 
+2002 Scherzer,Max
+None
+ 
+2002 Lilly,Ted
+total pitch counts:  1538.0
+ 
+2002 Lowe,Derek
+total pitch counts:  3080.0
+ 
+2002 Penny,Brad
+total pitch counts:  2096.0
+ 
+2002 Hammel,Jason
+None
+ 
+2002 Masterson,Justin
+None
+ 
+2002 Porcello,Rick
+None
+ 
+2002 Saunders,Joe
+None
+ 
+2002 Hamels,Cole
+None
+ 
+2002 Hernandez,Livan
+total pitch counts:  3473.0
+ 
+2002 Jackson,Edwin
+None
+ 
+2002 Pelfrey,Mike
+None
+ 
+2002 Blanton,Joe
+None
+ 
+2002 Millwood,Kevin
+total pitch counts:  3324.0
+ 
+2002 Guthrie,Jeremy
+None
+ 
+2002 Cahill,Trevor
+None
+ 
+2002 Cueto,Johnny
+None
+ 
+2002 Francis,Jeff
+None
+ 
+2002 Baker,Scott
+None
+ 
+2002 Volstad,Chris
+None
+ 
+2002 Kendrick,Kyle
+None
+ 
+2002 Maholm,Paul
+None
+ 
+2002 Myers,Brett
+total pitch counts:  1073.0
+ 
+2002 Morton,Charlie
+None
+ 
+2002 Weaver,Jered
+None
+ 
+2002 Duke,Zach
+None
+ 
+2002 Bannister,BrianMartinez,Pedro
+None
+ 
+2002 Brown,Kevin
+total pitch counts:  1046.0
+ 
+2002 Johnson,Randy
+total pitch counts:  3988.0
+ 
+2002 Maddux,Greg
+total pitch counts:  2678.0
+ 
+2002 Hampton,Mike
+total pitch counts:  2997.0
+ 
+2002 Schilling,Curt
+total pitch counts:  3721.0
+ 
+2002 Burkett,John
+total pitch counts:  2691.0
+ 
+2002 Garcia,Freddy
+total pitch counts:  3593.0
+ 
+2002 Mays,Joe
+total pitch counts:  1518.0
+ 
+2002 Buehrle,Mark
+total pitch counts:  3512.0
+ 
+2002 Zito,Barry
+total pitch counts:  3689.0
+ 
+2002 Hudson,Tim
+total pitch counts:  3453.0
+ 
+2002 Oswalt,Roy
+total pitch counts:  3421.0
+ 
+2002 Wolf,Randy
+total pitch counts:  3205.0
+ 
+2002 Nomo,Hideo
+total pitch counts:  3466.0
+ 
+2002 Stottlemyre,Todd
+total pitch counts:  371.0
+ 
+2002 Leiter,Ai
+None
+ 
+2002 Tapani,Kevin
+None
+ 
+2002 Rogers,Kenny
+total pitch counts:  3334.0
+ 
+2002 Guzman,Juan
+None
+ 
+2002 Fernandez,Alex
+None
+ 
+2002 Hentgen,Pat
+total pitch counts:  376.0
+ 
+2002 Benes,Andy
+total pitch counts:  1657.0
+ 
+2002 Erickson,Scott
+total pitch counts:  2679.0
+ 
+2002 Nagy,Charles
+total pitch counts:  771.0
+ 
+2002 Martinez,Dennis
+None
+ 
+2002 Martinez,Ramon
+total pitch counts:  4644.0
+ 
+2002 Pettitte,Andy
+total pitch counts:  2133.0
+ 
+2002 Wells,David
+total pitch counts:  3136.0
+ 
+2002 Mcdowell,Jack
+None
+ 
+2002 Rijo,Jose
+total pitch counts:  1231.0
+ 
+2002 Finley,Chuck
+total pitch counts:  3124.0
+ 
+2002 Appier,Kevin
+total pitch counts:  3180.0
+ 
+2002 Smoltz,John
+total pitch counts:  1070.0
+ 
+2002 Cone,David
+None
+ 
+2002 Mussina,Mike
+total pitch counts:  3350.0
+ 
+2002 Glavine,Tom
+total pitch counts:  3592.0
+ 
+iterate through players in year:  2003 , to gather the probability
+ 
+2003 Halladay,Roy
+total pitch counts:  3617.0
+ 
+2003 Lee,Cliff
+total pitch counts:  806.0
+ 
+2003 Hamels,Cole
+None
+ 
+2003 Lester,Jon
+None
+ 
+2003 Greinke,Zack
+None
+ 
+2003 Lincecum,Tim
+None
+ 
+2003 Sabathia,CC
+total pitch counts:  3144.0
+ 
+2003 Santana,Johan
+total pitch counts:  2481.0
+ 
+2003 Hernandez,Felix
+None
+ 
+2003 Billingsley,Chad
+None
+ 
+2003 Weaver,Jered
+None
+ 
+2003 Kershaw,Clayton
+None
+ 
+2003 Carpenter,Chris
+None
+ 
+2003 Garza,Matt
+None
+ 
+2003 Wainwright,Adam
+None
+ 
+2003 Jimenez,Ubaldo
+None
+ 
+2003 Cain,Matt
+None
+ 
+2003 Sanchez,Jonathan
+None
+ 
+2003 Oswalt,Roy
+total pitch counts:  1925.0
+ 
+2003 Verlander,Justin
+None
+ 
+2003 Johnson,Josh
+None
+ 
+2003 Danks,John
+None
+ 
+2003 Jackson,Edwin
+total pitch counts:  342.0
+ 
+2003 Scherzer,Max
+None
+ 
+2003 Lilly,Ted
+total pitch counts:  2930.0
+ 
+2003 Lowe,Derek
+total pitch counts:  3138.0
+ 
+2003 Penny,Brad
+total pitch counts:  3058.0
+ 
+2003 Hammel,Jason
+None
+ 
+2003 Masterson,Justin
+None
+ 
+2003 Porcello,Rick
+None
+ 
+2003 Saunders,Joe
+None
+ 
+2003 Hamels,Cole
+None
+ 
+2003 Hernandez,Livan
+total pitch counts:  3580.0
+ 
+2003 Jackson,Edwin
+total pitch counts:  342.0
+ 
+2003 Pelfrey,Mike
+None
+ 
+2003 Blanton,Joe
+None
+ 
+2003 Millwood,Kevin
+total pitch counts:  3484.0
+ 
+2003 Guthrie,Jeremy
+None
+ 
+2003 Cahill,Trevor
+None
+ 
+2003 Cueto,Johnny
+None
+ 
+2003 Francis,Jeff
+None
+ 
+2003 Baker,Scott
+None
+ 
+2003 Volstad,Chris
+None
+ 
+2003 Kendrick,Kyle
+None
+ 
+2003 Maholm,Paul
+None
+ 
+2003 Myers,Brett
+total pitch counts:  3016.0
+ 
+2003 Morton,Charlie
+None
+ 
+2003 Weaver,Jered
+None
+ 
+2003 Duke,Zach
+None
+ 
+2003 Bannister,BrianMartinez,Pedro
+None
+ 
+2003 Brown,Kevin
+total pitch counts:  3100.0
+ 
+2003 Johnson,Randy
+total pitch counts:  1809.0
+ 
+2003 Maddux,Greg
+total pitch counts:  2935.0
+ 
+2003 Hampton,Mike
+total pitch counts:  2972.0
+ 
+2003 Schilling,Curt
+total pitch counts:  2452.0
+ 
+2003 Burkett,John
+total pitch counts:  2886.0
+ 
+2003 Garcia,Freddy
+total pitch counts:  3365.0
+ 
+2003 Mays,Joe
+total pitch counts:  2010.0
+ 
+2003 Buehrle,Mark
+total pitch counts:  3499.0
+ 
+2003 Zito,Barry
+total pitch counts:  3748.0
+ 
+2003 Hudson,Tim
+total pitch counts:  3495.0
+ 
+2003 Oswalt,Roy
+total pitch counts:  1925.0
+ 
+2003 Wolf,Randy
+total pitch counts:  3270.0
+ 
+2003 Nomo,Hideo
+total pitch counts:  3272.0
+ 
+2003 Stottlemyre,Todd
+None
+ 
+2003 Leiter,Ai
+None
+ 
+2003 Tapani,Kevin
+None
+ 
+2003 Rogers,Kenny
+total pitch counts:  3112.0
+ 
+2003 Guzman,Juan
+None
+ 
+2003 Fernandez,Alex
+None
+ 
+2003 Hentgen,Pat
+total pitch counts:  2575.0
+ 
+2003 Benes,Andy
+None
+ 
+2003 Erickson,Scott
+None
+ 
+2003 Nagy,Charles
+total pitch counts:  190.0
+ 
+2003 Martinez,Dennis
+None
+ 
+2003 Martinez,Ramon
+total pitch counts:  8053.0
+ 
+2003 Pettitte,Andy
+total pitch counts:  3383.0
+ 
+2003 Wells,David
+total pitch counts:  2937.0
+ 
+2003 Mcdowell,Jack
+None
+ 
+2003 Rijo,Jose
+None
+ 
+2003 Finley,Chuck
+None
+ 
+2003 Appier,Kevin
+total pitch counts:  2009.0
+ 
+2003 Smoltz,John
+total pitch counts:  814.0
+ 
+2003 Cone,David
+total pitch counts:  349.0
+ 
+2003 Mussina,Mike
+total pitch counts:  3245.0
+ 
+2003 Glavine,Tom
+total pitch counts:  2928.0
+ 
+iterate through players in year:  2004 , to gather the probability
+ 
+2004 Halladay,Roy
+total pitch counts:  2053.0
+ 
+2004 Lee,Cliff
+total pitch counts:  3172.0
+ 
+2004 Hamels,Cole
+None
+ 
+2004 Lester,Jon
+None
+ 
+2004 Greinke,Zack
+total pitch counts:  2287.0
+ 
+2004 Lincecum,Tim
+None
+ 
+2004 Sabathia,CC
+total pitch counts:  3106.0
+ 
+2004 Santana,Johan
+total pitch counts:  3424.0
+ 
+2004 Hernandez,Felix
+None
+ 
+2004 Billingsley,Chad
+None
+ 
+2004 Weaver,Jered
+None
+ 
+2004 Kershaw,Clayton
+None
+ 
+2004 Carpenter,Chris
+total pitch counts:  2694.0
+ 
+2004 Garza,Matt
+None
+ 
+2004 Wainwright,Adam
+None
+ 
+2004 Jimenez,Ubaldo
+None
+ 
+2004 Cain,Matt
+None
+ 
+2004 Sanchez,Jonathan
+None
+ 
+2004 Oswalt,Roy
+total pitch counts:  3589.0
+ 
+2004 Verlander,Justin
+None
+ 
+2004 Johnson,Josh
+None
+ 
+2004 Danks,John
+None
+ 
+2004 Jackson,Edwin
+total pitch counts:  436.0
+ 
+2004 Scherzer,Max
+None
+ 
+2004 Lilly,Ted
+total pitch counts:  3297.0
+ 
+2004 Lowe,Derek
+total pitch counts:  3072.0
+ 
+2004 Penny,Brad
+total pitch counts:  2280.0
+ 
+2004 Hammel,Jason
+None
+ 
+2004 Masterson,Justin
+None
+ 
+2004 Porcello,Rick
+None
+ 
+2004 Saunders,Joe
+None
+ 
+2004 Hamels,Cole
+None
+ 
+2004 Hernandez,Livan
+total pitch counts:  3918.0
+ 
+2004 Jackson,Edwin
+total pitch counts:  436.0
+ 
+2004 Pelfrey,Mike
+None
+ 
+2004 Blanton,Joe
+total pitch counts:  129.0
+ 
+2004 Millwood,Kevin
+total pitch counts:  2341.0
+ 
+2004 Guthrie,Jeremy
+total pitch counts:  177.0
+ 
+2004 Cahill,Trevor
+None
+ 
+2004 Cueto,Johnny
+None
+ 
+2004 Francis,Jeff
+total pitch counts:  648.0
+ 
+2004 Baker,Scott
+None
+ 
+2004 Volstad,Chris
+None
+ 
+2004 Kendrick,Kyle
+None
+ 
+2004 Maholm,Paul
+None
+ 
+2004 Myers,Brett
+total pitch counts:  2809.0
+ 
+2004 Morton,Charlie
+None
+ 
+2004 Weaver,Jered
+None
+ 
+2004 Duke,Zach
+None
+ 
+2004 Bannister,BrianMartinez,Pedro
+None
+ 
+2004 Brown,Kevin
+total pitch counts:  2045.0
+ 
+2004 Johnson,Randy
+total pitch counts:  3634.0
+ 
+2004 Maddux,Greg
+total pitch counts:  2923.0
+ 
+2004 Hampton,Mike
+total pitch counts:  2731.0
+ 
+2004 Schilling,Curt
+total pitch counts:  3414.0
+ 
+2004 Burkett,John
+None
+ 
+2004 Garcia,Freddy
+total pitch counts:  3286.0
+ 
+2004 Mays,Joe
+None
+ 
+2004 Buehrle,Mark
+total pitch counts:  3690.0
+ 
+2004 Zito,Barry
+total pitch counts:  3687.0
+ 
+2004 Hudson,Tim
+total pitch counts:  2762.0
+ 
+2004 Oswalt,Roy
+total pitch counts:  3589.0
+ 
+2004 Wolf,Randy
+total pitch counts:  2120.0
+ 
+2004 Nomo,Hideo
+total pitch counts:  1527.0
+ 
+2004 Stottlemyre,Todd
+None
+ 
+2004 Leiter,Ai
+None
+ 
+2004 Tapani,Kevin
+None
+ 
+2004 Rogers,Kenny
+total pitch counts:  3503.0
+ 
+2004 Guzman,Juan
+None
+ 
+2004 Fernandez,Alex
+None
+ 
+2004 Hentgen,Pat
+total pitch counts:  1389.0
+ 
+2004 Benes,Andy
+None
+ 
+2004 Erickson,Scott
+total pitch counts:  514.0
+ 
+2004 Nagy,Charles
+None
+ 
+2004 Martinez,Dennis
+None
+ 
+2004 Martinez,Ramon
+total pitch counts:  7195.0
+ 
+2004 Pettitte,Andy
+total pitch counts:  1348.0
+ 
+2004 Wells,David
+total pitch counts:  2805.0
+ 
+2004 Mcdowell,Jack
+None
+ 
+2004 Rijo,Jose
+None
+ 
+2004 Finley,Chuck
+None
+ 
+2004 Appier,Kevin
+total pitch counts:  86.0
+ 
+2004 Smoltz,John
+total pitch counts:  1104.0
+ 
+2004 Cone,David
+None
+ 
+2004 Mussina,Mike
+total pitch counts:  2602.0
+ 
+2004 Glavine,Tom
+total pitch counts:  3394.0
+ 
+iterate through players in year:  2005 , to gather the probability
+ 
+2005 Halladay,Roy
+total pitch counts:  1911.0
+ 
+2005 Lee,Cliff
+total pitch counts:  3097.0
+ 
+2005 Hamels,Cole
+None
+ 
+2005 Lester,Jon
+None
+ 
+2005 Greinke,Zack
+total pitch counts:  3088.0
+ 
+2005 Lincecum,Tim
+None
+ 
+2005 Sabathia,CC
+total pitch counts:  3153.0
+ 
+2005 Santana,Johan
+total pitch counts:  3335.0
+ 
+2005 Hernandez,Felix
+total pitch counts:  1218.0
+ 
+2005 Billingsley,Chad
+None
+ 
+2005 Weaver,Jered
+None
+ 
+2005 Kershaw,Clayton
+None
+ 
+2005 Carpenter,Chris
+total pitch counts:  3394.0
+ 
+2005 Garza,Matt
+None
+ 
+2005 Wainwright,Adam
+total pitch counts:  31.0
+ 
+2005 Jimenez,Ubaldo
+None
+ 
+2005 Cain,Matt
+total pitch counts:  716.0
+ 
+2005 Sanchez,Jonathan
+None
+ 
+2005 Oswalt,Roy
+total pitch counts:  3600.0
+ 
+2005 Verlander,Justin
+total pitch counts:  182.0
+ 
+2005 Johnson,Josh
+total pitch counts:  224.0
+ 
+2005 Danks,John
+None
+ 
+2005 Jackson,Edwin
+total pitch counts:  559.0
+ 
+2005 Scherzer,Max
+None
+ 
+2005 Lilly,Ted
+total pitch counts:  2139.0
+ 
+2005 Lowe,Derek
+total pitch counts:  3321.0
+ 
+2005 Penny,Brad
+total pitch counts:  2783.0
+ 
+2005 Hammel,Jason
+None
+ 
+2005 Masterson,Justin
+None
+ 
+2005 Porcello,Rick
+None
+ 
+2005 Saunders,Joe
+total pitch counts:  152.0
+ 
+2005 Hamels,Cole
+None
+ 
+2005 Hernandez,Livan
+total pitch counts:  4006.0
+ 
+2005 Jackson,Edwin
+total pitch counts:  559.0
+ 
+2005 Pelfrey,Mike
+None
+ 
+2005 Blanton,Joe
+total pitch counts:  3069.0
+ 
+2005 Millwood,Kevin
+total pitch counts:  2964.0
+ 
+2005 Guthrie,Jeremy
+total pitch counts:  82.0
+ 
+2005 Cahill,Trevor
+None
+ 
+2005 Cueto,Johnny
+None
+ 
+2005 Francis,Jeff
+total pitch counts:  3148.0
+ 
+2005 Baker,Scott
+total pitch counts:  824.0
+ 
+2005 Volstad,Chris
+None
+ 
+2005 Kendrick,Kyle
+None
+ 
+2005 Maholm,Paul
+total pitch counts:  610.0
+ 
+2005 Myers,Brett
+total pitch counts:  3472.0
+ 
+2005 Morton,Charlie
+None
+ 
+2005 Weaver,Jered
+None
+ 
+2005 Duke,Zach
+total pitch counts:  1270.0
+ 
+2005 Bannister,BrianMartinez,Pedro
+None
+ 
+2005 Brown,Kevin
+total pitch counts:  1235.0
+ 
+2005 Johnson,Randy
+total pitch counts:  3419.0
+ 
+2005 Maddux,Greg
+total pitch counts:  3098.0
+ 
+2005 Hampton,Mike
+total pitch counts:  1015.0
+ 
+2005 Schilling,Curt
+total pitch counts:  1485.0
+ 
+2005 Burkett,John
+None
+ 
+2005 Garcia,Freddy
+total pitch counts:  3397.0
+ 
+2005 Mays,Joe
+total pitch counts:  2389.0
+ 
+2005 Buehrle,Mark
+total pitch counts:  3475.0
+ 
+2005 Zito,Barry
+total pitch counts:  3801.0
+ 
+2005 Hudson,Tim
+total pitch counts:  2890.0
+ 
+2005 Oswalt,Roy
+total pitch counts:  3600.0
+ 
+2005 Wolf,Randy
+total pitch counts:  1293.0
+ 
+2005 Nomo,Hideo
+total pitch counts:  1736.0
+ 
+2005 Stottlemyre,Todd
+None
+ 
+2005 Leiter,Ai
+None
+ 
+2005 Tapani,Kevin
+None
+ 
+2005 Rogers,Kenny
+total pitch counts:  3013.0
+ 
+2005 Guzman,Juan
+None
+ 
+2005 Fernandez,Alex
+None
+ 
+2005 Hentgen,Pat
+None
+ 
+2005 Benes,Andy
+None
+ 
+2005 Erickson,Scott
+total pitch counts:  837.0
+ 
+2005 Nagy,Charles
+None
+ 
+2005 Martinez,Dennis
+None
+ 
+2005 Martinez,Ramon
+total pitch counts:  2675.0
+ 
+2005 Pettitte,Andy
+total pitch counts:  3190.0
+ 
+2005 Wells,David
+total pitch counts:  2781.0
+ 
+2005 Mcdowell,Jack
+None
+ 
+2005 Rijo,Jose
+None
+ 
+2005 Finley,Chuck
+None
+ 
+2005 Appier,Kevin
+None
+ 
+2005 Smoltz,John
+total pitch counts:  3298.0
+ 
+2005 Cone,David
+None
+ 
+2005 Mussina,Mike
+total pitch counts:  2976.0
+ 
+2005 Glavine,Tom
+total pitch counts:  3271.0
+ 
+iterate through players in year:  2006 , to gather the probability
+ 
+2006 Halladay,Roy
+total pitch counts:  3041.0
+ 
+2006 Lee,Cliff
+total pitch counts:  3368.0
+ 
+2006 Hamels,Cole
+total pitch counts:  2178.0
+ 
+2006 Lester,Jon
+total pitch counts:  1507.0
+ 
+2006 Greinke,Zack
+total pitch counts:  85.0
+ 
+2006 Lincecum,Tim
+None
+ 
+2006 Sabathia,CC
+total pitch counts:  2930.0
+ 
+2006 Santana,Johan
+total pitch counts:  3449.0
+ 
+2006 Hernandez,Felix
+total pitch counts:  3059.0
+ 
+2006 Billingsley,Chad
+total pitch counts:  1598.0
+ 
+2006 Weaver,Jered
+total pitch counts:  1932.0
+ 
+2006 Kershaw,Clayton
+None
+ 
+2006 Carpenter,Chris
+total pitch counts:  3259.0
+ 
+2006 Garza,Matt
+total pitch counts:  891.0
+ 
+2006 Wainwright,Adam
+total pitch counts:  1173.0
+ 
+2006 Jimenez,Ubaldo
+total pitch counts:  112.0
+ 
+2006 Cain,Matt
+total pitch counts:  3305.0
+ 
+2006 Sanchez,Jonathan
+total pitch counts:  718.0
+ 
+2006 Oswalt,Roy
+total pitch counts:  3240.0
+ 
+2006 Verlander,Justin
+total pitch counts:  2967.0
+ 
+2006 Johnson,Josh
+total pitch counts:  2582.0
+ 
+2006 Danks,John
+None
+ 
+2006 Jackson,Edwin
+total pitch counts:  689.0
+ 
+2006 Scherzer,Max
+None
+ 
+2006 Lilly,Ted
+total pitch counts:  3185.0
+ 
+2006 Lowe,Derek
+total pitch counts:  3253.0
+ 
+2006 Penny,Brad
+total pitch counts:  3233.0
+ 
+2006 Hammel,Jason
+total pitch counts:  801.0
+ 
+2006 Masterson,Justin
+None
+ 
+2006 Porcello,Rick
+None
+ 
+2006 Saunders,Joe
+total pitch counts:  1160.0
+ 
+2006 Hamels,Cole
+total pitch counts:  2178.0
+ 
+2006 Hernandez,Livan
+total pitch counts:  3469.0
+ 
+2006 Jackson,Edwin
+total pitch counts:  689.0
+ 
+2006 Pelfrey,Mike
+total pitch counts:  379.0
+ 
+2006 Blanton,Joe
+total pitch counts:  3162.0
+ 
+2006 Millwood,Kevin
+total pitch counts:  3306.0
+ 
+2006 Guthrie,Jeremy
+total pitch counts:  355.0
+ 
+2006 Cahill,Trevor
+None
+ 
+2006 Cueto,Johnny
+None
+ 
+2006 Francis,Jeff
+total pitch counts:  3175.0
+ 
+2006 Baker,Scott
+total pitch counts:  1440.0
+ 
+2006 Volstad,Chris
+None
+ 
+2006 Kendrick,Kyle
+None
+ 
+2006 Maholm,Paul
+total pitch counts:  2913.0
+ 
+2006 Myers,Brett
+total pitch counts:  3218.0
+ 
+2006 Morton,Charlie
+None
+ 
+2006 Weaver,Jered
+total pitch counts:  1932.0
+ 
+2006 Duke,Zach
+total pitch counts:  3271.0
+ 
+2006 Bannister,BrianMartinez,Pedro
+None
+ 
+2006 Brown,Kevin
+None
+ 
+2006 Johnson,Randy
+total pitch counts:  3258.0
+ 
+2006 Maddux,Greg
+total pitch counts:  2802.0
+ 
+2006 Hampton,Mike
+None
+ 
+2006 Schilling,Curt
+total pitch counts:  3246.0
+ 
+2006 Burkett,John
+None
+ 
+2006 Garcia,Freddy
+total pitch counts:  3315.0
+ 
+2006 Mays,Joe
+total pitch counts:  904.0
+ 
+2006 Buehrle,Mark
+total pitch counts:  3102.0
+ 
+2006 Zito,Barry
+total pitch counts:  3662.0
+ 
+2006 Hudson,Tim
+total pitch counts:  3416.0
+ 
+2006 Oswalt,Roy
+total pitch counts:  3240.0
+ 
+2006 Wolf,Randy
+total pitch counts:  1058.0
+ 
+2006 Nomo,Hideo
+None
+ 
+2006 Stottlemyre,Todd
+None
+ 
+2006 Leiter,Ai
+None
+ 
+2006 Tapani,Kevin
+None
+ 
+2006 Rogers,Kenny
+total pitch counts:  3080.0
+ 
+2006 Guzman,Juan
+None
+ 
+2006 Fernandez,Alex
+None
+ 
+2006 Hentgen,Pat
+None
+ 
+2006 Benes,Andy
+None
+ 
+2006 Erickson,Scott
+total pitch counts:  240.0
+ 
+2006 Nagy,Charles
+None
+ 
+2006 Martinez,Dennis
+None
+ 
+2006 Martinez,Ramon
+total pitch counts:  4087.0
+ 
+2006 Pettitte,Andy
+total pitch counts:  3472.0
+ 
+2006 Wells,David
+total pitch counts:  1101.0
+ 
+2006 Mcdowell,Jack
+None
+ 
+2006 Rijo,Jose
+None
+ 
+2006 Finley,Chuck
+None
+ 
+2006 Appier,Kevin
+None
+ 
+2006 Smoltz,John
+total pitch counts:  3534.0
+ 
+2006 Cone,David
+None
+ 
+2006 Mussina,Mike
+total pitch counts:  3038.0
+ 
+2006 Glavine,Tom
+total pitch counts:  3266.0
+ 
+iterate through players in year:  2007 , to gather the probability
+ 
+2007 Halladay,Roy
+total pitch counts:  3325.0
+ 
+2007 Lee,Cliff
+total pitch counts:  1647.0
+ 
+2007 Hamels,Cole
+total pitch counts:  2789.0
+ 
+2007 Lester,Jon
+total pitch counts:  1083.0
+ 
+2007 Greinke,Zack
+total pitch counts:  2068.0
+ 
+2007 Lincecum,Tim
+total pitch counts:  2388.0
+ 
+2007 Sabathia,CC
+total pitch counts:  3578.0
+ 
+2007 Santana,Johan
+total pitch counts:  3345.0
+ 
+2007 Hernandez,Felix
+total pitch counts:  3006.0
+ 
+2007 Billingsley,Chad
+total pitch counts:  2470.0
+ 
+2007 Weaver,Jered
+total pitch counts:  2733.0
+ 
+2007 Kershaw,Clayton
+None
+ 
+2007 Carpenter,Chris
+total pitch counts:  101.0
+ 
+2007 Garza,Matt
+total pitch counts:  1373.0
+ 
+2007 Wainwright,Adam
+total pitch counts:  3174.0
+ 
+2007 Jimenez,Ubaldo
+total pitch counts:  1343.0
+ 
+2007 Cain,Matt
+total pitch counts:  3348.0
+ 
+2007 Sanchez,Jonathan
+total pitch counts:  924.0
+ 
+2007 Oswalt,Roy
+total pitch counts:  3302.0
+ 
+2007 Verlander,Justin
+total pitch counts:  3360.0
+ 
+2007 Johnson,Josh
+total pitch counts:  320.0
+ 
+2007 Danks,John
+total pitch counts:  2407.0
+ 
+2007 Jackson,Edwin
+total pitch counts:  2952.0
+ 
+2007 Scherzer,Max
+None
+ 
+2007 Lilly,Ted
+total pitch counts:  3238.0
+ 
+2007 Lowe,Derek
+total pitch counts:  3019.0
+ 
+2007 Penny,Brad
+total pitch counts:  3227.0
+ 
+2007 Hammel,Jason
+total pitch counts:  1591.0
+ 
+2007 Masterson,Justin
+None
+ 
+2007 Porcello,Rick
+None
+ 
+2007 Saunders,Joe
+total pitch counts:  1774.0
+ 
+2007 Hamels,Cole
+total pitch counts:  2789.0
+ 
+2007 Hernandez,Livan
+total pitch counts:  3357.0
+ 
+2007 Jackson,Edwin
+total pitch counts:  2952.0
+ 
+2007 Pelfrey,Mike
+total pitch counts:  1285.0
+ 
+2007 Blanton,Joe
+total pitch counts:  3484.0
+ 
+2007 Millwood,Kevin
+total pitch counts:  2951.0
+ 
+2007 Guthrie,Jeremy
+total pitch counts:  2672.0
+ 
+2007 Cahill,Trevor
+None
+ 
+2007 Cueto,Johnny
+None
+ 
+2007 Francis,Jeff
+total pitch counts:  3485.0
+ 
+2007 Baker,Scott
+total pitch counts:  2097.0
+ 
+2007 Volstad,Chris
+None
+ 
+2007 Kendrick,Kyle
+total pitch counts:  1749.0
+ 
+2007 Maholm,Paul
+total pitch counts:  2643.0
+ 
+2007 Myers,Brett
+total pitch counts:  1094.0
+ 
+2007 Morton,Charlie
+None
+ 
+2007 Weaver,Jered
+total pitch counts:  2733.0
+ 
+2007 Duke,Zach
+total pitch counts:  1713.0
+ 
+2007 Bannister,BrianMartinez,Pedro
+None
+ 
+2007 Brown,Kevin
+None
+ 
+2007 Johnson,Randy
+total pitch counts:  905.0
+ 
+2007 Maddux,Greg
+total pitch counts:  2703.0
+ 
+2007 Hampton,Mike
+None
+ 
+2007 Schilling,Curt
+total pitch counts:  2271.0
+ 
+2007 Burkett,John
+None
+ 
+2007 Garcia,Freddy
+total pitch counts:  1040.0
+ 
+2007 Mays,Joe
+None
+ 
+2007 Buehrle,Mark
+total pitch counts:  3102.0
+ 
+2007 Zito,Barry
+total pitch counts:  3409.0
+ 
+2007 Hudson,Tim
+total pitch counts:  3165.0
+ 
+2007 Oswalt,Roy
+total pitch counts:  3302.0
+ 
+2007 Wolf,Randy
+total pitch counts:  1782.0
+ 
+2007 Nomo,Hideo
+None
+ 
+2007 Stottlemyre,Todd
+None
+ 
+2007 Leiter,Ai
+None
+ 
+2007 Tapani,Kevin
+None
+ 
+2007 Rogers,Kenny
+total pitch counts:  1016.0
+ 
+2007 Guzman,Juan
+None
+ 
+2007 Fernandez,Alex
+None
+ 
+2007 Hentgen,Pat
+None
+ 
+2007 Benes,Andy
+None
+ 
+2007 Erickson,Scott
+None
+ 
+2007 Nagy,Charles
+None
+ 
+2007 Martinez,Dennis
+None
+ 
+2007 Martinez,Ramon
+total pitch counts:  3158.0
+ 
+2007 Pettitte,Andy
+total pitch counts:  3395.0
+ 
+2007 Wells,David
+total pitch counts:  2428.0
+ 
+2007 Mcdowell,Jack
+None
+ 
+2007 Rijo,Jose
+None
+ 
+2007 Finley,Chuck
+None
+ 
+2007 Appier,Kevin
+None
+ 
+2007 Smoltz,John
+total pitch counts:  3058.0
+ 
+2007 Cone,David
+None
+ 
+2007 Mussina,Mike
+total pitch counts:  2392.0
+ 
+2007 Glavine,Tom
+total pitch counts:  3341.0
+ 
+iterate through players in year:  2008 , to gather the probability
+ 
+2008 Halladay,Roy
+total pitch counts:  3557.0
+ 
+2008 Lee,Cliff
+total pitch counts:  3289.0
+ 
+2008 Hamels,Cole
+total pitch counts:  3427.0
+ 
+2008 Lester,Jon
+total pitch counts:  3309.0
+ 
+2008 Greinke,Zack
+total pitch counts:  3227.0
+ 
+2008 Lincecum,Tim
+total pitch counts:  3682.0
+ 
+2008 Sabathia,CC
+total pitch counts:  3813.0
+ 
+2008 Santana,Johan
+total pitch counts:  3598.0
+ 
+2008 Hernandez,Felix
+total pitch counts:  3194.0
+ 
+2008 Billingsley,Chad
+total pitch counts:  3322.0
+ 
+2008 Weaver,Jered
+total pitch counts:  3040.0
+ 
+2008 Kershaw,Clayton
+total pitch counts:  1859.0
+ 
+2008 Carpenter,Chris
+total pitch counts:  206.0
+ 
+2008 Garza,Matt
+total pitch counts:  2947.0
+ 
+2008 Wainwright,Adam
+total pitch counts:  1946.0
+ 
+2008 Jimenez,Ubaldo
+total pitch counts:  3356.0
+ 
+2008 Cain,Matt
+total pitch counts:  3606.0
+ 
+2008 Sanchez,Jonathan
+total pitch counts:  2829.0
+ 
+2008 Oswalt,Roy
+total pitch counts:  3091.0
+ 
+2008 Verlander,Justin
+total pitch counts:  3528.0
+ 
+2008 Johnson,Josh
+total pitch counts:  1411.0
+ 
+2008 Danks,John
+total pitch counts:  3143.0
+ 
+2008 Jackson,Edwin
+total pitch counts:  3043.0
+ 
+2008 Scherzer,Max
+total pitch counts:  931.0
+ 
+2008 Lilly,Ted
+total pitch counts:  3240.0
+ 
+2008 Lowe,Derek
+total pitch counts:  3138.0
+ 
+2008 Penny,Brad
+total pitch counts:  1689.0
+ 
+2008 Hammel,Jason
+total pitch counts:  1170.0
+ 
+2008 Masterson,Justin
+total pitch counts:  1385.0
+ 
+2008 Porcello,Rick
+None
+ 
+2008 Saunders,Joe
+total pitch counts:  3002.0
+ 
+2008 Hamels,Cole
+total pitch counts:  3427.0
+ 
+2008 Hernandez,Livan
+total pitch counts:  2790.0
+ 
+2008 Jackson,Edwin
+total pitch counts:  3043.0
+ 
+2008 Pelfrey,Mike
+total pitch counts:  3324.0
+ 
+2008 Blanton,Joe
+total pitch counts:  3249.0
+ 
+2008 Millwood,Kevin
+total pitch counts:  2711.0
+ 
+2008 Guthrie,Jeremy
+total pitch counts:  3062.0
+ 
+2008 Cahill,Trevor
+None
+ 
+2008 Cueto,Johnny
+total pitch counts:  3036.0
+ 
+2008 Francis,Jeff
+total pitch counts:  2385.0
+ 
+2008 Baker,Scott
+total pitch counts:  2693.0
+ 
+2008 Volstad,Chris
+total pitch counts:  1314.0
+ 
+2008 Kendrick,Kyle
+total pitch counts:  2620.0
+ 
+2008 Maholm,Paul
+total pitch counts:  3040.0
+ 
+2008 Myers,Brett
+total pitch counts:  3016.0
+ 
+2008 Morton,Charlie
+total pitch counts:  1355.0
+ 
+2008 Weaver,Jered
+total pitch counts:  3040.0
+ 
+2008 Duke,Zach
+total pitch counts:  2931.0
+ 
+2008 Bannister,BrianMartinez,Pedro
+None
+ 
+2008 Brown,Kevin
+None
+ 
+2008 Johnson,Randy
+total pitch counts:  2898.0
+ 
+2008 Maddux,Greg
+total pitch counts:  2602.0
+ 
+2008 Hampton,Mike
+total pitch counts:  1193.0
+ 
+2008 Schilling,Curt
+None
+ 
+2008 Burkett,John
+None
+ 
+2008 Garcia,Freddy
+total pitch counts:  206.0
+ 
+2008 Mays,Joe
+None
+ 
+2008 Buehrle,Mark
+total pitch counts:  3388.0
+ 
+2008 Zito,Barry
+total pitch counts:  3206.0
+ 
+2008 Hudson,Tim
+total pitch counts:  2009.0
+ 
+2008 Oswalt,Roy
+total pitch counts:  3091.0
+ 
+2008 Wolf,Randy
+total pitch counts:  3172.0
+ 
+2008 Nomo,Hideo
+total pitch counts:  110.0
+ 
+2008 Stottlemyre,Todd
+None
+ 
+2008 Leiter,Ai
+None
+ 
+2008 Tapani,Kevin
+None
+ 
+2008 Rogers,Kenny
+total pitch counts:  2840.0
+ 
+2008 Guzman,Juan
+None
+ 
+2008 Fernandez,Alex
+None
+ 
+2008 Hentgen,Pat
+None
+ 
+2008 Benes,Andy
+None
+ 
+2008 Erickson,Scott
+None
+ 
+2008 Nagy,Charles
+None
+ 
+2008 Martinez,Dennis
+None
+ 
+2008 Martinez,Ramon
+total pitch counts:  426.0
+ 
+2008 Pettitte,Andy
+total pitch counts:  3274.0
+ 
+2008 Wells,David
+None
+ 
+2008 Mcdowell,Jack
+None
+ 
+2008 Rijo,Jose
+None
+ 
+2008 Finley,Chuck
+None
+ 
+2008 Appier,Kevin
+None
+ 
+2008 Smoltz,John
+total pitch counts:  449.0
+ 
+2008 Cone,David
+None
+ 
+2008 Mussina,Mike
+total pitch counts:  3135.0
+ 
+2008 Glavine,Tom
+total pitch counts:  1091.0
+ 
+iterate through players in year:  2009 , to gather the probability
+ 
+2009 Halladay,Roy
+total pitch counts:  3392.0
+ 
+2009 Lee,Cliff
+total pitch counts:  3532.0
+ 
+2009 Hamels,Cole
+total pitch counts:  3118.0
+ 
+2009 Lester,Jon
+total pitch counts:  3404.0
+ 
+2009 Greinke,Zack
+total pitch counts:  3476.0
+ 
+2009 Lincecum,Tim
+total pitch counts:  3439.0
+ 
+2009 Sabathia,CC
+total pitch counts:  3586.0
+ 
+2009 Santana,Johan
+total pitch counts:  2574.0
+ 
+2009 Hernandez,Felix
+total pitch counts:  3632.0
+ 
+2009 Billingsley,Chad
+total pitch counts:  3250.0
+ 
+2009 Weaver,Jered
+total pitch counts:  3401.0
+ 
+2009 Kershaw,Clayton
+total pitch counts:  3028.0
+ 
+2009 Carpenter,Chris
+total pitch counts:  2670.0
+ 
+2009 Garza,Matt
+total pitch counts:  3420.0
+ 
+2009 Wainwright,Adam
+total pitch counts:  3614.0
+ 
+2009 Jimenez,Ubaldo
+total pitch counts:  3570.0
+ 
+2009 Cain,Matt
+total pitch counts:  3361.0
+ 
+2009 Sanchez,Jonathan
+total pitch counts:  2849.0
+ 
+2009 Oswalt,Roy
+total pitch counts:  2781.0
+ 
+2009 Verlander,Justin
+total pitch counts:  3939.0
+ 
+2009 Johnson,Josh
+total pitch counts:  3284.0
+ 
+2009 Danks,John
+total pitch counts:  3210.0
+ 
+2009 Jackson,Edwin
+total pitch counts:  3465.0
+ 
+2009 Scherzer,Max
+total pitch counts:  3073.0
+ 
+2009 Lilly,Ted
+total pitch counts:  2671.0
+ 
+2009 Lowe,Derek
+total pitch counts:  3212.0
+ 
+2009 Penny,Brad
+total pitch counts:  2950.0
+ 
+2009 Hammel,Jason
+total pitch counts:  2771.0
+ 
+2009 Masterson,Justin
+total pitch counts:  2154.0
+ 
+2009 Porcello,Rick
+total pitch counts:  2728.0
+ 
+2009 Saunders,Joe
+total pitch counts:  3008.0
+ 
+2009 Hamels,Cole
+total pitch counts:  3118.0
+ 
+2009 Hernandez,Livan
+total pitch counts:  2925.0
+ 
+2009 Jackson,Edwin
+total pitch counts:  3465.0
+ 
+2009 Pelfrey,Mike
+total pitch counts:  3158.0
+ 
+2009 Blanton,Joe
+total pitch counts:  3251.0
+ 
+2009 Millwood,Kevin
+total pitch counts:  3273.0
+ 
+2009 Guthrie,Jeremy
+total pitch counts:  3359.0
+ 
+2009 Cahill,Trevor
+total pitch counts:  3006.0
+ 
+2009 Cueto,Johnny
+total pitch counts:  2904.0
+ 
+2009 Francis,Jeff
+None
+ 
+2009 Baker,Scott
+total pitch counts:  3256.0
+ 
+2009 Volstad,Chris
+total pitch counts:  2588.0
+ 
+2009 Kendrick,Kyle
+total pitch counts:  358.0
+ 
+2009 Maholm,Paul
+total pitch counts:  3051.0
+ 
+2009 Myers,Brett
+total pitch counts:  1145.0
+ 
+2009 Morton,Charlie
+total pitch counts:  1599.0
+ 
+2009 Weaver,Jered
+total pitch counts:  3401.0
+ 
+2009 Duke,Zach
+total pitch counts:  3070.0
+ 
+2009 Bannister,BrianMartinez,Pedro
+None
+ 
+2009 Brown,Kevin
+None
+ 
+2009 Johnson,Randy
+total pitch counts:  1507.0
+ 
+2009 Maddux,Greg
+None
+ 
+2009 Hampton,Mike
+total pitch counts:  1852.0
+ 
+2009 Schilling,Curt
+None
+ 
+2009 Burkett,John
+None
+ 
+2009 Garcia,Freddy
+total pitch counts:  824.0
+ 
+2009 Mays,Joe
+None
+ 
+2009 Buehrle,Mark
+total pitch counts:  3213.0
+ 
+2009 Zito,Barry
+total pitch counts:  3204.0
+ 
+2009 Hudson,Tim
+total pitch counts:  603.0
+ 
+2009 Oswalt,Roy
+total pitch counts:  2781.0
+ 
+2009 Wolf,Randy
+total pitch counts:  3286.0
+ 
+2009 Nomo,Hideo
+None
+ 
+2009 Stottlemyre,Todd
+None
+ 
+2009 Leiter,Ai
+None
+ 
+2009 Tapani,Kevin
+None
+ 
+2009 Rogers,Kenny
+None
+ 
+2009 Guzman,Juan
+None
+ 
+2009 Fernandez,Alex
+None
+ 
+2009 Hentgen,Pat
+None
+ 
+2009 Benes,Andy
+None
+ 
+2009 Erickson,Scott
+None
+ 
+2009 Nagy,Charles
+None
+ 
+2009 Martinez,Dennis
+None
+ 
+2009 Martinez,Ramon
+total pitch counts:  1194.0
+ 
+2009 Pettitte,Andy
+total pitch counts:  3290.0
+ 
+2009 Wells,David
+None
+ 
+2009 Mcdowell,Jack
+None
+ 
+2009 Rijo,Jose
+None
+ 
+2009 Finley,Chuck
+None
+ 
+2009 Appier,Kevin
+None
+ 
+2009 Smoltz,John
+total pitch counts:  1316.0
+ 
+2009 Cone,David
+None
+ 
+2009 Mussina,Mike
+None
+ 
+2009 Glavine,Tom
+None
+ 
+iterate through players in year:  2010 , to gather the probability
+ 
+2010 Halladay,Roy
+total pitch counts:  3568.0
+ 
+2010 Lee,Cliff
+total pitch counts:  2974.0
+ 
+2010 Hamels,Cole
+total pitch counts:  3368.0
+ 
+2010 Lester,Jon
+total pitch counts:  3358.0
+ 
+2010 Greinke,Zack
+total pitch counts:  3443.0
+ 
+2010 Lincecum,Tim
+total pitch counts:  3437.0
+ 
+2010 Sabathia,CC
+total pitch counts:  3586.0
+ 
+2010 Santana,Johan
+total pitch counts:  3004.0
+ 
+2010 Hernandez,Felix
+total pitch counts:  3731.0
+ 
+2010 Billingsley,Chad
+total pitch counts:  3138.0
+ 
+2010 Weaver,Jered
+total pitch counts:  3717.0
+ 
+2010 Kershaw,Clayton
+total pitch counts:  3390.0
+ 
+2010 Carpenter,Chris
+total pitch counts:  3549.0
+ 
+2010 Garza,Matt
+total pitch counts:  3281.0
+ 
+2010 Wainwright,Adam
+total pitch counts:  3356.0
+ 
+2010 Jimenez,Ubaldo
+total pitch counts:  3600.0
+ 
+2010 Cain,Matt
+total pitch counts:  3506.0
+ 
+2010 Sanchez,Jonathan
+total pitch counts:  3233.0
+ 
+2010 Oswalt,Roy
+total pitch counts:  3194.0
+ 
+2010 Verlander,Justin
+total pitch counts:  3745.0
+ 
+2010 Johnson,Josh
+total pitch counts:  2987.0
+ 
+2010 Danks,John
+total pitch counts:  3389.0
+ 
+2010 Jackson,Edwin
+total pitch counts:  3362.0
+ 
+2010 Scherzer,Max
+total pitch counts:  3299.0
+ 
+2010 Lilly,Ted
+total pitch counts:  2954.0
+ 
+2010 Lowe,Derek
+total pitch counts:  3165.0
+ 
+2010 Penny,Brad
+total pitch counts:  812.0
+ 
+2010 Hammel,Jason
+total pitch counts:  2837.0
+ 
+2010 Masterson,Justin
+total pitch counts:  3088.0
+ 
+2010 Porcello,Rick
+total pitch counts:  2591.0
+ 
+2010 Saunders,Joe
+total pitch counts:  3315.0
+ 
+2010 Hamels,Cole
+total pitch counts:  3368.0
+ 
+2010 Hernandez,Livan
+total pitch counts:  3247.0
+ 
+2010 Jackson,Edwin
+total pitch counts:  3362.0
+ 
+2010 Pelfrey,Mike
+total pitch counts:  3388.0
+ 
+2010 Blanton,Joe
+total pitch counts:  2747.0
+ 
+2010 Millwood,Kevin
+total pitch counts:  3210.0
+ 
+2010 Guthrie,Jeremy
+total pitch counts:  3325.0
+ 
+2010 Cahill,Trevor
+total pitch counts:  3037.0
+ 
+2010 Cueto,Johnny
+total pitch counts:  3117.0
+ 
+2010 Francis,Jeff
+total pitch counts:  1658.0
+ 
+2010 Baker,Scott
+total pitch counts:  2674.0
+ 
+2010 Volstad,Chris
+total pitch counts:  2831.0
+ 
+2010 Kendrick,Kyle
+total pitch counts:  2828.0
+ 
+2010 Maholm,Paul
+total pitch counts:  3067.0
+ 
+2010 Myers,Brett
+total pitch counts:  3457.0
+ 
+2010 Morton,Charlie
+total pitch counts:  1432.0
+ 
+2010 Weaver,Jered
+total pitch counts:  3717.0
+ 
+2010 Duke,Zach
+total pitch counts:  2639.0
+ 
+2010 Bannister,BrianMartinez,Pedro
+None
+ 
+2010 Brown,Kevin
+None
+ 
+2010 Johnson,Randy
+None
+ 
+2010 Maddux,Greg
+None
+ 
+2010 Hampton,Mike
+total pitch counts:  58.0
+ 
+2010 Schilling,Curt
+None
+ 
+2010 Burkett,John
+None
+ 
+2010 Garcia,Freddy
+total pitch counts:  2471.0
+ 
+2010 Mays,Joe
+None
+ 
+2010 Buehrle,Mark
+total pitch counts:  3310.0
+ 
+2010 Zito,Barry
+total pitch counts:  3222.0
+ 
+2010 Hudson,Tim
+total pitch counts:  3342.0
+ 
+2010 Oswalt,Roy
+total pitch counts:  3194.0
+ 
+2010 Wolf,Randy
+total pitch counts:  3575.0
+ 
+2010 Nomo,Hideo
+None
+ 
+2010 Stottlemyre,Todd
+None
+ 
+2010 Leiter,Ai
+None
+ 
+2010 Tapani,Kevin
+None
+ 
+2010 Rogers,Kenny
+None
+ 
+2010 Guzman,Juan
+None
+ 
+2010 Fernandez,Alex
+None
+ 
+2010 Hentgen,Pat
+None
+ 
+2010 Benes,Andy
+None
+ 
+2010 Erickson,Scott
+None
+ 
+2010 Nagy,Charles
+None
+ 
+2010 Martinez,Dennis
+None
+ 
+2010 Martinez,Ramon
+None
+ 
+2010 Pettitte,Andy
+total pitch counts:  2000.0
+ 
+2010 Wells,David
+None
+ 
+2010 Mcdowell,Jack
+None
+ 
+2010 Rijo,Jose
+None
+ 
+2010 Finley,Chuck
+None
+ 
+2010 Appier,Kevin
+None
+ 
+2010 Smoltz,John
+None
+ 
+2010 Cone,David
+None
+ 
+2010 Mussina,Mike
+None
+ 
+2010 Glavine,Tom
+None
+ 
+iterate through players in year:  2011 , to gather the probability
+ 
+2011 Halladay,Roy
+total pitch counts:  3466.0
+ 
+2011 Lee,Cliff
+total pitch counts:  3405.0
+ 
+2011 Hamels,Cole
+total pitch counts:  3131.0
+ 
+2011 Lester,Jon
+total pitch counts:  3192.0
+ 
+2011 Greinke,Zack
+total pitch counts:  2840.0
+ 
+2011 Lincecum,Tim
+total pitch counts:  3606.0
+ 
+2011 Sabathia,CC
+total pitch counts:  3604.0
+ 
+2011 Santana,Johan
+None
+ 
+2011 Hernandez,Felix
+total pitch counts:  3609.0
+ 
+2011 Billingsley,Chad
+total pitch counts:  3220.0
+ 
+2011 Weaver,Jered
+total pitch counts:  3746.0
+ 
+2011 Kershaw,Clayton
+total pitch counts:  3469.0
+ 
+2011 Carpenter,Chris
+total pitch counts:  3613.0
+ 
+2011 Garza,Matt
+total pitch counts:  3192.0
+ 
+2011 Wainwright,Adam
+None
+ 
+2011 Jimenez,Ubaldo
+total pitch counts:  3258.0
+ 
+2011 Cain,Matt
+total pitch counts:  3487.0
+ 
+2011 Sanchez,Jonathan
+total pitch counts:  1756.0
+ 
+2011 Oswalt,Roy
+total pitch counts:  2158.0
+ 
+2011 Verlander,Justin
+total pitch counts:  3946.0
+ 
+2011 Johnson,Josh
+total pitch counts:  940.0
+ 
+2011 Danks,John
+total pitch counts:  2753.0
+ 
+2011 Jackson,Edwin
+total pitch counts:  3243.0
+ 
+2011 Scherzer,Max
+total pitch counts:  3343.0
+ 
+2011 Lilly,Ted
+total pitch counts:  3026.0
+ 
+2011 Lowe,Derek
+total pitch counts:  3226.0
+ 
+2011 Penny,Brad
+total pitch counts:  2951.0
+ 
+2011 Hammel,Jason
+total pitch counts:  2679.0
+ 
+2011 Masterson,Justin
+total pitch counts:  3459.0
+ 
+2011 Porcello,Rick
+total pitch counts:  2860.0
+ 
+2011 Saunders,Joe
+total pitch counts:  3217.0
+ 
+2011 Hamels,Cole
+total pitch counts:  3131.0
+ 
+2011 Hernandez,Livan
+total pitch counts:  2688.0
+ 
+2011 Jackson,Edwin
+total pitch counts:  3243.0
+ 
+2011 Pelfrey,Mike
+total pitch counts:  3216.0
+ 
+2011 Blanton,Joe
+total pitch counts:  588.0
+ 
+2011 Millwood,Kevin
+total pitch counts:  835.0
+ 
+2011 Guthrie,Jeremy
+total pitch counts:  3308.0
+ 
+2011 Cahill,Trevor
+total pitch counts:  3385.0
+ 
+2011 Cueto,Johnny
+total pitch counts:  2394.0
+ 
+2011 Francis,Jeff
+total pitch counts:  2952.0
+ 
+2011 Baker,Scott
+total pitch counts:  2132.0
+ 
+2011 Volstad,Chris
+total pitch counts:  2599.0
+ 
+2011 Kendrick,Kyle
+total pitch counts:  1634.0
+ 
+2011 Maholm,Paul
+total pitch counts:  2456.0
+ 
+2011 Myers,Brett
+total pitch counts:  3348.0
+ 
+2011 Morton,Charlie
+total pitch counts:  2734.0
+ 
+2011 Weaver,Jered
+total pitch counts:  3746.0
+ 
+2011 Duke,Zach
+total pitch counts:  1214.0
+ 
+2011 Bannister,BrianMartinez,Pedro
+None
+ 
+2011 Brown,Kevin
+None
+ 
+2011 Johnson,Randy
+None
+ 
+2011 Maddux,Greg
+None
+ 
+2011 Hampton,Mike
+None
+ 
+2011 Schilling,Curt
+None
+ 
+2011 Burkett,John
+None
+ 
+2011 Garcia,Freddy
+total pitch counts:  2291.0
+ 
+2011 Mays,Joe
+None
+ 
+2011 Buehrle,Mark
+total pitch counts:  3148.0
+ 
+2011 Zito,Barry
+total pitch counts:  866.0
+ 
+2011 Hudson,Tim
+total pitch counts:  3204.0
+ 
+2011 Oswalt,Roy
+total pitch counts:  2158.0
+ 
+2011 Wolf,Randy
+total pitch counts:  3377.0
+ 
+2011 Nomo,Hideo
+None
+ 
+2011 Stottlemyre,Todd
+None
+ 
+2011 Leiter,Ai
+None
+ 
+2011 Tapani,Kevin
+None
+ 
+2011 Rogers,Kenny
+None
+ 
+2011 Guzman,Juan
+None
+ 
+2011 Fernandez,Alex
+None
+ 
+2011 Hentgen,Pat
+None
+ 
+2011 Benes,Andy
+None
+ 
+2011 Erickson,Scott
+None
+ 
+2011 Nagy,Charles
+None
+ 
+2011 Martinez,Dennis
+None
+ 
+2011 Martinez,Ramon
+None
+ 
+2011 Pettitte,Andy
+None
+ 
+2011 Wells,David
+None
+ 
+2011 Mcdowell,Jack
+None
+ 
+2011 Rijo,Jose
+None
+ 
+2011 Finley,Chuck
+None
+ 
+2011 Appier,Kevin
+None
+ 
+2011 Smoltz,John
+None
+ 
+2011 Cone,David
+None
+ 
+2011 Mussina,Mike
+None
+ 
+2011 Glavine,Tom
+None
+ 
+iterate through players in year:  2012 , to gather the probability
+ 
+2012 Halladay,Roy
+total pitch counts:  2390.0
+ 
+2012 Lee,Cliff
+total pitch counts:  3086.0
+ 
+2012 Hamels,Cole
+total pitch counts:  3318.0
+ 
+2012 Lester,Jon
+total pitch counts:  3420.0
+ 
+2012 Greinke,Zack
+total pitch counts:  3383.0
+ 
+2012 Lincecum,Tim
+total pitch counts:  3298.0
+ 
+2012 Sabathia,CC
+total pitch counts:  3027.0
+ 
+2012 Santana,Johan
+total pitch counts:  1940.0
+ 
+2012 Hernandez,Felix
+total pitch counts:  3425.0
+ 
+2012 Billingsley,Chad
+total pitch counts:  2380.0
+ 
+2012 Weaver,Jered
+total pitch counts:  2857.0
+ 
+2012 Kershaw,Clayton
+total pitch counts:  3466.0
+ 
+2012 Carpenter,Chris
+total pitch counts:  259.0
+ 
+2012 Garza,Matt
+total pitch counts:  1697.0
+ 
+2012 Wainwright,Adam
+total pitch counts:  3091.0
+ 
+2012 Jimenez,Ubaldo
+total pitch counts:  3123.0
+ 
+2012 Cain,Matt
+total pitch counts:  3345.0
+ 
+2012 Sanchez,Jonathan
+total pitch counts:  1339.0
+ 
+2012 Oswalt,Roy
+total pitch counts:  1001.0
+ 
+2012 Verlander,Justin
+total pitch counts:  3769.0
+ 
+2012 Johnson,Josh
+total pitch counts:  3144.0
+ 
+2012 Danks,John
+total pitch counts:  834.0
+ 
+2012 Jackson,Edwin
+total pitch counts:  2968.0
+ 
+2012 Scherzer,Max
+total pitch counts:  3278.0
+ 
+2012 Lilly,Ted
+total pitch counts:  707.0
+ 
+2012 Lowe,Derek
+total pitch counts:  2293.0
+ 
+2012 Penny,Brad
+total pitch counts:  389.0
+ 
+2012 Hammel,Jason
+total pitch counts:  1925.0
+ 
+2012 Masterson,Justin
+total pitch counts:  3426.0
+ 
+2012 Porcello,Rick
+total pitch counts:  2827.0
+ 
+2012 Saunders,Joe
+total pitch counts:  2709.0
+ 
+2012 Hamels,Cole
+total pitch counts:  3318.0
+ 
+2012 Hernandez,Livan
+total pitch counts:  1044.0
+ 
+2012 Jackson,Edwin
+total pitch counts:  2968.0
+ 
+2012 Pelfrey,Mike
+total pitch counts:  305.0
+ 
+2012 Blanton,Joe
+total pitch counts:  2889.0
+ 
+2012 Millwood,Kevin
+total pitch counts:  2596.0
+ 
+2012 Guthrie,Jeremy
+total pitch counts:  2922.0
+ 
+2012 Cahill,Trevor
+total pitch counts:  3172.0
+ 
+2012 Cueto,Johnny
+total pitch counts:  3447.0
+ 
+2012 Francis,Jeff
+total pitch counts:  1858.0
+ 
+2012 Baker,Scott
+None
+ 
+2012 Volstad,Chris
+total pitch counts:  1891.0
+ 
+2012 Kendrick,Kyle
+total pitch counts:  2471.0
+ 
+2012 Maholm,Paul
+total pitch counts:  2964.0
+ 
+2012 Myers,Brett
+total pitch counts:  897.0
+ 
+2012 Morton,Charlie
+total pitch counts:  795.0
+ 
+2012 Weaver,Jered
+total pitch counts:  2857.0
+ 
+2012 Duke,Zach
+total pitch counts:  217.0
+ 
+2012 Bannister,BrianMartinez,Pedro
+None
+ 
+2012 Brown,Kevin
+None
+ 
+2012 Johnson,Randy
+None
+ 
+2012 Maddux,Greg
+None
+ 
+2012 Hampton,Mike
+None
+ 
+2012 Schilling,Curt
+None
+ 
+2012 Burkett,John
+None
+ 
+2012 Garcia,Freddy
+total pitch counts:  1697.0
+ 
+2012 Mays,Joe
+None
+ 
+2012 Buehrle,Mark
+total pitch counts:  3061.0
+ 
+2012 Zito,Barry
+total pitch counts:  3066.0
+ 
+2012 Hudson,Tim
+total pitch counts:  2623.0
+ 
+2012 Oswalt,Roy
+total pitch counts:  1001.0
+ 
+2012 Wolf,Randy
+total pitch counts:  2706.0
+ 
+2012 Nomo,Hideo
+None
+ 
+2012 Stottlemyre,Todd
+None
+ 
+2012 Leiter,Ai
+None
+ 
+2012 Tapani,Kevin
+None
+ 
+2012 Rogers,Kenny
+None
+ 
+2012 Guzman,Juan
+None
+ 
+2012 Fernandez,Alex
+None
+ 
+2012 Hentgen,Pat
+None
+ 
+2012 Benes,Andy
+None
+ 
+2012 Erickson,Scott
+None
+ 
+2012 Nagy,Charles
+None
+ 
+2012 Martinez,Dennis
+None
+ 
+2012 Martinez,Ramon
+None
+ 
+2012 Pettitte,Andy
+total pitch counts:  1119.0
+ 
+2012 Wells,David
+None
+ 
+2012 Mcdowell,Jack
+None
+ 
+2012 Rijo,Jose
+None
+ 
+2012 Finley,Chuck
+None
+ 
+2012 Appier,Kevin
+None
+ 
+2012 Smoltz,John
+None
+ 
+2012 Cone,David
+None
+ 
+2012 Mussina,Mike
+None
+ 
+2012 Glavine,Tom
+None
+ 
+iterate through players in year:  2013 , to gather the probability
+ 
+2013 Halladay,Roy
+total pitch counts:  1111.0
+ 
+2013 Lee,Cliff
+total pitch counts:  3253.0
+ 
+2013 Hamels,Cole
+total pitch counts:  3421.0
+ 
+2013 Lester,Jon
+total pitch counts:  3559.0
+ 
+2013 Greinke,Zack
+total pitch counts:  2812.0
+ 
+2013 Lincecum,Tim
+total pitch counts:  3278.0
+ 
+2013 Sabathia,CC
+total pitch counts:  3336.0
+ 
+2013 Santana,Johan
+None
+ 
+2013 Hernandez,Felix
+total pitch counts:  3170.0
+ 
+2013 Billingsley,Chad
+total pitch counts:  182.0
+ 
+2013 Weaver,Jered
+total pitch counts:  2396.0
+ 
+2013 Kershaw,Clayton
+total pitch counts:  3427.0
+ 
+2013 Carpenter,Chris
+None
+ 
+2013 Garza,Matt
+total pitch counts:  2424.0
+ 
+2013 Wainwright,Adam
+total pitch counts:  3533.0
+ 
+2013 Jimenez,Ubaldo
+total pitch counts:  3163.0
+ 
+2013 Cain,Matt
+total pitch counts:  2922.0
+ 
+2013 Sanchez,Jonathan
+total pitch counts:  320.0
+ 
+2013 Oswalt,Roy
+total pitch counts:  595.0
+ 
+2013 Verlander,Justin
+total pitch counts:  3691.0
+ 
+2013 Johnson,Josh
+total pitch counts:  1469.0
+ 
+2013 Danks,John
+total pitch counts:  2202.0
+ 
+2013 Jackson,Edwin
+total pitch counts:  2932.0
+ 
+2013 Scherzer,Max
+total pitch counts:  3392.0
+ 
+2013 Lilly,Ted
+total pitch counts:  407.0
+ 
+2013 Lowe,Derek
+total pitch counts:  199.0
+ 
+2013 Penny,Brad
+None
+ 
+2013 Hammel,Jason
+total pitch counts:  2302.0
+ 
+2013 Masterson,Justin
+total pitch counts:  3017.0
+ 
+2013 Porcello,Rick
+total pitch counts:  2836.0
+ 
+2013 Saunders,Joe
+total pitch counts:  3109.0
+ 
+2013 Hamels,Cole
+total pitch counts:  3421.0
+ 
+2013 Hernandez,Livan
+None
+ 
+2013 Jackson,Edwin
+total pitch counts:  2932.0
+ 
+2013 Pelfrey,Mike
+total pitch counts:  2727.0
+ 
+2013 Blanton,Joe
+total pitch counts:  2190.0
+ 
+2013 Millwood,Kevin
+None
+ 
+2013 Guthrie,Jeremy
+total pitch counts:  3370.0
+ 
+2013 Cahill,Trevor
+total pitch counts:  2316.0
+ 
+2013 Cueto,Johnny
+total pitch counts:  953.0
+ 
+2013 Francis,Jeff
+total pitch counts:  1245.0
+ 
+2013 Baker,Scott
+total pitch counts:  200.0
+ 
+2013 Volstad,Chris
+total pitch counts:  181.0
+ 
+2013 Kendrick,Kyle
+total pitch counts:  2874.0
+ 
+2013 Maholm,Paul
+total pitch counts:  2495.0
+ 
+2013 Myers,Brett
+total pitch counts:  319.0
+ 
+2013 Morton,Charlie
+total pitch counts:  1715.0
+ 
+2013 Weaver,Jered
+total pitch counts:  2396.0
+ 
+2013 Duke,Zach
+total pitch counts:  467.0
+ 
+2013 Bannister,BrianMartinez,Pedro
+None
+ 
+2013 Brown,Kevin
+None
+ 
+2013 Johnson,Randy
+None
+ 
+2013 Maddux,Greg
+None
+ 
+2013 Hampton,Mike
+None
+ 
+2013 Schilling,Curt
+None
+ 
+2013 Burkett,John
+None
+ 
+2013 Garcia,Freddy
+total pitch counts:  1161.0
+ 
+2013 Mays,Joe
+None
+ 
+2013 Buehrle,Mark
+total pitch counts:  3298.0
+ 
+2013 Zito,Barry
+total pitch counts:  2355.0
+ 
+2013 Hudson,Tim
+total pitch counts:  2006.0
+ 
+2013 Oswalt,Roy
+total pitch counts:  595.0
+ 
+2013 Wolf,Randy
+None
+ 
+2013 Nomo,Hideo
+None
+ 
+2013 Stottlemyre,Todd
+None
+ 
+2013 Leiter,Ai
+None
+ 
+2013 Tapani,Kevin
+None
+ 
+2013 Rogers,Kenny
+None
+ 
+2013 Guzman,Juan
+None
+ 
+2013 Fernandez,Alex
+None
+ 
+2013 Hentgen,Pat
+None
+ 
+2013 Benes,Andy
+None
+ 
+2013 Erickson,Scott
+None
+ 
+2013 Nagy,Charles
+None
+ 
+2013 Martinez,Dennis
+None
+ 
+2013 Martinez,Ramon
+None
+ 
+2013 Pettitte,Andy
+total pitch counts:  2896.0
+ 
+2013 Wells,David
+None
+ 
+2013 Mcdowell,Jack
+None
+ 
+2013 Rijo,Jose
+None
+ 
+2013 Finley,Chuck
+None
+ 
+2013 Appier,Kevin
+None
+ 
+2013 Smoltz,John
+None
+ 
+2013 Cone,David
+None
+ 
+2013 Mussina,Mike
+None
+ 
+2013 Glavine,Tom
+None
+ 
+iterate through players in year:  2014 , to gather the probability
+ 
+2014 Halladay,Roy
+None
+ 
+2014 Lee,Cliff
+total pitch counts:  1273.0
+ 
+2014 Hamels,Cole
+total pitch counts:  3136.0
+ 
+2014 Lester,Jon
+total pitch counts:  3478.0
+ 
+2014 Greinke,Zack
+total pitch counts:  3210.0
+ 
+2014 Lincecum,Tim
+total pitch counts:  2645.0
+ 
+2014 Sabathia,CC
+total pitch counts:  798.0
+ 
+2014 Santana,Johan
+None
+ 
+2014 Hernandez,Felix
+total pitch counts:  3440.0
+ 
+2014 Billingsley,Chad
+None
+ 
+2014 Weaver,Jered
+total pitch counts:  3356.0
+ 
+2014 Kershaw,Clayton
+total pitch counts:  2727.0
+ 
+2014 Carpenter,Chris
+None
+ 
+2014 Garza,Matt
+total pitch counts:  2538.0
+ 
+2014 Wainwright,Adam
+total pitch counts:  3259.0
+ 
+2014 Jimenez,Ubaldo
+total pitch counts:  2308.0
+ 
+2014 Cain,Matt
+total pitch counts:  1445.0
+ 
+2014 Sanchez,Jonathan
+None
+ 
+2014 Oswalt,Roy
+None
+ 
+2014 Verlander,Justin
+total pitch counts:  3418.0
+ 
+2014 Johnson,Josh
+None
+ 
+2014 Danks,John
+total pitch counts:  3298.0
+ 
+2014 Jackson,Edwin
+total pitch counts:  2495.0
+ 
+2014 Scherzer,Max
+total pitch counts:  3643.0
+ 
+2014 Lilly,Ted
+None
+ 
+2014 Lowe,Derek
+None
+ 
+2014 Penny,Brad
+total pitch counts:  448.0
+ 
+2014 Hammel,Jason
+total pitch counts:  2754.0
+ 
+2014 Masterson,Justin
+total pitch counts:  2249.0
+ 
+2014 Porcello,Rick
+total pitch counts:  3025.0
+ 
+2014 Saunders,Joe
+total pitch counts:  849.0
+ 
+2014 Hamels,Cole
+total pitch counts:  3136.0
+ 
+2014 Hernandez,Livan
+None
+ 
+2014 Jackson,Edwin
+total pitch counts:  2495.0
+ 
+2014 Pelfrey,Mike
+total pitch counts:  457.0
+ 
+2014 Blanton,Joe
+None
+ 
+2014 Millwood,Kevin
+None
+ 
+2014 Guthrie,Jeremy
+total pitch counts:  3239.0
+ 
+2014 Cahill,Trevor
+total pitch counts:  1892.0
+ 
+2014 Cueto,Johnny
+total pitch counts:  3661.0
+ 
+2014 Francis,Jeff
+total pitch counts:  266.0
+ 
+2014 Baker,Scott
+total pitch counts:  1163.0
+ 
+2014 Volstad,Chris
+None
+ 
+2014 Kendrick,Kyle
+total pitch counts:  3102.0
+ 
+2014 Maholm,Paul
+total pitch counts:  1173.0
+ 
+2014 Myers,Brett
+None
+ 
+2014 Morton,Charlie
+total pitch counts:  2504.0
+ 
+2014 Weaver,Jered
+total pitch counts:  3356.0
+ 
+2014 Duke,Zach
+total pitch counts:  823.0
+ 
+2014 Bannister,BrianMartinez,Pedro
+None
+ 
+2014 Brown,Kevin
+None
+ 
+2014 Johnson,Randy
+None
+ 
+2014 Maddux,Greg
+None
+ 
+2014 Hampton,Mike
+None
+ 
+2014 Schilling,Curt
+None
+ 
+2014 Burkett,John
+None
+ 
+2014 Garcia,Freddy
+None
+ 
+2014 Mays,Joe
+None
+ 
+2014 Buehrle,Mark
+total pitch counts:  3082.0
+ 
+2014 Zito,Barry
+None
+ 
+2014 Hudson,Tim
+total pitch counts:  2783.0
+ 
+2014 Oswalt,Roy
+None
+ 
+2014 Wolf,Randy
+total pitch counts:  430.0
+ 
+2014 Nomo,Hideo
+None
+ 
+2014 Stottlemyre,Todd
+None
+ 
+2014 Leiter,Ai
+None
+ 
+2014 Tapani,Kevin
+None
+ 
+2014 Rogers,Kenny
+None
+ 
+2014 Guzman,Juan
+None
+ 
+2014 Fernandez,Alex
+None
+ 
+2014 Hentgen,Pat
+None
+ 
+2014 Benes,Andy
+None
+ 
+2014 Erickson,Scott
+None
+ 
+2014 Nagy,Charles
+None
+ 
+2014 Martinez,Dennis
+None
+ 
+2014 Martinez,Ramon
+None
+ 
+2014 Pettitte,Andy
+None
+ 
+2014 Wells,David
+None
+ 
+2014 Mcdowell,Jack
+None
+ 
+2014 Rijo,Jose
+None
+ 
+2014 Finley,Chuck
+None
+ 
+2014 Appier,Kevin
+None
+ 
+2014 Smoltz,John
+None
+ 
+2014 Cone,David
+None
+ 
+2014 Mussina,Mike
+None
+ 
+2014 Glavine,Tom
+None
+ 
+iterate through players in year:  2015 , to gather the probability
+ 
+2015 Halladay,Roy
+None
+ 
+2015 Lee,Cliff
+None
+ 
+2015 Hamels,Cole
+total pitch counts:  3344.0
+ 
+2015 Lester,Jon
+total pitch counts:  3192.0
+ 
+2015 Greinke,Zack
+total pitch counts:  3241.0
+ 
+2015 Lincecum,Tim
+total pitch counts:  1323.0
+ 
+2015 Sabathia,CC
+total pitch counts:  2702.0
+ 
+2015 Santana,Johan
+None
+ 
+2015 Hernandez,Felix
+total pitch counts:  3047.0
+ 
+2015 Billingsley,Chad
+total pitch counts:  576.0
+ 
+2015 Weaver,Jered
+total pitch counts:  2455.0
+ 
+2015 Kershaw,Clayton
+total pitch counts:  3396.0
+ 
+2015 Carpenter,Chris
+None
+ 
+2015 Garza,Matt
+total pitch counts:  2339.0
+ 
+2015 Wainwright,Adam
+total pitch counts:  383.0
+ 
+2015 Jimenez,Ubaldo
+total pitch counts:  3060.0
+ 
+2015 Cain,Matt
+total pitch counts:  993.0
+ 
+2015 Sanchez,Jonathan
+None
+ 
+2015 Oswalt,Roy
+None
+ 
+2015 Verlander,Justin
+total pitch counts:  2154.0
+ 
+2015 Johnson,Josh
+None
+ 
+2015 Danks,John
+total pitch counts:  2922.0
+ 
+2015 Jackson,Edwin
+total pitch counts:  788.0
+ 
+2015 Scherzer,Max
+total pitch counts:  3361.0
+ 
+2015 Lilly,Ted
+None
+ 
+2015 Lowe,Derek
+None
+ 
+2015 Penny,Brad
+None
+ 
+2015 Hammel,Jason
+total pitch counts:  2751.0
+ 
+2015 Masterson,Justin
+total pitch counts:  993.0
+ 
+2015 Porcello,Rick
+total pitch counts:  2752.0
+ 
+2015 Saunders,Joe
+None
+ 
+2015 Hamels,Cole
+total pitch counts:  3344.0
+ 
+2015 Hernandez,Livan
+None
+ 
+2015 Jackson,Edwin
+total pitch counts:  788.0
+ 
+2015 Pelfrey,Mike
+total pitch counts:  2664.0
+ 
+2015 Blanton,Joe
+total pitch counts:  1081.0
+ 
+2015 Millwood,Kevin
+None
+ 
+2015 Guthrie,Jeremy
+total pitch counts:  2485.0
+ 
+2015 Cahill,Trevor
+total pitch counts:  683.0
+ 
+2015 Cueto,Johnny
+total pitch counts:  3256.0
+ 
+2015 Francis,Jeff
+total pitch counts:  400.0
+ 
+2015 Baker,Scott
+total pitch counts:  185.0
+ 
+2015 Volstad,Chris
+total pitch counts:  20.0
+ 
+2015 Kendrick,Kyle
+total pitch counts:  2229.0
+ 
+2015 Maholm,Paul
+None
+ 
+2015 Myers,Brett
+None
+ 
+2015 Morton,Charlie
+total pitch counts:  1994.0
+ 
+2015 Weaver,Jered
+total pitch counts:  2455.0
+ 
+2015 Duke,Zach
+total pitch counts:  995.0
+ 
+2015 Bannister,BrianMartinez,Pedro
+None
+ 
+2015 Brown,Kevin
+None
+ 
+2015 Johnson,Randy
+None
+ 
+2015 Maddux,Greg
+None
+ 
+2015 Hampton,Mike
+None
+ 
+2015 Schilling,Curt
+None
+ 
+2015 Burkett,John
+None
+ 
+2015 Garcia,Freddy
+None
+ 
+2015 Mays,Joe
+None
+ 
+2015 Buehrle,Mark
+total pitch counts:  2829.0
+ 
+2015 Zito,Barry
+total pitch counts:  150.0
+ 
+2015 Hudson,Tim
+total pitch counts:  1852.0
+ 
+2015 Oswalt,Roy
+None
+ 
+2015 Wolf,Randy
+total pitch counts:  624.0
+ 
+2015 Nomo,Hideo
+None
+ 
+2015 Stottlemyre,Todd
+None
+ 
+2015 Leiter,Ai
+None
+ 
+2015 Tapani,Kevin
+None
+ 
+2015 Rogers,Kenny
+None
+ 
+2015 Guzman,Juan
+None
+ 
+2015 Fernandez,Alex
+None
+ 
+2015 Hentgen,Pat
+None
+ 
+2015 Benes,Andy
+None
+ 
+2015 Erickson,Scott
+None
+ 
+2015 Nagy,Charles
+None
+ 
+2015 Martinez,Dennis
+None
+ 
+2015 Martinez,Ramon
+None
+ 
+2015 Pettitte,Andy
+None
+ 
+2015 Wells,David
+None
+ 
+2015 Mcdowell,Jack
+None
+ 
+2015 Rijo,Jose
+None
+ 
+2015 Finley,Chuck
+None
+ 
+2015 Appier,Kevin
+None
+ 
+2015 Smoltz,John
+None
+ 
+2015 Cone,David
+None
+ 
+2015 Mussina,Mike
+None
+ 
+2015 Glavine,Tom
+None
+ 
+iterate through players in year:  2016 , to gather the probability
+ 
+2016 Halladay,Roy
+None
+ 
+2016 Lee,Cliff
+None
+ 
+2016 Hamels,Cole
+total pitch counts:  3257.0
+ 
+2016 Lester,Jon
+total pitch counts:  3161.0
+ 
+2016 Greinke,Zack
+total pitch counts:  2508.0
+ 
+2016 Lincecum,Tim
+total pitch counts:  806.0
+ 
+2016 Sabathia,CC
+total pitch counts:  2910.0
+ 
+2016 Santana,Johan
+None
+ 
+2016 Hernandez,Felix
+total pitch counts:  2457.0
+ 
+2016 Billingsley,Chad
+None
+ 
+2016 Weaver,Jered
+total pitch counts:  2840.0
+ 
+2016 Kershaw,Clayton
+total pitch counts:  2062.0
+ 
+2016 Carpenter,Chris
+None
+ 
+2016 Garza,Matt
+total pitch counts:  1717.0
+ 
+2016 Wainwright,Adam
+total pitch counts:  3193.0
+ 
+2016 Jimenez,Ubaldo
+total pitch counts:  2496.0
+ 
+2016 Cain,Matt
+total pitch counts:  1570.0
+ 
+2016 Sanchez,Jonathan
+None
+ 
+2016 Oswalt,Roy
+None
+ 
+2016 Verlander,Justin
+total pitch counts:  3668.0
+ 
+2016 Johnson,Josh
+None
+ 
+2016 Danks,John
+total pitch counts:  387.0
+ 
+2016 Jackson,Edwin
+total pitch counts:  1389.0
+ 
+2016 Scherzer,Max
+total pitch counts:  3564.0
+ 
+2016 Lilly,Ted
+None
+ 
+2016 Lowe,Derek
+None
+ 
+2016 Penny,Brad
+None
+ 
+2016 Hammel,Jason
+total pitch counts:  2625.0
+ 
+2016 Masterson,Justin
+None
+ 
+2016 Porcello,Rick
+total pitch counts:  3417.0
+ 
+2016 Saunders,Joe
+None
+ 
+2016 Hamels,Cole
+total pitch counts:  3257.0
+ 
+2016 Hernandez,Livan
+None
+ 
+2016 Jackson,Edwin
+total pitch counts:  1389.0
+ 
+2016 Pelfrey,Mike
+total pitch counts:  2053.0
+ 
+2016 Blanton,Joe
+total pitch counts:  1246.0
+ 
+2016 Millwood,Kevin
+None
+ 
+2016 Guthrie,Jeremy
+None
+ 
+2016 Cahill,Trevor
+total pitch counts:  1090.0
+ 
+2016 Cueto,Johnny
+total pitch counts:  3309.0
+ 
+2016 Francis,Jeff
+None
+ 
+2016 Baker,Scott
+None
+ 
+2016 Volstad,Chris
+None
+ 
+2016 Kendrick,Kyle
+None
+ 
+2016 Maholm,Paul
+None
+ 
+2016 Myers,Brett
+None
+ 
+2016 Morton,Charlie
+total pitch counts:  276.0
+ 
+2016 Weaver,Jered
+total pitch counts:  2840.0
+ 
+2016 Duke,Zach
+total pitch counts:  969.0
+ 
+2016 Bannister,BrianMartinez,Pedro
+None
+ 
+2016 Brown,Kevin
+None
+ 
+2016 Johnson,Randy
+None
+ 
+2016 Maddux,Greg
+None
+ 
+2016 Hampton,Mike
+None
+ 
+2016 Schilling,Curt
+None
+ 
+2016 Burkett,John
+None
+ 
+2016 Garcia,Freddy
+None
+ 
+2016 Mays,Joe
+None
+ 
+2016 Buehrle,Mark
+None
+ 
+2016 Zito,Barry
+None
+ 
+2016 Hudson,Tim
+None
+ 
+2016 Oswalt,Roy
+None
+ 
+2016 Wolf,Randy
+None
+ 
+2016 Nomo,Hideo
+None
+ 
+2016 Stottlemyre,Todd
+None
+ 
+2016 Leiter,Ai
+None
+ 
+2016 Tapani,Kevin
+None
+ 
+2016 Rogers,Kenny
+None
+ 
+2016 Guzman,Juan
+None
+ 
+2016 Fernandez,Alex
+None
+ 
+2016 Hentgen,Pat
+None
+ 
+2016 Benes,Andy
+None
+ 
+2016 Erickson,Scott
+None
+ 
+2016 Nagy,Charles
+None
+ 
+2016 Martinez,Dennis
+None
+ 
+2016 Martinez,Ramon
+None
+ 
+2016 Pettitte,Andy
+None
+ 
+2016 Wells,David
+None
+ 
+2016 Mcdowell,Jack
+None
+ 
+2016 Rijo,Jose
+None
+ 
+2016 Finley,Chuck
+None
+ 
+2016 Appier,Kevin
+None
+ 
+2016 Smoltz,John
+None
+ 
+2016 Cone,David
+None
+ 
+2016 Mussina,Mike
+None
+ 
+2016 Glavine,Tom
+None
+ 
+iterate through players in year:  2017 , to gather the probability
+ 
+2017 Halladay,Roy
+None
+ 
+2017 Lee,Cliff
+None
+ 
+2017 Hamels,Cole
+total pitch counts:  2316.0
+ 
+2017 Lester,Jon
+total pitch counts:  3135.0
+ 
+2017 Greinke,Zack
+total pitch counts:  3167.0
+ 
+2017 Lincecum,Tim
+None
+ 
+2017 Sabathia,CC
+total pitch counts:  2340.0
+ 
+2017 Santana,Johan
+None
+ 
+2017 Hernandez,Felix
+total pitch counts:  1386.0
+ 
+2017 Billingsley,Chad
+None
+ 
+2017 Weaver,Jered
+total pitch counts:  671.0
+ 
+2017 Kershaw,Clayton
+total pitch counts:  2528.0
+ 
+2017 Carpenter,Chris
+None
+ 
+2017 Garza,Matt
+total pitch counts:  1910.0
+ 
+2017 Wainwright,Adam
+total pitch counts:  2158.0
+ 
+2017 Jimenez,Ubaldo
+total pitch counts:  2587.0
+ 
+2017 Cain,Matt
+total pitch counts:  2082.0
+ 
+2017 Sanchez,Jonathan
+None
+ 
+2017 Oswalt,Roy
+None
+ 
+2017 Verlander,Justin
+total pitch counts:  3512.0
+ 
+2017 Johnson,Josh
+None
+ 
+2017 Danks,John
+None
+ 
+2017 Jackson,Edwin
+total pitch counts:  1305.0
+ 
+2017 Scherzer,Max
+total pitch counts:  3117.0
+ 
+2017 Lilly,Ted
+None
+ 
+2017 Lowe,Derek
+None
+ 
+2017 Penny,Brad
+None
+ 
+2017 Hammel,Jason
+total pitch counts:  3036.0
+ 
+2017 Masterson,Justin
+None
+ 
+2017 Porcello,Rick
+total pitch counts:  3383.0
+ 
+2017 Saunders,Joe
+None
+ 
+2017 Hamels,Cole
+total pitch counts:  2316.0
+ 
+2017 Hernandez,Livan
+None
+ 
+2017 Jackson,Edwin
+total pitch counts:  1305.0
+ 
+2017 Pelfrey,Mike
+total pitch counts:  2291.0
+ 
+2017 Blanton,Joe
+total pitch counts:  748.0
+ 
+2017 Millwood,Kevin
+None
+ 
+2017 Guthrie,Jeremy
+total pitch counts:  47.0
+ 
+2017 Cahill,Trevor
+total pitch counts:  1525.0
+ 
+2017 Cueto,Johnny
+total pitch counts:  2538.0
+ 
+2017 Francis,Jeff
+None
+ 
+2017 Baker,Scott
+None
+ 
+2017 Volstad,Chris
+total pitch counts:  269.0
+ 
+2017 Kendrick,Kyle
+total pitch counts:  156.0
+ 
+2017 Maholm,Paul
+None
+ 
+2017 Myers,Brett
+None
+ 
+2017 Morton,Charlie
+total pitch counts:  2388.0
+ 
+2017 Weaver,Jered
+total pitch counts:  671.0
+ 
+2017 Duke,Zach
+total pitch counts:  276.0
+ 
+2017 Bannister,BrianMartinez,Pedro
+None
+ 
+2017 Brown,Kevin
+None
+ 
+2017 Johnson,Randy
+None
+ 
+2017 Maddux,Greg
+None
+ 
+2017 Hampton,Mike
+None
+ 
+2017 Schilling,Curt
+None
+ 
+2017 Burkett,John
+None
+ 
+2017 Garcia,Freddy
+None
+ 
+2017 Mays,Joe
+None
+ 
+2017 Buehrle,Mark
+None
+ 
+2017 Zito,Barry
+None
+ 
+2017 Hudson,Tim
+None
+ 
+2017 Oswalt,Roy
+None
+ 
+2017 Wolf,Randy
+None
+ 
+2017 Nomo,Hideo
+None
+ 
+2017 Stottlemyre,Todd
+None
+ 
+2017 Leiter,Ai
+None
+ 
+2017 Tapani,Kevin
+None
+ 
+2017 Rogers,Kenny
+None
+ 
+2017 Guzman,Juan
+None
+ 
+2017 Fernandez,Alex
+None
+ 
+2017 Hentgen,Pat
+None
+ 
+2017 Benes,Andy
+None
+ 
+2017 Erickson,Scott
+None
+ 
+2017 Nagy,Charles
+None
+ 
+2017 Martinez,Dennis
+None
+ 
+2017 Martinez,Ramon
+None
+ 
+2017 Pettitte,Andy
+None
+ 
+2017 Wells,David
+None
+ 
+2017 Mcdowell,Jack
+None
+ 
+2017 Rijo,Jose
+None
+ 
+2017 Finley,Chuck
+None
+ 
+2017 Appier,Kevin
+None
+ 
+2017 Smoltz,John
+None
+ 
+2017 Cone,David
+None
+ 
+2017 Mussina,Mike
+None
+ 
+2017 Glavine,Tom
+None
+reverse reinforcement learning to calculate best rewards for S, D, T, HR, W
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 3.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9859154929577465, 1.0, 0.9937888198757764)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 3.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9859154929577465, 0.9777777777777777, 0.9813664596273292)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9859154929577465, 0.9777777777777777, 0.9813664596273292)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9444444444444444, 0.953416149068323)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9333333333333333, 0.9472049689440993)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9277777777777778, 0.9440993788819876)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9507042253521126, 0.9166666666666666, 0.9316770186335404)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9014084507042254, 0.8777777777777778, 0.8881987577639752)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8666666666666667, 0.8695652173913043)
+ 
+S, D, T, HR, W:  1.5 2.0 2.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.8388888888888889, 0.8416149068322981)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 3.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9859154929577465, 0.9777777777777777, 0.9813664596273292)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9859154929577465, 0.9777777777777777, 0.9813664596273292)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9444444444444444, 0.953416149068323)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9333333333333333, 0.9472049689440993)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9277777777777778, 0.9440993788819876)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9295774647887324, 0.9, 0.9130434782608695)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8943661971830986, 0.8722222222222222, 0.8819875776397516)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8611111111111112, 0.8664596273291926)
+ 
+S, D, T, HR, W:  1.5 2.0 3.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.7944444444444444, 0.8167701863354038)
+ 
+S, D, T, HR, W:  1.5 2.0 3.5 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9859154929577465, 0.9777777777777777, 0.9813664596273292)
+ 
+S, D, T, HR, W:  1.5 2.0 3.5 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9444444444444444, 0.953416149068323)
+ 
+S, D, T, HR, W:  1.5 2.0 3.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9333333333333333, 0.9472049689440993)
+ 
+S, D, T, HR, W:  1.5 2.0 3.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9222222222222223, 0.9409937888198758)
+ 
+S, D, T, HR, W:  1.5 2.0 3.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9154929577464789, 0.8944444444444445, 0.9037267080745341)
+ 
+S, D, T, HR, W:  1.5 2.0 3.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8722222222222222, 0.8757763975155279)
+ 
+S, D, T, HR, W:  1.5 2.0 3.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 2.0 3.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.7944444444444444, 0.8167701863354038)
+ 
+S, D, T, HR, W:  1.5 2.0 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9444444444444444, 0.953416149068323)
+ 
+S, D, T, HR, W:  1.5 2.0 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9277777777777778, 0.9440993788819876)
+ 
+S, D, T, HR, W:  1.5 2.0 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9507042253521126, 0.9166666666666666, 0.9316770186335404)
+ 
+S, D, T, HR, W:  1.5 2.0 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9084507042253521, 0.8944444444444445, 0.9006211180124224)
+ 
+S, D, T, HR, W:  1.5 2.0 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8666666666666667, 0.8726708074534162)
+ 
+S, D, T, HR, W:  1.5 2.0 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 2.0 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8380281690140845, 0.7944444444444444, 0.8136645962732919)
+ 
+S, D, T, HR, W:  1.5 2.0 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9277777777777778, 0.9440993788819876)
+ 
+S, D, T, HR, W:  1.5 2.0 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9366197183098591, 0.9111111111111111, 0.922360248447205)
+ 
+S, D, T, HR, W:  1.5 2.0 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8873239436619719, 0.8944444444444445, 0.8913043478260869)
+ 
+S, D, T, HR, W:  1.5 2.0 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8666666666666667, 0.8726708074534162)
+ 
+S, D, T, HR, W:  1.5 2.0 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 2.0 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8380281690140845, 0.7944444444444444, 0.8136645962732919)
+ 
+S, D, T, HR, W:  1.5 2.0 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9366197183098591, 0.9111111111111111, 0.922360248447205)
+ 
+S, D, T, HR, W:  1.5 2.0 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8873239436619719, 0.8833333333333333, 0.8850931677018633)
+ 
+S, D, T, HR, W:  1.5 2.0 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8555555555555555, 0.8664596273291926)
+ 
+S, D, T, HR, W:  1.5 2.0 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8591549295774648, 0.8055555555555556, 0.8291925465838509)
+ 
+S, D, T, HR, W:  1.5 2.0 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8380281690140845, 0.7888888888888889, 0.8105590062111802)
+ 
+S, D, T, HR, W:  1.5 2.0 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8873239436619719, 0.8833333333333333, 0.8850931677018633)
+ 
+S, D, T, HR, W:  1.5 2.0 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8555555555555555, 0.8664596273291926)
+ 
+S, D, T, HR, W:  1.5 2.0 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8591549295774648, 0.8055555555555556, 0.8291925465838509)
+ 
+S, D, T, HR, W:  1.5 2.0 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8380281690140845, 0.7777777777777778, 0.8043478260869565)
+ 
+S, D, T, HR, W:  1.5 2.0 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8555555555555555, 0.8664596273291926)
+ 
+S, D, T, HR, W:  1.5 2.0 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8591549295774648, 0.8, 0.8260869565217391)
+ 
+S, D, T, HR, W:  1.5 2.0 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8309859154929577, 0.7666666666666667, 0.7950310559006211)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 3.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9859154929577465, 0.9777777777777777, 0.9813664596273292)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9444444444444444, 0.953416149068323)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9277777777777778, 0.9440993788819876)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9507042253521126, 0.9222222222222223, 0.9347826086956522)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9154929577464789, 0.9055555555555556, 0.9099378881987578)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8873239436619719, 0.8722222222222222, 0.8788819875776398)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8309859154929577, 0.7944444444444444, 0.8105590062111802)
+ 
+S, D, T, HR, W:  1.5 2.5 3.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8028169014084507, 0.6888888888888889, 0.7391304347826086)
+ 
+S, D, T, HR, W:  1.5 2.5 3.5 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9647887323943662, 0.9388888888888889, 0.9503105590062112)
+ 
+S, D, T, HR, W:  1.5 2.5 3.5 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9577464788732394, 0.9277777777777778, 0.9409937888198758)
+ 
+S, D, T, HR, W:  1.5 2.5 3.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9507042253521126, 0.9222222222222223, 0.9347826086956522)
+ 
+S, D, T, HR, W:  1.5 2.5 3.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9084507042253521, 0.8944444444444445, 0.9006211180124224)
+ 
+S, D, T, HR, W:  1.5 2.5 3.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8873239436619719, 0.8611111111111112, 0.8726708074534162)
+ 
+S, D, T, HR, W:  1.5 2.5 3.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 2.5 3.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8309859154929577, 0.7833333333333333, 0.8043478260869565)
+ 
+S, D, T, HR, W:  1.5 2.5 3.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.795774647887324, 0.6888888888888889, 0.7360248447204969)
+ 
+S, D, T, HR, W:  1.5 2.5 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9577464788732394, 0.9277777777777778, 0.9409937888198758)
+ 
+S, D, T, HR, W:  1.5 2.5 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9366197183098591, 0.9166666666666666, 0.9254658385093167)
+ 
+S, D, T, HR, W:  1.5 2.5 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9014084507042254, 0.8833333333333333, 0.8913043478260869)
+ 
+S, D, T, HR, W:  1.5 2.5 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 2.5 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 2.5 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7833333333333333, 0.8012422360248447)
+ 
+S, D, T, HR, W:  1.5 2.5 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7746478873239436, 0.6777777777777778, 0.7204968944099379)
+ 
+S, D, T, HR, W:  1.5 2.5 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9295774647887324, 0.9055555555555556, 0.9161490683229814)
+ 
+S, D, T, HR, W:  1.5 2.5 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9014084507042254, 0.8833333333333333, 0.8913043478260869)
+ 
+S, D, T, HR, W:  1.5 2.5 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 2.5 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.852112676056338, 0.8055555555555556, 0.8260869565217391)
+ 
+S, D, T, HR, W:  1.5 2.5 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7833333333333333, 0.8012422360248447)
+ 
+S, D, T, HR, W:  1.5 2.5 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7746478873239436, 0.6777777777777778, 0.7204968944099379)
+ 
+S, D, T, HR, W:  1.5 2.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8833333333333333, 0.8819875776397516)
+ 
+S, D, T, HR, W:  1.5 2.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8661971830985915, 0.8555555555555555, 0.860248447204969)
+ 
+S, D, T, HR, W:  1.5 2.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.852112676056338, 0.8, 0.8229813664596274)
+ 
+S, D, T, HR, W:  1.5 2.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7833333333333333, 0.8012422360248447)
+ 
+S, D, T, HR, W:  1.5 2.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7746478873239436, 0.65, 0.7049689440993789)
+ 
+S, D, T, HR, W:  1.5 2.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8661971830985915, 0.8555555555555555, 0.860248447204969)
+ 
+S, D, T, HR, W:  1.5 2.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.852112676056338, 0.8, 0.8229813664596274)
+ 
+S, D, T, HR, W:  1.5 2.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8169014084507042, 0.7611111111111111, 0.7857142857142857)
+ 
+S, D, T, HR, W:  1.5 2.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7605633802816901, 0.6333333333333333, 0.6894409937888198)
+ 
+S, D, T, HR, W:  1.5 2.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.852112676056338, 0.7833333333333333, 0.8136645962732919)
+ 
+S, D, T, HR, W:  1.5 2.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8098591549295775, 0.7555555555555555, 0.7795031055900621)
+ 
+S, D, T, HR, W:  1.5 2.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7605633802816901, 0.6111111111111112, 0.6770186335403726)
+ 
+S, D, T, HR, W:  1.5 3.0 3.5 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9507042253521126, 0.9333333333333333, 0.9409937888198758)
+ 
+S, D, T, HR, W:  1.5 3.0 3.5 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9295774647887324, 0.9222222222222223, 0.9254658385093167)
+ 
+S, D, T, HR, W:  1.5 3.0 3.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8943661971830986, 0.8722222222222222, 0.8819875776397516)
+ 
+S, D, T, HR, W:  1.5 3.0 3.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8943661971830986, 0.8666666666666667, 0.8788819875776398)
+ 
+S, D, T, HR, W:  1.5 3.0 3.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.852112676056338, 0.8277777777777777, 0.8385093167701864)
+ 
+S, D, T, HR, W:  1.5 3.0 3.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7777777777777778, 0.7981366459627329)
+ 
+S, D, T, HR, W:  1.5 3.0 3.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7605633802816901, 0.6666666666666666, 0.7080745341614907)
+ 
+S, D, T, HR, W:  1.5 3.0 3.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7535211267605634, 0.6388888888888888, 0.6894409937888198)
+ 
+S, D, T, HR, W:  1.5 3.0 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9225352112676056, 0.9111111111111111, 0.9161490683229814)
+ 
+S, D, T, HR, W:  1.5 3.0 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8943661971830986, 0.8666666666666667, 0.8788819875776398)
+ 
+S, D, T, HR, W:  1.5 3.0 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 3.0 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.7833333333333333, 0.8105590062111802)
+ 
+S, D, T, HR, W:  1.5 3.0 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7722222222222223, 0.7950310559006211)
+ 
+S, D, T, HR, W:  1.5 3.0 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7605633802816901, 0.6666666666666666, 0.7080745341614907)
+ 
+S, D, T, HR, W:  1.5 3.0 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7535211267605634, 0.6222222222222222, 0.6801242236024845)
+ 
+S, D, T, HR, W:  1.5 3.0 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8943661971830986, 0.8666666666666667, 0.8788819875776398)
+ 
+S, D, T, HR, W:  1.5 3.0 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.8555555555555555, 0.8633540372670807)
+ 
+S, D, T, HR, W:  1.5 3.0 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.7833333333333333, 0.8105590062111802)
+ 
+S, D, T, HR, W:  1.5 3.0 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7722222222222223, 0.7950310559006211)
+ 
+S, D, T, HR, W:  1.5 3.0 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7605633802816901, 0.6388888888888888, 0.6925465838509317)
+ 
+S, D, T, HR, W:  1.5 3.0 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.5888888888888889, 0.65527950310559)
+ 
+S, D, T, HR, W:  1.5 3.0 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8732394366197183, 0.85, 0.860248447204969)
+ 
+S, D, T, HR, W:  1.5 3.0 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.7777777777777778, 0.8074534161490683)
+ 
+S, D, T, HR, W:  1.5 3.0 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7555555555555555, 0.7857142857142857)
+ 
+S, D, T, HR, W:  1.5 3.0 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7535211267605634, 0.6111111111111112, 0.6739130434782609)
+ 
+S, D, T, HR, W:  1.5 3.0 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.5833333333333334, 0.6521739130434783)
+ 
+S, D, T, HR, W:  1.5 3.0 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.7611111111111111, 0.7981366459627329)
+ 
+S, D, T, HR, W:  1.5 3.0 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8028169014084507, 0.7277777777777777, 0.7608695652173914)
+ 
+S, D, T, HR, W:  1.5 3.0 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7464788732394366, 0.6055555555555555, 0.6677018633540373)
+ 
+S, D, T, HR, W:  1.5 3.0 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7253521126760564, 0.5833333333333334, 0.6459627329192547)
+ 
+S, D, T, HR, W:  1.5 3.0 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8028169014084507, 0.7222222222222222, 0.7577639751552795)
+ 
+S, D, T, HR, W:  1.5 3.0 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7464788732394366, 0.6, 0.6645962732919255)
+ 
+S, D, T, HR, W:  1.5 3.0 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7253521126760564, 0.5833333333333334, 0.6459627329192547)
+ 
+S, D, T, HR, W:  1.5 3.5 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8943661971830986, 0.8666666666666667, 0.8788819875776398)
+ 
+S, D, T, HR, W:  1.5 3.5 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8388888888888889, 0.8571428571428571)
+ 
+S, D, T, HR, W:  1.5 3.5 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.7888888888888889, 0.8136645962732919)
+ 
+S, D, T, HR, W:  1.5 3.5 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8098591549295775, 0.7555555555555555, 0.7795031055900621)
+ 
+S, D, T, HR, W:  1.5 3.5 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7605633802816901, 0.6111111111111112, 0.6770186335403726)
+ 
+S, D, T, HR, W:  1.5 3.5 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.6, 0.6614906832298136)
+ 
+S, D, T, HR, W:  1.5 3.5 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5666666666666667, 0.6242236024844721)
+ 
+S, D, T, HR, W:  1.5 3.5 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8661971830985915, 0.8277777777777777, 0.84472049689441)
+ 
+S, D, T, HR, W:  1.5 3.5 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8380281690140845, 0.7722222222222223, 0.8012422360248447)
+ 
+S, D, T, HR, W:  1.5 3.5 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8098591549295775, 0.7277777777777777, 0.7639751552795031)
+ 
+S, D, T, HR, W:  1.5 3.5 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7535211267605634, 0.6111111111111112, 0.6739130434782609)
+ 
+S, D, T, HR, W:  1.5 3.5 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7183098591549296, 0.5722222222222222, 0.6366459627329193)
+ 
+S, D, T, HR, W:  1.5 3.5 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6901408450704225, 0.5666666666666667, 0.6211180124223602)
+ 
+S, D, T, HR, W:  1.5 3.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8380281690140845, 0.7555555555555555, 0.7919254658385093)
+ 
+S, D, T, HR, W:  1.5 3.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8028169014084507, 0.7277777777777777, 0.7608695652173914)
+ 
+S, D, T, HR, W:  1.5 3.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7535211267605634, 0.5888888888888889, 0.6614906832298136)
+ 
+S, D, T, HR, W:  1.5 3.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7112676056338029, 0.5722222222222222, 0.6335403726708074)
+ 
+S, D, T, HR, W:  1.5 3.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6830985915492958, 0.5555555555555556, 0.6118012422360248)
+ 
+S, D, T, HR, W:  1.5 3.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7887323943661971, 0.7055555555555556, 0.7422360248447205)
+ 
+S, D, T, HR, W:  1.5 3.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.5833333333333334, 0.6521739130434783)
+ 
+S, D, T, HR, W:  1.5 3.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7112676056338029, 0.5611111111111111, 0.6273291925465838)
+ 
+S, D, T, HR, W:  1.5 3.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6690140845070423, 0.5111111111111111, 0.5807453416149069)
+ 
+S, D, T, HR, W:  1.5 3.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7253521126760564, 0.5722222222222222, 0.639751552795031)
+ 
+S, D, T, HR, W:  1.5 3.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5555555555555556, 0.6180124223602484)
+ 
+S, D, T, HR, W:  1.5 3.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6619718309859155, 0.4888888888888889, 0.5652173913043478)
+ 
+S, D, T, HR, W:  1.5 4.0 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7555555555555555, 0.7857142857142857)
+ 
+S, D, T, HR, W:  1.5 4.0 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7676056338028169, 0.7277777777777777, 0.7453416149068323)
+ 
+S, D, T, HR, W:  1.5 4.0 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.6888888888888889, 0.7111801242236024)
+ 
+S, D, T, HR, W:  1.5 4.0 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5555555555555556, 0.6180124223602484)
+ 
+S, D, T, HR, W:  1.5 4.0 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6619718309859155, 0.5444444444444444, 0.5962732919254659)
+ 
+S, D, T, HR, W:  1.5 4.0 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4888888888888889, 0.5434782608695652)
+ 
+S, D, T, HR, W:  1.5 4.0 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7676056338028169, 0.7222222222222222, 0.7422360248447205)
+ 
+S, D, T, HR, W:  1.5 4.0 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.6722222222222223, 0.7018633540372671)
+ 
+S, D, T, HR, W:  1.5 4.0 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5555555555555556, 0.6180124223602484)
+ 
+S, D, T, HR, W:  1.5 4.0 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6549295774647887, 0.5, 0.5683229813664596)
+ 
+S, D, T, HR, W:  1.5 4.0 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.48333333333333334, 0.5403726708074534)
+ 
+S, D, T, HR, W:  1.5 4.0 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.6666666666666666, 0.6987577639751553)
+ 
+S, D, T, HR, W:  1.5 4.0 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.704225352112676, 0.5555555555555556, 0.6211180124223602)
+ 
+S, D, T, HR, W:  1.5 4.0 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6549295774647887, 0.49444444444444446, 0.5652173913043478)
+ 
+S, D, T, HR, W:  1.5 4.0 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.4777777777777778, 0.5341614906832298)
+ 
+S, D, T, HR, W:  1.5 4.0 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5555555555555556, 0.6180124223602484)
+ 
+S, D, T, HR, W:  1.5 4.0 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.5055555555555555, 0.5559006211180124)
+ 
+S, D, T, HR, W:  1.5 4.0 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.4722222222222222, 0.5279503105590062)
+ 
+S, D, T, HR, W:  1.5 4.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7112676056338029, 0.65, 0.6770186335403726)
+ 
+S, D, T, HR, W:  1.5 4.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6619718309859155, 0.55, 0.5993788819875776)
+ 
+S, D, T, HR, W:  1.5 4.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.48333333333333334, 0.5434782608695652)
+ 
+S, D, T, HR, W:  1.5 4.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.4777777777777778, 0.531055900621118)
+ 
+S, D, T, HR, W:  1.5 4.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5333333333333333, 0.5590062111801242)
+ 
+S, D, T, HR, W:  1.5 4.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6619718309859155, 0.5388888888888889, 0.593167701863354)
+ 
+S, D, T, HR, W:  1.5 4.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4888888888888889, 0.5434782608695652)
+ 
+S, D, T, HR, W:  1.5 4.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.4777777777777778, 0.5248447204968945)
+ 
+S, D, T, HR, W:  1.5 4.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5333333333333333, 0.5559006211180124)
+ 
+S, D, T, HR, W:  1.5 4.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.48333333333333334, 0.5341614906832298)
+ 
+S, D, T, HR, W:  1.5 4.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.4777777777777778, 0.5248447204968945)
+ 
+S, D, T, HR, W:  1.5 4.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5333333333333333, 0.5559006211180124)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 3.5 1
+policy evaluation for elites, non-elites and totoal:  (0.9154929577464789, 0.8666666666666667, 0.8881987577639752)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9084507042253521, 0.8333333333333334, 0.8664596273291926)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8055555555555556, 0.8385093167701864)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8309859154929577, 0.7166666666666667, 0.7670807453416149)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7816901408450704, 0.6722222222222223, 0.7204968944099379)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7464788732394366, 0.6333333333333333, 0.6832298136645962)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7183098591549296, 0.6111111111111112, 0.6583850931677019)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5722222222222222, 0.6273291925465838)
+ 
+S, D, T, HR, W:  2.0 2.5 3.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.647887323943662, 0.5277777777777778, 0.5807453416149069)
+ 
+S, D, T, HR, W:  2.0 2.5 3.5 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.9084507042253521, 0.8333333333333334, 0.8664596273291926)
+ 
+S, D, T, HR, W:  2.0 2.5 3.5 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.8055555555555556, 0.8385093167701864)
+ 
+S, D, T, HR, W:  2.0 2.5 3.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8309859154929577, 0.7, 0.7577639751552795)
+ 
+S, D, T, HR, W:  2.0 2.5 3.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7816901408450704, 0.6722222222222223, 0.7204968944099379)
+ 
+S, D, T, HR, W:  2.0 2.5 3.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7464788732394366, 0.6222222222222222, 0.6770186335403726)
+ 
+S, D, T, HR, W:  2.0 2.5 3.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7183098591549296, 0.5944444444444444, 0.6490683229813664)
+ 
+S, D, T, HR, W:  2.0 2.5 3.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5722222222222222, 0.6273291925465838)
+ 
+S, D, T, HR, W:  2.0 2.5 3.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.5166666666666667, 0.562111801242236)
+ 
+S, D, T, HR, W:  2.0 2.5 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8802816901408451, 0.7833333333333333, 0.8260869565217391)
+ 
+S, D, T, HR, W:  2.0 2.5 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.823943661971831, 0.7, 0.7546583850931677)
+ 
+S, D, T, HR, W:  2.0 2.5 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7816901408450704, 0.6444444444444445, 0.7049689440993789)
+ 
+S, D, T, HR, W:  2.0 2.5 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7464788732394366, 0.6111111111111112, 0.6708074534161491)
+ 
+S, D, T, HR, W:  2.0 2.5 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7112676056338029, 0.5777777777777777, 0.6366459627329193)
+ 
+S, D, T, HR, W:  2.0 2.5 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5722222222222222, 0.6273291925465838)
+ 
+S, D, T, HR, W:  2.0 2.5 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.5, 0.5527950310559007)
+ 
+S, D, T, HR, W:  2.0 2.5 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.795774647887324, 0.6666666666666666, 0.7236024844720497)
+ 
+S, D, T, HR, W:  2.0 2.5 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7816901408450704, 0.6388888888888888, 0.7018633540372671)
+ 
+S, D, T, HR, W:  2.0 2.5 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.6055555555555555, 0.6645962732919255)
+ 
+S, D, T, HR, W:  2.0 2.5 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7112676056338029, 0.5777777777777777, 0.6366459627329193)
+ 
+S, D, T, HR, W:  2.0 2.5 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6830985915492958, 0.5611111111111111, 0.6149068322981367)
+ 
+S, D, T, HR, W:  2.0 2.5 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.4888888888888889, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 2.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7816901408450704, 0.6388888888888888, 0.7018633540372671)
+ 
+S, D, T, HR, W:  2.0 2.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7394366197183099, 0.6055555555555555, 0.6645962732919255)
+ 
+S, D, T, HR, W:  2.0 2.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5666666666666667, 0.6242236024844721)
+ 
+S, D, T, HR, W:  2.0 2.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.676056338028169, 0.5555555555555556, 0.6086956521739131)
+ 
+S, D, T, HR, W:  2.0 2.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.48333333333333334, 0.5341614906832298)
+ 
+S, D, T, HR, W:  2.0 2.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7323943661971831, 0.5777777777777777, 0.6459627329192547)
+ 
+S, D, T, HR, W:  2.0 2.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5666666666666667, 0.6242236024844721)
+ 
+S, D, T, HR, W:  2.0 2.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6338028169014085, 0.4777777777777778, 0.546583850931677)
+ 
+S, D, T, HR, W:  2.0 2.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.4777777777777778, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 2.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6901408450704225, 0.5555555555555556, 0.6149068322981367)
+ 
+S, D, T, HR, W:  2.0 2.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.4777777777777778, 0.5434782608695652)
+ 
+S, D, T, HR, W:  2.0 2.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.4777777777777778, 0.5279503105590062)
+ 
+S, D, T, HR, W:  2.0 3.0 3.5 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.8591549295774648, 0.7666666666666667, 0.8074534161490683)
+ 
+S, D, T, HR, W:  2.0 3.0 3.5 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8450704225352113, 0.7666666666666667, 0.8012422360248447)
+ 
+S, D, T, HR, W:  2.0 3.0 3.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7676056338028169, 0.65, 0.7018633540372671)
+ 
+S, D, T, HR, W:  2.0 3.0 3.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7253521126760564, 0.6055555555555555, 0.6583850931677019)
+ 
+S, D, T, HR, W:  2.0 3.0 3.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7112676056338029, 0.5833333333333334, 0.639751552795031)
+ 
+S, D, T, HR, W:  2.0 3.0 3.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.676056338028169, 0.5555555555555556, 0.6086956521739131)
+ 
+S, D, T, HR, W:  2.0 3.0 3.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.46111111111111114, 0.5217391304347826)
+ 
+S, D, T, HR, W:  2.0 3.0 3.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4777777777777778, 0.5372670807453416)
+ 
+S, D, T, HR, W:  2.0 3.0 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.8169014084507042, 0.7388888888888889, 0.7732919254658385)
+ 
+S, D, T, HR, W:  2.0 3.0 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7676056338028169, 0.6333333333333333, 0.6925465838509317)
+ 
+S, D, T, HR, W:  2.0 3.0 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7253521126760564, 0.5944444444444444, 0.6521739130434783)
+ 
+S, D, T, HR, W:  2.0 3.0 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.704225352112676, 0.5611111111111111, 0.6242236024844721)
+ 
+S, D, T, HR, W:  2.0 3.0 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.676056338028169, 0.5555555555555556, 0.6086956521739131)
+ 
+S, D, T, HR, W:  2.0 3.0 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.46111111111111114, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.0 3.0 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.48333333333333334, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 3.0 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.7676056338028169, 0.6333333333333333, 0.6925465838509317)
+ 
+S, D, T, HR, W:  2.0 3.0 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7183098591549296, 0.5666666666666667, 0.6335403726708074)
+ 
+S, D, T, HR, W:  2.0 3.0 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6901408450704225, 0.5611111111111111, 0.6180124223602484)
+ 
+S, D, T, HR, W:  2.0 3.0 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6690140845070423, 0.5555555555555556, 0.6055900621118012)
+ 
+S, D, T, HR, W:  2.0 3.0 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.4666666666666667, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.0 3.0 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.48333333333333334, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 3.0 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7112676056338029, 0.5666666666666667, 0.6304347826086957)
+ 
+S, D, T, HR, W:  2.0 3.0 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6830985915492958, 0.5611111111111111, 0.6149068322981367)
+ 
+S, D, T, HR, W:  2.0 3.0 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6338028169014085, 0.5111111111111111, 0.5652173913043478)
+ 
+S, D, T, HR, W:  2.0 3.0 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.45555555555555555, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.0 3.0 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4777777777777778, 0.5372670807453416)
+ 
+S, D, T, HR, W:  2.0 3.0 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6830985915492958, 0.5611111111111111, 0.6149068322981367)
+ 
+S, D, T, HR, W:  2.0 3.0 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.4777777777777778, 0.5341614906832298)
+ 
+S, D, T, HR, W:  2.0 3.0 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.45555555555555555, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.0 3.0 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.4666666666666667, 0.5279503105590062)
+ 
+S, D, T, HR, W:  2.0 3.0 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.48333333333333334, 0.5372670807453416)
+ 
+S, D, T, HR, W:  2.0 3.0 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5774647887323944, 0.46111111111111114, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.0 3.0 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.4777777777777778, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 3.5 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.7323943661971831, 0.6055555555555555, 0.6614906832298136)
+ 
+S, D, T, HR, W:  2.0 3.5 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6971830985915493, 0.5666666666666667, 0.6242236024844721)
+ 
+S, D, T, HR, W:  2.0 3.5 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.676056338028169, 0.55, 0.6055900621118012)
+ 
+S, D, T, HR, W:  2.0 3.5 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.5111111111111111, 0.562111801242236)
+ 
+S, D, T, HR, W:  2.0 3.5 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.4777777777777778, 0.5434782608695652)
+ 
+S, D, T, HR, W:  2.0 3.5 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4777777777777778, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 3.5 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4666666666666667, 0.5341614906832298)
+ 
+S, D, T, HR, W:  2.0 3.5 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6830985915492958, 0.5666666666666667, 0.6180124223602484)
+ 
+S, D, T, HR, W:  2.0 3.5 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.676056338028169, 0.5444444444444444, 0.6024844720496895)
+ 
+S, D, T, HR, W:  2.0 3.5 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4777777777777778, 0.5372670807453416)
+ 
+S, D, T, HR, W:  2.0 3.5 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.48333333333333334, 0.546583850931677)
+ 
+S, D, T, HR, W:  2.0 3.5 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4777777777777778, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 3.5 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4777777777777778, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 3.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.676056338028169, 0.5444444444444444, 0.6024844720496895)
+ 
+S, D, T, HR, W:  2.0 3.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.4722222222222222, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 3.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.48333333333333334, 0.5434782608695652)
+ 
+S, D, T, HR, W:  2.0 3.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.49444444444444446, 0.5496894409937888)
+ 
+S, D, T, HR, W:  2.0 3.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4777777777777778, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 3.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.45, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.0 3.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4888888888888889, 0.546583850931677)
+ 
+S, D, T, HR, W:  2.0 3.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.48333333333333334, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 3.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4666666666666667, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 3.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4777777777777778, 0.5372670807453416)
+ 
+S, D, T, HR, W:  2.0 3.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4777777777777778, 0.5372670807453416)
+ 
+S, D, T, HR, W:  2.0 3.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.46111111111111114, 0.5279503105590062)
+ 
+S, D, T, HR, W:  2.0 4.0 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.647887323943662, 0.5277777777777778, 0.5807453416149069)
+ 
+S, D, T, HR, W:  2.0 4.0 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.4722222222222222, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 4.0 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4666666666666667, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 4.0 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.4777777777777778, 0.5434782608695652)
+ 
+S, D, T, HR, W:  2.0 4.0 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.46111111111111114, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 4.0 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.46111111111111114, 0.5279503105590062)
+ 
+S, D, T, HR, W:  2.0 4.0 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.4722222222222222, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 4.0 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4722222222222222, 0.5372670807453416)
+ 
+S, D, T, HR, W:  2.0 4.0 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4777777777777778, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.0 4.0 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4666666666666667, 0.5341614906832298)
+ 
+S, D, T, HR, W:  2.0 4.0 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.46111111111111114, 0.5248447204968945)
+ 
+S, D, T, HR, W:  2.0 4.0 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.4666666666666667, 0.5341614906832298)
+ 
+S, D, T, HR, W:  2.0 4.0 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.4666666666666667, 0.531055900621118)
+ 
+S, D, T, HR, W:  2.0 4.0 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.45555555555555555, 0.5248447204968945)
+ 
+S, D, T, HR, W:  2.0 4.0 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.528169014084507, 0.4166666666666667, 0.4658385093167702)
+ 
+S, D, T, HR, W:  2.0 4.0 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.45555555555555555, 0.5248447204968945)
+ 
+S, D, T, HR, W:  2.0 4.0 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.46111111111111114, 0.5279503105590062)
+ 
+S, D, T, HR, W:  2.0 4.0 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4166666666666667, 0.468944099378882)
+ 
+S, D, T, HR, W:  2.0 4.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.45555555555555555, 0.5217391304347826)
+ 
+S, D, T, HR, W:  2.0 4.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.45555555555555555, 0.5217391304347826)
+ 
+S, D, T, HR, W:  2.0 4.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.4444444444444444, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.0 4.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5140845070422535, 0.4777777777777778, 0.4937888198757764)
+ 
+S, D, T, HR, W:  2.0 4.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5211267605633803, 0.4777777777777778, 0.4968944099378882)
+ 
+S, D, T, HR, W:  2.0 4.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.45, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.0 4.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.4388888888888889, 0.5031055900621118)
+ 
+S, D, T, HR, W:  2.0 4.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5211267605633803, 0.4777777777777778, 0.4968944099378882)
+ 
+S, D, T, HR, W:  2.0 4.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.528169014084507, 0.4777777777777778, 0.5)
+ 
+S, D, T, HR, W:  2.0 4.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.528169014084507, 0.48333333333333334, 0.5031055900621118)
+ 
+S, D, T, HR, W:  2.0 4.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4888888888888889, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.0 4.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5422535211267606, 0.48333333333333334, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.0 3.5 4.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6408450704225352, 0.55, 0.5900621118012422)
+ 
+S, D, T, HR, W:  2.5 3.0 3.5 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6408450704225352, 0.5277777777777778, 0.577639751552795)
+ 
+S, D, T, HR, W:  2.5 3.0 3.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.4888888888888889, 0.5372670807453416)
+ 
+S, D, T, HR, W:  2.5 3.0 3.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.46111111111111114, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.0 3.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.45555555555555555, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.0 3.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.45, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.0 3.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.43333333333333335, 0.5)
+ 
+S, D, T, HR, W:  2.5 3.0 3.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4222222222222222, 0.4720496894409938)
+ 
+S, D, T, HR, W:  2.5 3.0 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.5222222222222223, 0.5683229813664596)
+ 
+S, D, T, HR, W:  2.5 3.0 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.4722222222222222, 0.5248447204968945)
+ 
+S, D, T, HR, W:  2.5 3.0 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.46111111111111114, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.0 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.45, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.0 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.4388888888888889, 0.5031055900621118)
+ 
+S, D, T, HR, W:  2.5 3.0 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.528169014084507, 0.3888888888888889, 0.4503105590062112)
+ 
+S, D, T, HR, W:  2.5 3.0 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4166666666666667, 0.468944099378882)
+ 
+S, D, T, HR, W:  2.5 3.0 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.46111111111111114, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.5 3.0 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.45, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.0 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.4388888888888889, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.0 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.43333333333333335, 0.5062111801242236)
+ 
+S, D, T, HR, W:  2.5 3.0 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4, 0.45962732919254656)
+ 
+S, D, T, HR, W:  2.5 3.0 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.5, 0.5217391304347826)
+ 
+S, D, T, HR, W:  2.5 3.0 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.45, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.0 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.43333333333333335, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.0 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.43333333333333335, 0.5062111801242236)
+ 
+S, D, T, HR, W:  2.5 3.0 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4, 0.45962732919254656)
+ 
+S, D, T, HR, W:  2.5 3.0 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.49444444444444446, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.5 3.0 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.43333333333333335, 0.5062111801242236)
+ 
+S, D, T, HR, W:  2.5 3.0 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.43333333333333335, 0.5031055900621118)
+ 
+S, D, T, HR, W:  2.5 3.0 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.4777777777777778, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.0 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5422535211267606, 0.4888888888888889, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 3.0 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5774647887323944, 0.42777777777777776, 0.4937888198757764)
+ 
+S, D, T, HR, W:  2.5 3.0 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.48333333333333334, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 3.0 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5422535211267606, 0.49444444444444446, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.5 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5704225352112676, 0.4666666666666667, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 3.5 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.46111111111111114, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.5 3.5 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.5333333333333333, 0.5652173913043478)
+ 
+S, D, T, HR, W:  2.5 3.5 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6, 0.6118012422360248)
+ 
+S, D, T, HR, W:  2.5 3.5 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4722222222222222, 0.5)
+ 
+S, D, T, HR, W:  2.5 3.5 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5422535211267606, 0.4722222222222222, 0.5031055900621118)
+ 
+S, D, T, HR, W:  2.5 3.5 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.48333333333333334, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 3.5 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.45555555555555555, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.5 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.5277777777777778, 0.5652173913043478)
+ 
+S, D, T, HR, W:  2.5 3.5 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4888888888888889, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.5 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.48333333333333334, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 3.5 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.4777777777777778, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.5 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.4777777777777778, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.5166666666666667, 0.5590062111801242)
+ 
+S, D, T, HR, W:  2.5 3.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4777777777777778, 0.5031055900621118)
+ 
+S, D, T, HR, W:  2.5 3.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.4888888888888889, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5563380281690141, 0.48333333333333334, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.4888888888888889, 0.515527950310559)
+ 
+S, D, T, HR, W:  2.5 3.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.4777777777777778, 0.5031055900621118)
+ 
+S, D, T, HR, W:  2.5 3.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5422535211267606, 0.4888888888888889, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 3.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.48333333333333334, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 3.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5140845070422535, 0.5055555555555555, 0.5093167701863354)
+ 
+S, D, T, HR, W:  2.5 3.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5422535211267606, 0.4777777777777778, 0.5062111801242236)
+ 
+S, D, T, HR, W:  2.5 3.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5633802816901409, 0.5, 0.5279503105590062)
+ 
+S, D, T, HR, W:  2.5 3.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.528169014084507, 0.5, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 4.0 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.6055555555555555, 0.6086956521739131)
+ 
+S, D, T, HR, W:  2.5 4.0 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.5388888888888889, 0.5683229813664596)
+ 
+S, D, T, HR, W:  2.5 4.0 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5444444444444444, 0.5652173913043478)
+ 
+S, D, T, HR, W:  2.5 4.0 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.49444444444444446, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.5 4.0 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5211267605633803, 0.5166666666666667, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.5 4.0 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5422535211267606, 0.5388888888888889, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.5 4.0 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.5388888888888889, 0.5683229813664596)
+ 
+S, D, T, HR, W:  2.5 4.0 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.5055555555555555, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.5 4.0 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5563380281690141, 0.4888888888888889, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.5 4.0 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5211267605633803, 0.5166666666666667, 0.5186335403726708)
+ 
+S, D, T, HR, W:  2.5 4.0 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.5388888888888889, 0.5434782608695652)
+ 
+S, D, T, HR, W:  2.5 4.0 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.528169014084507, 0.4888888888888889, 0.5062111801242236)
+ 
+S, D, T, HR, W:  2.5 4.0 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5140845070422535, 0.5, 0.5062111801242236)
+ 
+S, D, T, HR, W:  2.5 4.0 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.5166666666666667, 0.5248447204968945)
+ 
+S, D, T, HR, W:  2.5 4.0 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.5222222222222223, 0.5341614906832298)
+ 
+S, D, T, HR, W:  2.5 4.0 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5211267605633803, 0.5055555555555555, 0.5124223602484472)
+ 
+S, D, T, HR, W:  2.5 4.0 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.5111111111111111, 0.5217391304347826)
+ 
+S, D, T, HR, W:  2.5 4.0 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5492957746478874, 0.5111111111111111, 0.5279503105590062)
+ 
+S, D, T, HR, W:  2.5 4.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.5444444444444444, 0.5714285714285714)
+ 
+S, D, T, HR, W:  2.5 4.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5333333333333333, 0.5590062111801242)
+ 
+S, D, T, HR, W:  2.5 4.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5352112676056338, 0.5222222222222223, 0.5279503105590062)
+ 
+S, D, T, HR, W:  2.5 4.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5633802816901409, 0.5388888888888889, 0.5496894409937888)
+ 
+S, D, T, HR, W:  2.5 4.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5704225352112676, 0.5611111111111111, 0.5652173913043478)
+ 
+S, D, T, HR, W:  2.5 4.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5422535211267606, 0.5111111111111111, 0.5248447204968945)
+ 
+S, D, T, HR, W:  2.5 4.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5633802816901409, 0.5111111111111111, 0.5341614906832298)
+ 
+S, D, T, HR, W:  2.5 4.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5704225352112676, 0.5333333333333333, 0.5496894409937888)
+ 
+S, D, T, HR, W:  2.5 4.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5704225352112676, 0.5555555555555556, 0.562111801242236)
+ 
+S, D, T, HR, W:  2.5 4.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5704225352112676, 0.5166666666666667, 0.5403726708074534)
+ 
+S, D, T, HR, W:  2.5 4.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5704225352112676, 0.5333333333333333, 0.5496894409937888)
+ 
+S, D, T, HR, W:  2.5 4.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5704225352112676, 0.5555555555555556, 0.562111801242236)
+ 
+S, D, T, HR, W:  3.0 3.5 4.0 4.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5222222222222223, 0.5527950310559007)
+ 
+S, D, T, HR, W:  3.0 3.5 4.0 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5222222222222223, 0.5496894409937888)
+ 
+S, D, T, HR, W:  3.0 3.5 4.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5333333333333333, 0.5559006211180124)
+ 
+S, D, T, HR, W:  3.0 3.5 4.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5555555555555556, 0.5714285714285714)
+ 
+S, D, T, HR, W:  3.0 3.5 4.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5722222222222222, 0.5807453416149069)
+ 
+S, D, T, HR, W:  3.0 3.5 4.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.6, 0.593167701863354)
+ 
+S, D, T, HR, W:  3.0 3.5 4.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.6111111111111112, 0.6055900621118012)
+ 
+S, D, T, HR, W:  3.0 3.5 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5222222222222223, 0.5496894409937888)
+ 
+S, D, T, HR, W:  3.0 3.5 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.5333333333333333, 0.562111801242236)
+ 
+S, D, T, HR, W:  3.0 3.5 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5555555555555556, 0.5714285714285714)
+ 
+S, D, T, HR, W:  3.0 3.5 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5777777777777777, 0.5838509316770186)
+ 
+S, D, T, HR, W:  3.0 3.5 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5888888888888889, 0.5869565217391305)
+ 
+S, D, T, HR, W:  3.0 3.5 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.5722222222222222, 0.5838509316770186)
+ 
+S, D, T, HR, W:  3.0 3.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.5333333333333333, 0.562111801242236)
+ 
+S, D, T, HR, W:  3.0 3.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5611111111111111, 0.5714285714285714)
+ 
+S, D, T, HR, W:  3.0 3.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5666666666666667, 0.577639751552795)
+ 
+S, D, T, HR, W:  3.0 3.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5944444444444444, 0.5900621118012422)
+ 
+S, D, T, HR, W:  3.0 3.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.5777777777777777, 0.5869565217391305)
+ 
+S, D, T, HR, W:  3.0 3.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5666666666666667, 0.577639751552795)
+ 
+S, D, T, HR, W:  3.0 3.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5777777777777777, 0.5838509316770186)
+ 
+S, D, T, HR, W:  3.0 3.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5774647887323944, 0.55, 0.562111801242236)
+ 
+S, D, T, HR, W:  3.0 3.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5915492957746479, 0.5944444444444444, 0.593167701863354)
+ 
+S, D, T, HR, W:  3.0 3.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.5944444444444444, 0.5993788819875776)
+ 
+S, D, T, HR, W:  3.0 3.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.5845070422535211, 0.5611111111111111, 0.5714285714285714)
+ 
+S, D, T, HR, W:  3.0 3.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.5985915492957746, 0.5888888888888889, 0.593167701863354)
+ 
+S, D, T, HR, W:  3.0 4.0 4.5 5.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6056338028169014, 0.5388888888888889, 0.5683229813664596)
+ 
+S, D, T, HR, W:  3.0 4.0 4.5 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.55, 0.577639751552795)
+ 
+S, D, T, HR, W:  3.0 4.0 4.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.6, 0.6086956521739131)
+ 
+S, D, T, HR, W:  3.0 4.0 4.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6222222222222222, 0.6242236024844721)
+ 
+S, D, T, HR, W:  3.0 4.0 4.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6222222222222222, 0.6242236024844721)
+ 
+S, D, T, HR, W:  3.0 4.0 4.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6408450704225352, 0.6388888888888888, 0.639751552795031)
+ 
+S, D, T, HR, W:  3.0 4.0 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.5833333333333334, 0.6024844720496895)
+ 
+S, D, T, HR, W:  3.0 4.0 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.6055555555555555, 0.6118012422360248)
+ 
+S, D, T, HR, W:  3.0 4.0 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6222222222222222, 0.6242236024844721)
+ 
+S, D, T, HR, W:  3.0 4.0 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6338028169014085, 0.6222222222222222, 0.6273291925465838)
+ 
+S, D, T, HR, W:  3.0 4.0 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6166666666666667, 0.6211180124223602)
+ 
+S, D, T, HR, W:  3.0 4.0 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6126760563380281, 0.6111111111111112, 0.6118012422360248)
+ 
+S, D, T, HR, W:  3.0 4.0 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6277777777777778, 0.6273291925465838)
+ 
+S, D, T, HR, W:  3.0 4.0 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6338028169014085, 0.6222222222222222, 0.6273291925465838)
+ 
+S, D, T, HR, W:  3.0 4.0 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6111111111111112, 0.6180124223602484)
+ 
+S, D, T, HR, W:  3.0 4.0 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6277777777777778, 0.6273291925465838)
+ 
+S, D, T, HR, W:  3.0 4.0 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6197183098591549, 0.5833333333333334, 0.5993788819875776)
+ 
+S, D, T, HR, W:  3.0 4.0 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6267605633802817, 0.6, 0.6118012422360248)
+ 
+S, D, T, HR, W:  3.0 4.5 5.0 5.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6338028169014085, 0.6055555555555555, 0.6180124223602484)
+ 
+S, D, T, HR, W:  3.0 4.5 5.0 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6338028169014085, 0.6333333333333333, 0.6335403726708074)
+ 
+S, D, T, HR, W:  3.0 4.5 5.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6549295774647887, 0.6388888888888888, 0.6459627329192547)
+ 
+S, D, T, HR, W:  3.0 4.5 5.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6549295774647887, 0.65, 0.6521739130434783)
+ 
+S, D, T, HR, W:  3.0 4.5 5.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6619718309859155, 0.65, 0.65527950310559)
+ 
+S, D, T, HR, W:  3.0 4.5 5.5 6.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6338028169014085, 0.6333333333333333, 0.6335403726708074)
+ 
+S, D, T, HR, W:  3.0 4.5 5.5 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6549295774647887, 0.6388888888888888, 0.6459627329192547)
+ 
+S, D, T, HR, W:  3.0 4.5 5.5 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.6549295774647887, 0.65, 0.6521739130434783)
+ 
+S, D, T, HR, W:  3.0 4.5 5.5 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6690140845070423, 0.6166666666666667, 0.639751552795031)
+ 
+S, D, T, HR, W:  3.0 4.5 6.0 6.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6408450704225352, 0.6388888888888888, 0.639751552795031)
+ 
+S, D, T, HR, W:  3.0 4.5 6.0 7.0 1
+policy evaluation for elites, non-elites and totoal:  (0.647887323943662, 0.65, 0.6490683229813664)
+ 
+S, D, T, HR, W:  3.0 4.5 6.0 7.5 1
+policy evaluation for elites, non-elites and totoal:  (0.6549295774647887, 0.6111111111111112, 0.6304347826086957)
+0.9859154929577465 (1.5, 2.5, 3.0, 3.5, 1)
+1.0 (1.5, 2.0, 2.5, 3.0, 1)
+0.9937888198757764 (1.5, 2.0, 2.5, 3.0, 1)
